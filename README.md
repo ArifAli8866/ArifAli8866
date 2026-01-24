@@ -1,7 +1,11 @@
 <div align="center">
   
 <!-- Animated Banner with Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F3FBF,50:412991,100:FF6B6B&height=200&section=header&text=Arif%20Ali&fontSize=70&fontColor=fff&animation=twinkling&stroke=000&strokeWidth=2" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?
+  
+  
+  
+  type=waving&color=0:7F3FBF,50:412991,100:FF6B6B&height=200&section=header&text=Arif%20Ali&fontSize=70&fontColor=fff&animation=twinkling&stroke=000&strokeWidth=2" alt="Header" />
 
 <!-- Rainbow Typing Animation -->
 <h2 align="center">
@@ -41,42 +45,353 @@
 
 ---
 
-## 🎨 **About Me**
+## 🌟 **About Me**
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+<div style="background: linear-gradient(135deg, 
+    #667eea 0%, 
+    #764ba2 25%, 
+    #FF6B6B 50%, 
+    #FFD700 75%, 
+    #00C851 100%); 
+    padding: 35px; 
+    border-radius: 25px; 
+    margin: 25px 0; 
+    box-shadow: 0 15px 35px rgba(102, 126, 234, 0.4),
+                0 5px 15px rgba(0,0,0,0.3),
+                inset 0 0 20px rgba(255,255,255,0.1);
+    border: 3px solid rgba(255,255,255,0.3);
+    position: relative;
+    overflow: hidden;">
 
-<table>
+<!-- Animated Background Particles -->
+<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1;">
+  <div style="position: absolute; width: 20px; height: 20px; background: rgba(255,255,255,0.2); border-radius: 50%; top: 20%; left: 10%;"></div>
+  <div style="position: absolute; width: 15px; height: 15px; background: rgba(255,255,255,0.3); border-radius: 50%; top: 60%; left: 80%;"></div>
+  <div style="position: absolute; width: 25px; height: 25px; background: rgba(255,255,255,0.15); border-radius: 50%; top: 80%; left: 20%;"></div>
+</div>
+
+<div style="position: relative; z-index: 2;">
+<table style="width: 100%;">
   <tr>
-    <td width="65%">
-      <h2 style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">🚀 Aspiring Software Engineer</h2>
-      <p style="color: #f0f0f0; font-size: 1.1em;">
-        I'm a passionate <strong style="color: #FFD700;">Computer Science student</strong> at 
-        <strong style="color: #FFD700;">FAST NUCEIS</strong> with a strong interest in software engineering 
-        and cutting-edge technologies. I'm constantly learning and building projects to enhance my skills.
-      </p>
-      <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px; margin-top: 15px;">
-        <p style="color: #FF6B6B; font-weight: bold;">🔥 Currently focused on:</p>
-        <p style="color: white;">
-          <span style="color: #00FF88;">•</span> Mastering <strong>C++</strong> & <strong>Data Structures</strong><br>
-          <span style="color: #00FF88;">•</span> Building <strong>responsive web applications</strong><br>
-          <span style="color: #00FF88;">•</span> Exploring <strong>cloud computing & AWS</strong><br>
-          <span style="color: #00FF88;">•</span> Preparing for <strong>technical interviews</strong>
+    <td width="60%" style="vertical-align: top;">
+      <!-- Title with Gradient Text -->
+      <h2 style="
+        background: linear-gradient(45deg, #FFD700, #FF6B6B, #00FF88);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        font-size: 2.2em;
+        margin-bottom: 20px;
+        padding-bottom: 10px;
+        border-bottom: 3px solid rgba(255,255,255,0.2);
+        position: relative;">
+        🚀 Aspiring Software Engineer
+        <span style="position: absolute; bottom: -3px; left: 0; width: 100px; height: 3px; background: linear-gradient(90deg, #FF6B6B, #FFD700);"></span>
+      </h2>
+      
+      <!-- Bio with Animated Highlight -->
+      <div style="
+        background: rgba(0,0,0,0.3); 
+        padding: 20px; 
+        border-radius: 15px; 
+        margin-bottom: 20px;
+        border: 2px solid rgba(255,255,255,0.1);
+        box-shadow: inset 0 0 20px rgba(0,0,0,0.2);
+        position: relative;">
+        <p style="
+          color: #fff; 
+          font-size: 1.15em; 
+          line-height: 1.6;
+          text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">
+          I'm a passionate <span style="
+            background: linear-gradient(45deg, #FFD700, #FFA500);
+            padding: 2px 8px;
+            border-radius: 5px;
+            color: #000;
+            font-weight: bold;
+            animation: pulse 2s infinite;">Computer Science student</span> at 
+          <span style="
+            background: linear-gradient(45deg, #4285F4, #34A853);
+            padding: 2px 8px;
+            border-radius: 5px;
+            color: white;
+            font-weight: bold;">FAST NUCEIS</span> with a strong interest in 
+          <span style="
+            background: linear-gradient(45deg, #7F3FBF, #412991);
+            padding: 2px 8px;
+            border-radius: 5px;
+            color: white;
+            font-weight: bold;">software engineering</span> 
+          and <span style="
+            background: linear-gradient(45deg, #FF6B6B, #FF8E53);
+            padding: 2px 8px;
+            border-radius: 5px;
+            color: white;
+            font-weight: bold;">cutting-edge technologies</span>. 
+          I'm constantly learning and building projects to enhance my skills.
         </p>
       </div>
+      
+      <!-- Current Focus with Icon Cards -->
+      <div style="
+        background: linear-gradient(135deg, rgba(26, 26, 46, 0.8), rgba(22, 33, 62, 0.9)); 
+        padding: 20px; 
+        border-radius: 15px; 
+        margin-top: 20px;
+        border: 2px solid rgba(255,255,255,0.2);
+        box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
+        <h3 style="
+          color: #FF6B6B; 
+          margin-bottom: 15px; 
+          font-size: 1.4em;
+          display: flex;
+          align-items: center;
+          gap: 10px;">
+          <span style="
+            background: #FF6B6B;
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            display: inline-block;
+            animation: blink 1.5s infinite;"></span>
+          🔥 Currently focused on:
+        </h3>
+        
+        <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px;">
+          <div style="
+            background: linear-gradient(135deg, rgba(0, 89, 156, 0.3), rgba(127, 63, 191, 0.3));
+            padding: 15px;
+            border-radius: 10px;
+            border-left: 4px solid #00599C;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            transition: transform 0.3s;">
+            <span style="color: #00FF88; font-size: 1.5em;">⚡</span>
+            <div>
+              <strong style="color: white;">C++ Mastery</strong><br>
+              <small style="color: #FFD700;">Advanced Level</small>
+            </div>
+          </div>
+          
+          <div style="
+            background: linear-gradient(135deg, rgba(0, 200, 81, 0.3), rgba(0, 255, 136, 0.3));
+            padding: 15px;
+            border-radius: 10px;
+            border-left: 4px solid #00C851;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            transition: transform 0.3s;">
+            <span style="color: #00FF88; font-size: 1.5em;">🌐</span>
+            <div>
+              <strong style="color: white;">Web Dev</strong><br>
+              <small style="color: #FFD700;">React & Node.js</small>
+            </div>
+          </div>
+          
+          <div style="
+            background: linear-gradient(135deg, rgba(66, 133, 244, 0.3), rgba(52, 168, 83, 0.3));
+            padding: 15px;
+            border-radius: 10px;
+            border-left: 4px solid #4285F4;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            transition: transform 0.3s;">
+            <span style="color: #00FF88; font-size: 1.5em;">☁️</span>
+            <div>
+              <strong style="color: white;">Cloud & AWS</strong><br>
+              <small style="color: #FFD700;">Learning & Building</small>
+            </div>
+          </div>
+          
+          <div style="
+            background: linear-gradient(135deg, rgba(255, 107, 107, 0.3), rgba(255, 142, 83, 0.3));
+            padding: 15px;
+            border-radius: 10px;
+            border-left: 4px solid #FF6B6B;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            transition: transform 0.3s;">
+            <span style="color: #00FF88; font-size: 1.5em;">🎯</span>
+            <div>
+              <strong style="color: white;">Tech Interviews</strong><br>
+              <small style="color: #FFD700;">DSA Practice</small>
+            </div>
+          </div>
+        </div>
+      </div>
     </td>
-    <td width="35%" align="center">
-      <div style="background: rgba(255,255,255,0.1); padding: 20px; border-radius: 15px; border: 2px solid #FFD700;">
-        <h3 style="color: #FFD700;">🏆 GitHub Trophies</h3>
-        <img src="https://github-profile-trophy.vercel.app/?username=ArifAli8866&theme=onedark&no-frame=true&row=2&column=3&margin-w=5&margin-h=5" alt="Trophies" />
+    
+    <!-- GitHub Trophies with Enhanced Design -->
+    <td width="40%" align="center" style="vertical-align: top; padding-left: 30px;">
+      <div style="
+        background: rgba(0,0,0,0.4); 
+        padding: 25px; 
+        border-radius: 20px;
+        border: 3px solid rgba(255, 215, 0, 0.4);
+        box-shadow: 0 10px 25px rgba(0,0,0,0.4),
+                    inset 0 0 30px rgba(255,215,0,0.1);
+        backdrop-filter: blur(5px);
+        position: relative;">
+        
+        <!-- Trophy Icon -->
+        <div style="
+          position: absolute;
+          top: -15px;
+          left: 50%;
+          transform: translateX(-50%);
+          background: linear-gradient(45deg, #FFD700, #FFA500);
+          width: 40px;
+          height: 40px;
+          border-radius: 50%;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          box-shadow: 0 5px 15px rgba(255, 215, 0, 0.5);">
+          <span style="font-size: 1.5em;">🏆</span>
+        </div>
+        
+        <h3 style="
+          color: #FFD700; 
+          margin-bottom: 20px; 
+          font-size: 1.6em;
+          text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+          background: linear-gradient(45deg, #FFD700, #FFA500);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          background-clip: text;">
+          GitHub Achievements
+        </h3>
+        
+        <!-- Trophies with Glow Effect -->
+        <div style="
+          background: rgba(30, 30, 46, 0.7);
+          padding: 15px;
+          border-radius: 15px;
+          border: 2px solid rgba(255,255,255,0.1);
+          box-shadow: inset 0 0 20px rgba(0,0,0,0.3);">
+          <img src="https://github-profile-trophy.vercel.app/?username=ArifAli8866&theme=matrix&no-frame=true&row=2&column=3&margin-w=10&margin-h=10" 
+               alt="Trophies" 
+               style="
+                 width: 100%;
+                 filter: drop-shadow(0 5px 10px rgba(0,255,136,0.3))
+                        drop-shadow(0 0 20px rgba(127,63,191,0.2));" />
+        </div>
+        
+        <!-- Stats Below Trophies -->
+        <div style="
+          display: flex;
+          justify-content: space-between;
+          margin-top: 20px;
+          padding-top: 15px;
+          border-top: 2px dashed rgba(255,255,255,0.2);">
+          
+          <div style="text-align: center;">
+            <div style="
+              background: linear-gradient(45deg, #00C851, #00FF88);
+              width: 40px;
+              height: 40px;
+              border-radius: 50%;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              margin: 0 auto 5px;
+              box-shadow: 0 5px 15px rgba(0,200,81,0.3);">
+              <span style="color: white; font-weight: bold;">🌟</span>
+            </div>
+            <strong style="color: #FFD700;">Stars</strong>
+          </div>
+          
+          <div style="text-align: center;">
+            <div style="
+              background: linear-gradient(45deg, #4285F4, #34A853);
+              width: 40px;
+              height: 40px;
+              border-radius: 50%;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              margin: 0 auto 5px;
+              box-shadow: 0 5px 15px rgba(66,133,244,0.3);">
+              <span style="color: white; font-weight: bold;">📂</span>
+            </div>
+            <strong style="color: #FFD700;">Repos</strong>
+          </div>
+          
+          <div style="text-align: center;">
+            <div style="
+              background: linear-gradient(45deg, #FF6B6B, #FF8E53);
+              width: 40px;
+              height: 40px;
+              border-radius: 50%;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              margin: 0 auto 5px;
+              box-shadow: 0 5px 15px rgba(255,107,107,0.3);">
+              <span style="color: white; font-weight: bold;">🔥</span>
+            </div>
+            <strong style="color: #FFD700;">Streak</strong>
+          </div>
+          
+        </div>
+      </div>
+      
+      <!-- Coding Hours -->
+      <div style="
+        background: linear-gradient(135deg, rgba(127, 63, 191, 0.3), rgba(65, 41, 145, 0.4));
+        padding: 20px;
+        border-radius: 15px;
+        margin-top: 20px;
+        border: 2px solid rgba(127,63,191,0.5);
+        box-shadow: 0 8px 20px rgba(127,63,191,0.3);">
+        <h4 style="color: #FFD700; margin-bottom: 10px; font-size: 1.2em;">
+          ⏰ Weekly Coding Hours
+        </h4>
+        <div style="display: flex; justify-content: space-between; height: 30px; gap: 5px;">
+          <div style="flex: 1; background: rgba(255,255,255,0.1); border-radius: 5px; overflow: hidden;">
+            <div style="height: 100%; width: 85%; background: linear-gradient(to right, #00C851, #00FF88);"></div>
+          </div>
+          <div style="flex: 1; background: rgba(255,255,255,0.1); border-radius: 5px; overflow: hidden;">
+            <div style="height: 100%; width: 90%; background: linear-gradient(to right, #4285F4, #34A853);"></div>
+          </div>
+          <div style="flex: 1; background: rgba(255,255,255,0.1); border-radius: 5px; overflow: hidden;">
+            <div style="height: 100%; width: 75%; background: linear-gradient(to right, #FF6B6B, #FF8E53);"></div>
+          </div>
+          <div style="flex: 1; background: rgba(255,255,255,0.1); border-radius: 5px; overflow: hidden;">
+            <div style="height: 100%; width: 95%; background: linear-gradient(to right, #7F3FBF, #412991);"></div>
+          </div>
+        </div>
+        <p style="color: #f0f0f0; font-size: 0.9em; margin-top: 10px; text-align: center;">
+          Average: <strong style="color: #FFD700;">20+ hours/week</strong>
+        </p>
       </div>
     </td>
   </tr>
 </table>
+</div>
 
 </div>
 
----
+<!-- Add CSS animations -->
+<style>
+  @keyframes pulse {
+    0% { box-shadow: 0 0 0 0 rgba(255, 215, 0, 0.7); }
+    70% { box-shadow: 0 0 0 10px rgba(255, 215, 0, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(255, 215, 0, 0); }
+  }
+  
+  @keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.5; }
+  }
+</style>
 
+---
 ## 🌈 **Tech Stack**
 
 ### 🟣 **Programming Languages**
