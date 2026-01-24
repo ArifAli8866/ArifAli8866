@@ -47,15 +47,15 @@
 
 <!-- Main Profile Visual -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&height=70&lines=Hello+👋;I'm+A+Developer;Welcome+To+My+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&height=70&lines=Hello+👋;I'm+Arif+Ali;Welcome+To+My+Profile!" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <!-- Stats Boxes -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=7F3FBF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArifAli8866&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=7F3FBF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifAli8866&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B"/>
 </div>
 
 <br/>
@@ -94,7 +94,7 @@
 
 <div align="center">
   
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=radical&bg_color=0d1117&color=FF6B6B&line=7F3FBF&point=FFFFFF&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArifAli8866&theme=radical&bg_color=0d1117&color=FF6B6B&line=7F3FBF&point=FFFFFF&area=true&hide_border=true)
 
 </div>
 
@@ -105,7 +105,7 @@
 
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
+![GitHub Streak](https://streak-stats.demolab.com?user=ArifAli8866&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
 
 </div>
 
@@ -116,7 +116,7 @@
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&bg_color=0D1117&title_color=FF6B6B)
+![trophy](https://github-profile-trophy.vercel.app/?username=ArifAli8866&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&bg_color=0D1117&title_color=FF6B6B)
 
 </div>
 
@@ -130,9 +130,9 @@
 | | |
 |:---:|:---:|
 | **📂 Repositories** | **⭐ Stars** |
-| ![Repos](https://img.shields.io/badge/dynamic/json?color=7F3FBF&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYOUR_USERNAME&style=for-the-badge) | ![Stars](https://img.shields.io/badge/dynamic/json?color=FF6B6B&label=Total%20Stars&query=&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYOUR_USERNAME%2Frepos&style=for-the-badge&query=$..stargazers_count) |
+| ![Repos](https://img.shields.io/badge/dynamic/json?color=7F3FBF&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FArifAli8866&style=for-the-badge) | ![Stars](https://img.shields.io/badge/dynamic/json?color=FF6B6B&label=Total%20Stars&query=&url=https%3A%2F%2Fapi.github.com%2Fusers%2FArifAli8866%2Frepos&style=for-the-badge&query=$..stargazers_count) |
 | **📝 Commits** | **📦 Contributions** |
-| ![Commits](https://img.shields.io/badge/dynamic/json?color=7F3FBF&label=Total%20Commits&query=total&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYOUR_USERNAME%2Fevents%2Fpublic&style=for-the-badge) | ![Contributions](https://img.shields.io/badge/dynamic/json?color=FF6B6B&label=This%20Year&query=total&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYOUR_USERNAME%2Fevents%2Fpublic&style=for-the-badge) |
+| ![Commits](https://img.shields.io/badge/dynamic/json?color=7F3FBF&label=Total%20Commits&query=total&url=https%3A%2F%2Fapi.github.com%2Fusers%2FArifAli8866%2Fevents%2Fpublic&style=for-the-badge) | ![Contributions](https://img.shields.io/badge/dynamic/json?color=FF6B6B&label=This%20Year&query=total&url=https%3A%2F%2Fapi.github.com%2Fusers%2FArifAli8866%2Fevents%2Fpublic&style=for-the-badge) |
 
 </div>
 
@@ -163,21 +163,13 @@
 <!-- Visual Footer -->
 <div align="center">
   
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=FF6B6B&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=ArifAli8866&color=FF6B6B&style=flat-square" alt="Profile Views" />
   
-![Snake Animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+<!-- Snake Animation - You need to set this up separately -->
+![Snake Animation](https://github.com/ArifAli8866/ArifAli8866/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 </div>
-
-
-
-
-
-
-
-
-
 
 
 
