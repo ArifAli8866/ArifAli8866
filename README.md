@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Animated Banner with Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F3FBF,25:412991,50:FF6B6B,75:00C851,100:4285F4&height=220&section=header&text=Arif%20Ali%20|%20Software%20Engineer&fontSize=75&fontColor=fff&animation=twinkling&stroke=fff&strokeWidth=3&fontAlignY=45&desc=🚀%20Aspiring%20Software%20Engineer%20%7C%20%F0%9F%92%BB%20C++%20Developer%20%7C%20%F0%9F%93%9A%20FAST%20NUCEIS&descSize=25&descAlignY=70" alt="Header" />
+<!-- Animated Banner with Proper Sizing -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F3FBF,25:412991,50:FF6B6B,75:00C851,100:4285F4&height=180&section=header&text=Arif%20Ali&fontSize=60&fontColor=fff&animation=twinkling&stroke=fff&strokeWidth=2&fontAlignY=40&desc=Software%20Engineer&descSize=20&descAlignY=65" alt="Header" />
 
 <!-- Rainbow Typing Animation -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=900&lines=🌈+Hey+there!+I'm+Arif+Ali;💜+Passionate+C+++%26+Full-Stack+Developer;🚀+Aspiring+Software+Engineer;🔥+Apache+Contributor+%26+Open-Source+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=800&lines=🌈+Hey+there!+I'm+Arif+Ali;💜+Passionate+C+++%26+Full-Stack+Developer;🚀+Aspiring+Software+Engineer;🔥+Apache+Contributor+%26+Open-Source+Lover" alt="Typing SVG" />
 </h2>
 
 <!-- Colorful Profile Stats -->
@@ -19,24 +19,24 @@
 <!-- Gradient Contact Badges -->
 <p align="center">
   <a href="https://portfolio-lovat-five-67.vercel.app" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white&gradient=black,gray" alt="Portfolio">
+    <img src="https://custom-icon-badges.demolab.com/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://linkedin.com/in/arif-ali-23a38032a" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&gradient=blue,lightblue" alt="LinkedIn">
+    <img src="https://custom-icon-badges.demolab.com/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/ArifAli8866" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/🐱%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white&gradient=black,gray" alt="GitHub">
+    <img src="https://custom-icon-badges.demolab.com/badge/🐱%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:2arif2143055@gmail.com" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/📧%20Email-D14836?style=for-the-badge&logo=mail&logoColor=white&gradient=red,orange" alt="Email">
+    <img src="https://custom-icon-badges.demolab.com/badge/📧%20Email-D14836?style=for-the-badge&logo=mail&logoColor=white" alt="Email">
   </a>
 </p>
 
 <!-- Colorful GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArifAli8866&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=7F3FBF&icon_color=FF6B6B&text_color=fff&border_color=7F3FBF" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArifAli8866&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=7F3FBF&icon_color=FF6B6B&text_color=fff" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ArifAli8866&theme=dracula&hide_border=true&background=1a1a2e&ring=FF6B6B&fire=FF6B6B&currStreakLabel=7F3FBF" alt="GitHub Streak" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifAli8866&layout=compact&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=7F3FBF&text_color=fff&border_color=7F3FBF&langs_count=8" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifAli8866&layout=compact&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=7F3FBF&text_color=fff&langs_count=6" alt="Top Languages" height="165" />
 </div>
 
 </div>
