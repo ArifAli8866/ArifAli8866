@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 <!-- Animated Banner with Gradient -->
 <img src="https://capsule-render.vercel.app/api?
   
@@ -321,7 +321,7 @@
             </div>
             <strong style="color: #FFD700;">Repos</strong>
           </div>
-          
+          --
           <div style="text-align: center;">
             <div style="
               background: linear-gradient(45deg, #FF6B6B, #FF8E53);
@@ -337,10 +337,10 @@
             </div>
             <strong style="color: #FFD700;">Streak</strong>
           </div>
-          
+          ---
         </div>
       </div>
-      
+      ---
       <!-- Coding Hours -->
       <div style="
         background: linear-gradient(135deg, rgba(127, 63, 191, 0.3), rgba(65, 41, 145, 0.4));
@@ -376,7 +376,7 @@
 </div>
 
 </div>
-
+---
 <!-- Add CSS animations -->
 <style>
   @keyframes pulse {
