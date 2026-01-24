@@ -463,3 +463,313 @@
 
 <!-- Rest of the sections continue with same colorful styling -->
 <!-- [Education, Languages & Stats, Let's Connect sections would follow with similar colorful styling] -->
+
+
+---
+
+## 📚 **Education**
+
+<div align="center" style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%); padding: 30px; border-radius: 20px; margin: 20px 0; border: 2px solid #00FF88; box-shadow: 0 10px 30px rgba(0, 255, 136, 0.2);">
+
+<h2 style="color: #00FF88; margin-bottom: 25px; text-shadow: 0 2px 4px rgba(0,0,0,0.5);">🎓 Academic Journey</h2>
+
+<table style="width: 100%; border-collapse: separate; border-spacing: 0 15px;">
+  <!-- FAST NUCEIS -->
+  <tr style="background: linear-gradient(90deg, rgba(66, 133, 244, 0.2) 0%, rgba(127, 63, 191, 0.2) 100%); border-radius: 10px;">
+    <td style="padding: 20px; width: 25%;">
+      <div style="background: #4285F4; color: white; padding: 10px; border-radius: 10px; text-align: center; font-weight: bold;">
+        🏛️ FAST NUCEIS
+      </div>
+    </td>
+    <td style="padding: 20px; color: #00FF88; font-weight: bold; width: 35%;">
+      Bachelor of Computer Science
+    </td>
+    <td style="padding: 20px; color: #FFD700; width: 20%;">
+      2024 - 2028
+    </td>
+    <td style="padding: 20px; width: 20%;">
+      <div style="background: #4285F4; color: white; padding: 10px 20px; border-radius: 20px; font-weight: bold; text-align: center;">
+        🚀 In Progress
+      </div>
+    </td>
+  </tr>
+  
+  <!-- Pre-Engineering -->
+  <tr style="background: linear-gradient(90deg, rgba(0, 200, 81, 0.2) 0%, rgba(0, 255, 136, 0.2) 100%); border-radius: 10px;">
+    <td style="padding: 20px;">
+      <div style="background: #00C851; color: white; padding: 10px; border-radius: 10px; text-align: center; font-weight: bold;">
+        🏫 GBHSS, Sarhad
+      </div>
+    </td>
+    <td style="padding: 20px; color: #00FF88; font-weight: bold;">
+      Intermediate (Pre-Engineering)
+    </td>
+    <td style="padding: 20px; color: #FFD700;">
+      2022 - 2024
+    </td>
+    <td style="padding: 20px;">
+      <div style="background: #00C851; color: white; padding: 10px 20px; border-radius: 20px; font-weight: bold; text-align: center;">
+        ⭐ A1 Grade
+      </div>
+    </td>
+  </tr>
+  
+  <!-- Matriculation -->
+  <tr style="background: linear-gradient(90deg, rgba(255, 107, 107, 0.2) 0%, rgba(255, 142, 83, 0.2) 100%); border-radius: 10px;">
+    <td style="padding: 20px;">
+      <div style="background: #FF6B6B; color: white; padding: 10px; border-radius: 10px; text-align: center; font-weight: bold;">
+        🏫 GBHSS, Sarhad
+      </div>
+    </td>
+    <td style="padding: 20px; color: #00FF88; font-weight: bold;">
+      Matriculation (Science)
+    </td>
+    <td style="padding: 20px; color: #FFD700;">
+      2020 - 2022
+    </td>
+    <td style="padding: 20px;">
+      <div style="background: #00C851; color: white; padding: 10px 20px; border-radius: 20px; font-weight: bold; text-align: center;">
+        ⭐ A1 Grade
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🌍 **Languages & Quick Facts**
+
+<div align="center">
+
+<table>
+  <tr>
+    <!-- Languages -->
+    <td width="50%">
+      <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 25px; border-radius: 15px; margin: 10px; border: 2px solid #6C63FF; box-shadow: 0 8px 25px rgba(108, 99, 255, 0.3);">
+        <h3 style="color: #6C63FF; margin-bottom: 15px;">🗣️ Languages I Speak</h3>
+        <p>
+          <span style="background: linear-gradient(135deg, #008000 0%, #00C851 100%); color: white; padding: 8px 15px; border-radius: 20px; display: inline-block; margin: 5px;">
+            🇵🇰 Urdu (Native)
+          </span>
+          <span style="background: linear-gradient(135deg, #FF6B35 0%, #FF8E53 100%); color: white; padding: 8px 15px; border-radius: 20px; display: inline-block; margin: 5px;">
+            🇵🇰 Punjabi (Native)
+          </span>
+        </p>
+        <p>
+          <span style="background: linear-gradient(135deg, #4A90E2 0%, #4285F4 100%); color: white; padding: 8px 15px; border-radius: 20px; display: inline-block; margin: 5px;">
+            🇵🇰 Sindhi (Native)
+          </span>
+          <span style="background: linear-gradient(135deg, #FFD700 0%, #FFEAA7 100%); color: #333; padding: 8px 15px; border-radius: 20px; display: inline-block; margin: 5px;">
+            🇬🇧 English (Intermediate)
+          </span>
+        </p>
+      </div>
+    </td>
+    
+    <!-- Quick Stats -->
+    <td width="50%">
+      <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 25px; border-radius: 15px; margin: 10px; border: 2px solid #FF6B6B; box-shadow: 0 8px 25px rgba(255, 107, 107, 0.3);">
+        <h3 style="color: #FF6B6B; margin-bottom: 15px;">📊 Quick Stats</h3>
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px;">
+          <div style="background: rgba(66, 133, 244, 0.2); padding: 15px; border-radius: 10px; border: 1px solid #4285F4;">
+            <p style="color: #4285F4; font-weight: bold; margin: 0;">🏢 Internships</p>
+            <p style="color: #FFD700; font-size: 1.5em; margin: 5px 0;">3</p>
+            <p style="color: #f0f0f0; font-size: 0.9em; margin: 0;">Completed</p>
+          </div>
+          <div style="background: rgba(0, 200, 81, 0.2); padding: 15px; border-radius: 10px; border: 1px solid #00C851;">
+            <p style="color: #00C851; font-weight: bold; margin: 0;">📜 Certifications</p>
+            <p style="color: #FFD700; font-size: 1.5em; margin: 5px 0;">10+</p>
+            <p style="color: #f0f0f0; font-size: 0.9em; margin: 0;">Earned</p>
+          </div>
+          <div style="background: rgba(255, 107, 107, 0.2); padding: 15px; border-radius: 10px; border: 1px solid #FF6B6B;">
+            <p style="color: #FF6B6B; font-weight: bold; margin: 0;">💻 Projects</p>
+            <p style="color: #FFD700; font-size: 1.5em; margin: 5px 0;">15+</p>
+            <p style="color: #f0f0f0; font-size: 0.9em; margin: 0;">Built</p>
+          </div>
+          <div style="background: rgba(127, 63, 191, 0.2); padding: 15px; border-radius: 10px; border: 1px solid #7F3FBF;">
+            <p style="color: #7F3FBF; font-weight: bold; margin: 0;">⌨️ Typing Speed</p>
+            <p style="color: #FFD700; font-size: 1.5em; margin: 5px 0;">50+</p>
+            <p style="color: #f0f0f0; font-size: 0.9em; margin: 0;">WPM</p>
+          </div>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## ✨ **GitHub Contributions Calendar**
+
+<div align="center" style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%); padding: 30px; border-radius: 20px; margin: 20px 0; border: 2px solid #FFD700;">
+
+<h2 style="color: #FFD700; margin-bottom: 20px; text-shadow: 0 2px 4px rgba(0,0,0,0.5);">📅 Coding Activity</h2>
+
+<div style="background: rgba(255, 215, 0, 0.1); padding: 20px; border-radius: 15px; border: 1px solid #FFD700;">
+  <p style="color: #f0f0f0; text-align: center; margin-bottom: 15px;">
+    <strong style="color: #00FF88;">Recent Contribution Pattern</strong>
+  </p>
+  
+  <!-- Weekly Activity Bars -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 30px; height: 100px; background: linear-gradient(to top, #00C851 25%, transparent 25%); border-radius: 5px; border: 1px solid #00C851;"></div>
+      <span style="color: #FFD700; margin-top: 5px;">Mon</span>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 30px; height: 100px; background: linear-gradient(to top, #4285F4 50%, transparent 50%); border-radius: 5px; border: 1px solid #4285F4;"></div>
+      <span style="color: #FFD700; margin-top: 5px;">Tue</span>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 30px; height: 100px; background: linear-gradient(to top, #7F3FBF 75%, transparent 75%); border-radius: 5px; border: 1px solid #7F3FBF;"></div>
+      <span style="color: #FFD700; margin-top: 5px;">Wed</span>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 30px; height: 100px; background: linear-gradient(to top, #00FF88 85%, transparent 85%); border-radius: 5px; border: 1px solid #00FF88;"></div>
+      <span style="color: #FFD700; margin-top: 5px;">Thu</span>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 30px; height: 100px; background: linear-gradient(to top, #FF6B6B 70%, transparent 70%); border-radius: 5px; border: 1px solid #FF6B6B;"></div>
+      <span style="color: #FFD700; margin-top: 5px;">Fri</span>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 30px; height: 100px; background: linear-gradient(to top, #FFD700 40%, transparent 40%); border-radius: 5px; border: 1px solid #FFD700;"></div>
+      <span style="color: #FFD700; margin-top: 5px;">Sat</span>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 30px; height: 100px; background: linear-gradient(to top, #6C63FF 20%, transparent 20%); border-radius: 5px; border: 1px solid #6C63FF;"></div>
+      <span style="color: #FFD700; margin-top: 5px;">Sun</span>
+    </div>
+  </div>
+  
+  <p style="color: #f0f0f0; text-align: center; font-size: 0.9em;">
+    <span style="color: #00FF88;">High Activity:</span> 
+    <span style="color: #FF6B6B;">Medium Activity:</span> 
+    <span style="color: #FFD700;">Low Activity:</span>
+  </p>
+</div>
+
+</div>
+
+---
+
+## 🤝 **Let's Connect!**
+
+<div align="center" style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%); padding: 40px; border-radius: 25px; margin: 20px 0; border: 3px solid #7F3FBF; box-shadow: 0 15px 35px rgba(127, 63, 191, 0.4);">
+
+<!-- Animated Connect Message -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=✨+Open+to+collaborations+and+opportunities!;🚀+Let's+build+something+amazing+together!;💬+Always+up+for+tech+discussions!" alt="Connect Message" />
+
+<br><br>
+
+<!-- Colorful Contact Cards -->
+<table width="100%">
+  <tr>
+    <!-- Email -->
+    <td width="25%" align="center">
+      <a href="mailto:2arif2143055@gmail.com" style="text-decoration: none;">
+        <div style="background: linear-gradient(135deg, #D14836 0%, #EA4335 100%); padding: 25px; border-radius: 15px; transition: transform 0.3s, box-shadow 0.3s; box-shadow: 0 8px 20px rgba(209, 72, 54, 0.4);" 
+             onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 15px 30px rgba(209, 72, 54, 0.6)'"
+             onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 20px rgba(209, 72, 54, 0.4)'">
+          <img src="https://img.icons8.com/color/96/000000/gmail.png" width="64" height="64" alt="Email" />
+          <br>
+          <strong style="color: white; font-size: 1.2em;">Email</strong>
+        </div>
+      </a>
+    </td>
+    
+    <!-- LinkedIn -->
+    <td width="25%" align="center">
+      <a href="https://linkedin.com/in/arif-ali-23a38032a" style="text-decoration: none;">
+        <div style="background: linear-gradient(135deg, #0077B5 0%, #00A0DC 100%); padding: 25px; border-radius: 15px; transition: transform 0.3s, box-shadow 0.3s; box-shadow: 0 8px 20px rgba(0, 119, 181, 0.4);"
+             onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 15px 30px rgba(0, 119, 181, 0.6)'"
+             onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 20px rgba(0, 119, 181, 0.4)'">
+          <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="64" height="64" alt="LinkedIn" />
+          <br>
+          <strong style="color: white; font-size: 1.2em;">LinkedIn</strong>
+        </div>
+      </a>
+    </td>
+    
+    <!-- GitHub -->
+    <td width="25%" align="center">
+      <a href="https://github.com/ArifAli8866" style="text-decoration: none;">
+        <div style="background: linear-gradient(135deg, #181717 0%, #333333 100%); padding: 25px; border-radius: 15px; transition: transform 0.3s, box-shadow 0.3s; box-shadow: 0 8px 20px rgba(24, 23, 23, 0.4);"
+             onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 15px 30px rgba(24, 23, 23, 0.6)'"
+             onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 20px rgba(24, 23, 23, 0.4)'">
+          <img src="https://img.icons8.com/color/96/000000/github.png" width="64" height="64" alt="GitHub" />
+          <br>
+          <strong style="color: white; font-size: 1.2em;">GitHub</strong>
+        </div>
+      </a>
+    </td>
+    
+    <!-- Portfolio -->
+    <td width="25%" align="center">
+      <a href="https://portfolio-lovat-five-67.vercel.app" style="text-decoration: none;">
+        <div style="background: linear-gradient(135deg, #000000 0%, #333333 100%); padding: 25px; border-radius: 15px; transition: transform 0.3s, box-shadow 0.3s; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);"
+             onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 15px 30px rgba(0, 0, 0, 0.6)'"
+             onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 20px rgba(0, 0, 0, 0.4)'">
+          <img src="https://img.icons8.com/color/96/000000/portfolio.png" width="64" height="64" alt="Portfolio" />
+          <br>
+          <strong style="color: white; font-size: 1.2em;">Portfolio</strong>
+        </div>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<!-- Interactive Message -->
+<div style="background: linear-gradient(135deg, rgba(127, 63, 191, 0.2) 0%, rgba(255, 107, 107, 0.2) 100%); padding: 20px; border-radius: 15px; border: 2px dashed #FFD700;">
+  <p style="color: #FFD700; text-align: center; font-size: 1.1em;">
+    💡 <strong>Looking for:</strong> Internships | Collaborative Projects | Hackathons | Learning Opportunities
+  </p>
+  <p style="color: #00FF88; text-align: center; font-size: 1.1em;">
+    📍 <strong>Location:</strong> Islamabad, Pakistan
+  </p>
+</div>
+
+</div>
+
+---
+
+## 🌟 **Footer**
+
+<div align="center">
+
+<!-- Waving Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks+for+visiting!&fontSize=30&fontColor=fff&animation=fadeIn&reversal=true&stroke=000&strokeWidth=2" alt="Footer" />
+
+<br><br>
+
+<!-- Final Quote -->
+<div style="background: linear-gradient(90deg, #7F3FBF 0%, #412991 25%, #FF6B6B 50%, #00C851 75%, #4285F4 100%); padding: 25px; border-radius: 15px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+  <p style="font-size: 1.3em; color: white; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
+    ✨ "Code with passion, build with purpose, and innovate without limits!" ✨
+  </p>
+</div>
+
+<!-- Colorful Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/❤️-Made%20With%20Love-ff69b4?style=for-the-badge&logo=heart&logoColor=white" alt="Made with love" />
+  <img src="https://img.shields.io/badge/⚡-Powered%20By%20Code-7F3FBF?style=for-the-badge&logo=lightning&logoColor=white" alt="Powered by code" />
+  <img src="https://img.shields.io/badge/☕-Coffee%20Fueled-6F4E37?style=for-the-badge&logo=coffee&logoColor=white" alt="Coffee fueled" />
+</p>
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ArifAli8866.ArifAli8866&style=for-the-badge&color=7F3FBF" alt="Visitor Counter" />
+</p>
+
+<!-- Last Updated -->
+<p align="center" style="color: #FFD700; font-size: 0.9em;">
+  ⏰ Last Updated: January 2025 | 📱 Fully Responsive Design
+</p>
+
+</div>
