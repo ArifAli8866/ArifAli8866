@@ -1,43 +1,40 @@
-
-```markdown
 <div align="center">
-
+  
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&animation=fadeIn&text=Arif%20Ali&fontSize=70&fontColor=fff&fontAlignY=40&desc=Aspiring%20Software%20Engineer&descAlignY=70&descSize=30" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Arif%20Ali&fontSize=60&fontColor=fff&animation=fadeIn" alt="Header" />
 
 <!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=7F3FBF&center=true&vCenter=true&width=900&height=80&lines=👋+Hey+there!+I'm+Arif+Ali;💻+Passionate+C+++Developer;🚀+Aspiring+Software+Engineer;🔥+Always+Building+&+Learning" alt="Typing SVG" />
-</div>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=800&lines=👋+Hey+there!+I'm+Arif+Ali;💻+Passionate+C+++Developer;🚀+Aspiring+Software+Engineer;🔥+Always+Learning+and+Building" alt="Typing SVG" />
+</h2>
 
-<!-- Profile Views -->
+<!-- Profile Stats -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArifAli8866&color=7F3FBF&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ArifAli8866?color=7F3FBF&style=flat-square&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/ArifAli8866?color=7F3FBF&style=flat-square&label=STARS" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=ArifAli8866&color=7F3FBF&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ArifAli8866?color=7F3FBF&style=flat-square&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-7F3FBF?style=flat-square&logo=github&logoColor=white" alt="Open to Work" />
 </p>
 
 <!-- Contact Badges -->
-<div align="center">
+<p align="center">
   <a href="https://portfolio-lovat-five-67.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/🌐-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://linkedin.com/in/arif-ali-23a38032a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/ArifAli8866" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/🐱-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:2arif2143055@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/📧-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</div>
+</p>
 
-<br>
-
-<!-- Stats Cards -->
+<!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArifAli8866&theme=radical&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArifAli8866&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7F3FBF&icon_color=7F3FBF" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ArifAli8866&theme=radical&hide_border=true&background=0D1117&ring=7F3FBF&fire=7F3FBF&currStreakLabel=7F3FBF" alt="GitHub Streak" height="165" />
 </div>
 
 </div>
@@ -46,118 +43,139 @@
 
 ## 🎯 **About Me**
 
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 15px; margin: 20px 0;">
-
-### 🚀 **Who Am I?**
-**Arif Ali** | *Aspiring Software Engineer*  
-🎓 **Computer Science Student** @ FAST NUCEIS (2024-2028)  
-📍 **Islamabad, Pakistan**  
-💡 **Passionate** about C++, Web Development & Cloud Computing  
-
-### 🌟 **My Mission**
-> "To build efficient, scalable software solutions that make a difference.  
-> Aspiring to contribute to innovative projects at top tech companies like Google!"
-
-</div>
+<table>
+  <tr>
+    <td width="60%">
+      <h3>🚀 Aspiring Software Engineer</h3>
+      <p>
+        I'm a passionate <strong>Computer Science student</strong> at <strong>FAST NUCEIS</strong> with a strong interest in software engineering and cutting-edge technologies. 
+        I'm constantly learning and building projects to enhance my skills.
+      </p>
+      <p>
+        🔥 <strong>Currently focused on:</strong><br>
+        • Mastering C++ & Data Structures<br>
+        • Building responsive web applications<br>
+        • Exploring cloud computing & AWS<br>
+        • Preparing for technical interviews
+      </p>
+      <p>
+        🎯 <strong>My Goal:</strong> To contribute to innovative projects at top tech companies like Google!
+      </p>
+    </td>
+    <td width="40%">
+      <div align="center">
+        <h3>🏆 GitHub Trophies</h3>
+        <img src="https://github-profile-trophy.vercel.app/?username=ArifAli8866&theme=radical&no-frame=true&row=2&column=3&margin-w=5&margin-h=5" alt="Trophies" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ **Tech Stack**
 
-<div align="center">
-
-### 💻 **Programming Languages**
+### 🔷 **Programming Languages**
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### 🌐 **Web & Frameworks**
+### 🔶 **Frameworks & Libraries**
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
 </p>
 
-### ☁️ **Cloud & DevOps**
+### 🟣 **Cloud & DevOps**
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 </p>
 
-### 🗃️ **Databases & Tools**
+### 🟢 **Tools & IDEs**
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-
-</div>
 
 ---
 
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-
+  
+### 📈 **Top Languages & Activity**
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ArifAli8866&show_icons=true&theme=radical&count_private=true&hide_title=false&hide=prs&bg_color=0D1117&border_color=7F3FBF" alt="GitHub Stats" height="180">
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifAli8866&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7F3FBF&langs_count=8" alt="Top Languages" />
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=ArifAli8866&theme=radical&hide_border=false&background=0D1117&ring=7F3FBF&fire=7F3FBF&currStreakLabel=7F3FBF" alt="GitHub Streak" height="180">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifAli8866&layout=compact&theme=radical&langs_count=8&hide_border=true&bg_color=0D1117&border_color=7F3FBF" alt="Top Languages" width="100%">
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArifAli8866&theme=radical" alt="Profile Details" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArifAli8866&theme=radical&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%">
+### 📅 **Contribution Graph**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArifAli8866&theme=radical&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Activity" alt="Activity Graph" width="100%" />
 
 </div>
 
 ---
 
-## 🏆 **Certifications & Achievements**
+## 🏆 **Certifications**
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center">
-      <div style="background: #4285F4; padding: 15px; border-radius: 10px; margin: 5px;">
-        <strong style="color: white;">Google</strong><br>
-        <small style="color: white;">Cybersecurity</small>
-      </div>
+      <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+      <br><small><strong>Cybersecurity</strong></small>
     </td>
     <td align="center">
-      <div style="background: #FF9900; padding: 15px; border-radius: 10px; margin: 5px;">
-        <strong style="color: white;">AWS</strong><br>
-        <small style="color: white;">Solutions Arch</small>
-      </div>
+      <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+      <br><small><strong>Networks & Security</strong></small>
     </td>
     <td align="center">
-      <div style="background: #412991; padding: 15px; border-radius: 10px; margin: 5px;">
-        <strong style="color: white;">AI Security</strong><br>
-        <small style="color: white;">Securiti</small>
-      </div>
+      <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+      <br><small><strong>Linux & SQL</strong></small>
     </td>
     <td align="center">
-      <div style="background: #21759B; padding: 15px; border-radius: 10px; margin: 5px;">
-        <strong style="color: white;">WordPress</strong><br>
-        <small style="color: white;">Development</small>
-      </div>
+      <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+      <br><small><strong>Security Risks</strong></small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+      <br><small><strong>Solutions Arch</strong></small>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Securiti-412991?style=for-the-badge&logo=openai&logoColor=white" />
+      <br><small><strong>AI Security</strong></small>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+      <br><small><strong>Development</strong></small>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/DigiSkills-6C63FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
+      <br><small><strong>Freelancing</strong></small>
     </td>
   </tr>
 </table>
@@ -168,61 +186,34 @@
 
 ## 💼 **Professional Experience**
 
-<div align="center">
-
-### 📅 **Timeline**
-```text
-2025 Journey
-├── Mar-Apr  : C++ Developer Intern @ CodeAlpha
-├── Apr-May  : Web Development Intern @ Codveda Technologies  
-├── May-Jun  : Cloud Computing Intern @ Encryptix
-└── Sep-Pres : Member @ Youth Excellence Forum
-```
-
-</div>
-
-<br>
-
-<div align="center">
-  <table style="width: 100%; border-collapse: collapse;">
-    <tr style="background: linear-gradient(90deg, #7F3FBF 0%, #412991 100%);">
-      <th style="padding: 15px; color: white; text-align: center;">Role</th>
-      <th style="padding: 15px; color: white; text-align: center;">Company</th>
-      <th style="padding: 15px; color: white; text-align: center;">Duration</th>
-      <th style="padding: 15px; color: white; text-align: center;">Key Achievements</th>
-    </tr>
-    <tr>
-      <td style="padding: 12px; text-align: center;">💻 C++ Developer</td>
-      <td style="padding: 12px; text-align: center;">CodeAlpha</td>
-      <td style="padding: 12px; text-align: center;">Mar-Apr 2025</td>
-      <td style="padding: 12px;">
-        • Developed OOP-based C++ programs<br>
-        • Implemented data structures<br>
-        • Optimized algorithms
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; text-align: center;">🌐 Web Developer</td>
-      <td style="padding: 12px; text-align: center;">Codveda Tech</td>
-      <td style="padding: 12px; text-align: center;">Apr-May 2025</td>
-      <td style="padding: 12px;">
-        • Built responsive websites<br>
-        • Fixed bugs & improved UI/UX<br>
-        • Optimized performance
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; text-align: center;">☁️ Cloud Intern</td>
-      <td style="padding: 12px; text-align: center;">Encryptix</td>
-      <td style="padding: 12px; text-align: center;">May-Jun 2025</td>
-      <td style="padding: 12px;">
-        • Learned cloud fundamentals<br>
-        • Assisted in deployments<br>
-        • Configured services
-      </td>
-    </tr>
-  </table>
-</div>
+### 📍 **Experience Timeline**
+<pre>
+┌─ 2025 Career Journey ──────────────────────────┐
+│                                                │
+│  🗓️  March - April 2025                       │
+│  💻  C++ Developer Intern @ CodeAlpha          │
+│  • Developed OOP-based C++ applications        │
+│  • Implemented data structures & algorithms    │
+│  • Optimized code for performance              │
+│                                                │
+│  🗓️  April - May 2025                         │
+│  🌐  Web Development Intern @ Codveda Tech     │
+│  • Built responsive websites                   │
+│  • Fixed bugs & improved UI/UX                 │
+│  • Optimized front-end performance             │
+│                                                │
+│  🗓️  May - June 2025                          │
+│  ☁️  Cloud Intern @ Encryptix                  │
+│  • Learned cloud fundamentals                  │
+│  • Assisted in deployment tasks                │
+│  • Configured cloud services                   │
+│                                                │
+│  🗓️  September 2025 - Present                 │
+│  👥  Member @ Youth Excellence Forum           │
+│  • Leadership & community activities           │
+│  • Team collaboration projects                 │
+└────────────────────────────────────────────────┘
+</pre>
 
 ---
 
@@ -233,40 +224,43 @@
 <table>
   <tr>
     <td width="33%">
-      <div style="background: #1a1a2e; padding: 20px; border-radius: 10px; margin: 10px; border-left: 5px solid #7F3FBF;">
-        <h3 align="center">⚡ C++ Mastery</h3>
+      <div style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%); padding: 20px; border-radius: 10px; border: 2px solid #7F3FBF;">
+        <h3 align="center">⚡ C++ Projects</h3>
         <p align="center">
-          <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square">
+          <img src="https://img.shields.io/badge/Status-🟢%20Active-brightgreen" />
         </p>
         <ul>
-          <li>Advanced Data Structures</li>
-          <li>Algorithm Optimization</li>
-          <li>STL & Templates</li>
+          <li>Data Structures Library</li>
+          <li>Algorithm Implementations</li>
+          <li>OOP Design Patterns</li>
+          <li>Performance Optimization</li>
         </ul>
       </div>
     </td>
     <td width="33%">
-      <div style="background: #1a1a2e; padding: 20px; border-radius: 10px; margin: 10px; border-left: 5px solid #00C851;">
-        <h3 align="center">🌐 Web Portfolio</h3>
+      <div style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%); padding: 20px; border-radius: 10px; border: 2px solid #00C851;">
+        <h3 align="center">🌐 Web Development</h3>
         <p align="center">
-          <img src="https://img.shields.io/badge/Status-Building-yellow?style=flat-square">
+          <img src="https://img.shields.io/badge/Status-🟡%20Building-yellow" />
         </p>
         <ul>
-          <li>Responsive Design</li>
+          <li>Portfolio Website</li>
           <li>React Applications</li>
           <li>API Integration</li>
+          <li>Responsive Design</li>
         </ul>
       </div>
     </td>
     <td width="33%">
-      <div style="background: #1a1a2e; padding: 20px; border-radius: 10px; margin: 10px; border-left: 5px solid #4285F4;">
+      <div style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%); padding: 20px; border-radius: 10px; border: 2px solid #4285F4;">
         <h3 align="center">☁️ Cloud Learning</h3>
         <p align="center">
-          <img src="https://img.shields.io/badge/Status-Learning-blue?style=flat-square">
+          <img src="https://img.shields.io/badge/Status-🔵%20Learning-blue" />
         </p>
         <ul>
           <li>AWS Services</li>
           <li>Docker Containers</li>
+          <li>CI/CD Pipelines</li>
           <li>Deployment Strategies</li>
         </ul>
       </div>
@@ -278,21 +272,22 @@
 
 ---
 
-## 📈 **Skill Progress**
+## 📈 **Skill Matrix**
 
 <div align="center">
 
-```text
-🎯 Skill Proficiency
-C++ Programming        [██████████] 92%
-Data Structures        [█████████░] 88%
-Web Development        [████████░░] 80%
-Cloud Computing        [█████░░░░░] 55%
-Linux Administration   [██████░░░░] 65%
-Git & GitHub           [████████░░] 82%
-Problem Solving        [██████████] 90%
-Team Collaboration     [████████░ ] 85%
-```
+<h3>🎯 Technical Skills Proficiency</h3>
+
+| Skill | Level | Progress |
+|-------|-------|----------|
+| **C++ Programming** | Expert | ██████████ 92% |
+| **Data Structures** | Advanced | █████████░ 88% |
+| **Web Development** | Advanced | ████████░░ 80% |
+| **Problem Solving** | Expert | ██████████ 90% |
+| **Git & GitHub** | Advanced | ████████░░ 82% |
+| **Linux/Unix** | Intermediate | ██████░░░░ 65% |
+| **Cloud Computing** | Intermediate | █████░░░░░ 55% |
+| **Team Collaboration** | Advanced | ████████░░ 85% |
 
 </div>
 
@@ -300,68 +295,58 @@ Team Collaboration     [████████░ ] 85%
 
 ## 📚 **Education**
 
-<div align="center">
-
-<table style="width: 100%; border-collapse: collapse;">
-  <tr style="background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);">
-    <th style="padding: 15px; color: white; text-align: center;">Institution</th>
-    <th style="padding: 15px; color: white; text-align: center;">Degree</th>
-    <th style="padding: 15px; color: white; text-align: center;">Duration</th>
-    <th style="padding: 15px; color: white; text-align: center;">Grade</th>
+<table>
+  <tr>
+    <th width="25%">Institution</th>
+    <th width="35%">Degree</th>
+    <th width="20%">Duration</th>
+    <th width="20%">Grade/Achievement</th>
   </tr>
   <tr>
-    <td style="padding: 12px; text-align: center;"><strong>FAST NUCEIS</strong></td>
-    <td style="padding: 12px; text-align: center;">Bachelor of Computer Science</td>
-    <td style="padding: 12px; text-align: center;">2024 - 2028</td>
-    <td style="padding: 12px; text-align: center;">
-      <span style="background: #4285F4; padding: 5px 15px; border-radius: 20px; color: white;">In Progress</span>
-    </td>
+    <td><strong>FAST NUCEIS</strong></td>
+    <td>Bachelor of Computer Science</td>
+    <td>2024 - 2028</td>
+    <td><span style="color: #4285F4; font-weight: bold;">In Progress</span></td>
   </tr>
   <tr>
-    <td style="padding: 12px; text-align: center;"><strong>GBHSS, Sarhad</strong></td>
-    <td style="padding: 12px; text-align: center;">Intermediate (Pre-Engineering)</td>
-    <td style="padding: 12px; text-align: center;">2022 - 2024</td>
-    <td style="padding: 12px; text-align: center;">
-      <span style="background: #00C851; padding: 5px 20px; border-radius: 20px; color: white;">A1</span>
-    </td>
+    <td><strong>GBHSS, Sarhad</strong></td>
+    <td>Intermediate (Pre-Engineering)</td>
+    <td>2022 - 2024</td>
+    <td><span style="color: #00C851; font-weight: bold;">A1 Grade</span></td>
   </tr>
   <tr>
-    <td style="padding: 12px; text-align: center;"><strong>GBHSS, Sarhad</strong></td>
-    <td style="padding: 12px; text-align: center;">Matriculation (Science)</td>
-    <td style="padding: 12px; text-align: center;">2020 - 2022</td>
-    <td style="padding: 12px; text-align: center;">
-      <span style="background: #00C851; padding: 5px 20px; border-radius: 20px; color: white;">A1</span>
-    </td>
+    <td><strong>GBHSS, Sarhad</strong></td>
+    <td>Matriculation (Science)</td>
+    <td>2020 - 2022</td>
+    <td><span style="color: #00C851; font-weight: bold;">A1 Grade</span></td>
   </tr>
 </table>
 
-</div>
-
 ---
 
-## 🌍 **Languages & Stats**
+## 🌍 **Languages & Quick Facts**
 
 <div align="center">
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🗣️ Languages</h3>
-      <div style="background: #0D1117; padding: 20px; border-radius: 10px; border: 2px solid #7F3FBF;">
-        <p>🇵🇰 <strong>Urdu</strong> <span style="color: #00C851;">(Native)</span></p>
-        <p>🇵🇰 <strong>Punjabi</strong> <span style="color: #00C851;">(Native)</span></p>
-        <p>🇵🇰 <strong>Sindhi</strong> <span style="color: #00C851;">(Native)</span></p>
-        <p>🇬🇧 <strong>English</strong> <span style="color: #FFD700;">(Intermediate)</span></p>
-      </div>
+      <h3>🗣️ Languages I Speak</h3>
+      <p>
+        <img src="https://img.shields.io/badge/🇵🇰%20Urdu-Native-008000?style=flat-square" />
+        <img src="https://img.shields.io/badge/🇵🇰%20Punjabi-Native-FF6B35?style=flat-square" /><br>
+        <img src="https://img.shields.io/badge/🇵🇰%20Sindhi-Native-4A90E2?style=flat-square" />
+        <img src="https://img.shields.io/badge/🇬🇧%20English-Intermediate-FFD700?style=flat-square" />
+      </p>
     </td>
     <td width="50%">
       <h3>📊 Quick Stats</h3>
-      <div style="background: #0D1117; padding: 20px; border-radius: 10px; border: 2px solid #7F3FBF;">
-        <p>🏢 <strong>Internships:</strong> <span style="color: #4285F4;">3 Completed</span></p>
-        <p>📜 <strong>Certifications:</strong> <span style="color: #00C851;">10+ Earned</span></p>
-        <p>💻 <strong>Projects:</strong> <span style="color: #FF6B35;">15+ Built</span></p>
-        <p>⌨️ <strong>Typing Speed:</strong> <span style="color: #7F3FBF;">50+ WPM</span></p>
-      </div>
+      <p>
+        <img src="https://img.shields.io/badge/🏢%20Internships-3-4285F4?style=flat-square" />
+        <img src="https://img.shields.io/badge/📜%20Certifications-10%2B-00C851?style=flat-square" /><br>
+        <img src="https://img.shields.io/badge/💻%20Projects-15%2B-FF6B35?style=flat-square" />
+        <img src="https://img.shields.io/badge/⌨️%20Typing-50%2B%20WPM-7F3FBF?style=flat-square" />
+      </p>
     </td>
   </tr>
 </table>
@@ -374,95 +359,57 @@ Team Collaboration     [████████░ ] 85%
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F3FBF&center=true&vCenter=true&width=800&height=50&lines=Open+to+collaborations+and+opportunities!;Let's+build+something+amazing+together+🚀" alt="Connect Message" />
-
-<br><br>
+<h3>💬 Ready to Collaborate!</h3>
 
 <table>
   <tr>
     <td align="center" width="25%">
       <a href="mailto:2arif2143055@gmail.com">
-        <div style="background: linear-gradient(135deg, #D14836 0%, #EA4335 100%); padding: 20px; border-radius: 15px;">
-          <img src="https://img.icons8.com/color/64/000000/gmail.png" width="48" height="48" alt="Email">
-          <br><strong style="color: white;">Email</strong>
-        </div>
+        <img src="https://img.icons8.com/color/96/000000/gmail.png" width="64" height="64" /><br>
+        <strong>Email</strong>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://linkedin.com/in/arif-ali-23a38032a">
-        <div style="background: linear-gradient(135deg, #0077B5 0%, #00A0DC 100%); padding: 20px; border-radius: 15px;">
-          <img src="https://img.icons8.com/color/64/000000/linkedin.png" width="48" height="48" alt="LinkedIn">
-          <br><strong style="color: white;">LinkedIn</strong>
-        </div>
+        <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="64" height="64" /><br>
+        <strong>LinkedIn</strong>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/ArifAli8866">
-        <div style="background: linear-gradient(135deg, #181717 0%, #333333 100%); padding: 20px; border-radius: 15px;">
-          <img src="https://img.icons8.com/color/64/000000/github.png" width="48" height="48" alt="GitHub">
-          <br><strong style="color: white;">GitHub</strong>
-        </div>
+        <img src="https://img.icons8.com/color/96/000000/github.png" width="64" height="64" /><br>
+        <strong>GitHub</strong>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://portfolio-lovat-five-67.vercel.app">
-        <div style="background: linear-gradient(135deg, #000000 0%, #333333 100%); padding: 20px; border-radius: 15px;">
-          <img src="https://img.icons8.com/color/64/000000/portfolio.png" width="48" height="48" alt="Portfolio">
-          <br><strong style="color: white;">Portfolio</strong>
-        </div>
+        <img src="https://img.icons8.com/color/96/000000/portfolio.png" width="64" height="64" /><br>
+        <strong>Portfolio</strong>
       </a>
     </td>
   </tr>
 </table>
 
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Open+to+collaborations+and+opportunities!;Let's+build+something+amazing+together!;Always+up+for+tech+discussions!" alt="Connect Message" />
+
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Thanks+for+visiting!&fontSize=30&fontColor=fff&animation=fadeIn&reversal=true" alt="Footer" />
+<!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks+for+visiting!&fontSize=30&fontColor=fff&animation=fadeIn&reversal=true" alt="Footer" />
 
 <br>
 
-<div style="background: linear-gradient(90deg, #7F3FBF 0%, #412991 100%); padding: 20px; border-radius: 10px; margin: 20px 0;">
-  <p style="font-size: 1.2em; color: white; font-weight: bold;">
+<div style="background: linear-gradient(90deg, #7F3FBF 0%, #412991 100%); padding: 20px; border-radius: 10px;">
+  <p style="font-size: 1.2em; color: white; text-align: center; font-weight: bold;">
     ✨ "Code with passion, build with purpose, and innovate without limits!" ✨
   </p>
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20With-❤️-ff69b4?style=for-the-badge&logo=heart&logoColor=white" alt="Made with love">
-  <img src="https://img.shields.io/badge/Powered%20By-Code-7F3FBF?style=for-the-badge&logo=terminal&logoColor=white" alt="Powered by code">
-  <img src="https://img.shields.io/badge/Coffee%20Cups-∞-6F4E37?style=for-the-badge&logo=coffee&logoColor=white" alt="Coffee cups">
+  <img src="https://img.shields.io/badge/Made%20With%20❤️-For%20GitHub-ff69b4?style=for-the-badge&logo=heart&logoColor=white" />
+  <img src="https://img.shields.io/badge/⚡-Powered%20by%20Code-7F3FBF?style=for-the-badge&logo=lightning&logoColor=white" />
 </p>
 
 </div>
-```
-
-## 🔧 **Key Changes Made:**
-
-1. **Fixed the code block issue** - Removed TypeScript code that was showing as raw text
-2. **Used simple text formatting** instead of complex code blocks
-3. **All badges and images** are from working sources
-4. **Removed problematic elements** (Mermaid diagrams, custom icons that might not work)
-5. **Kept all attractive styling** - gradients, colors, animations
-6. **Ensured 100% GitHub compatibility**
-
-## 🎯 **Features That Work Perfectly:**
-
-✅ **Animated banners** with capsule-render  
-✅ **Typing animation** with readme-typing-svg  
-✅ **GitHub stats** from vercel.app APIs  
-✅ **Beautiful badges** from shields.io  
-✅ **Gradient backgrounds** with CSS-like styling  
-✅ **Responsive tables** and layouts  
-✅ **Colorful progress bars** (text-based)  
-✅ **Contact cards** with hover effects  
-✅ **Professional formatting**
-
-## 🚀 **How to Use:**
-
-1. **Copy this entire code**
-2. **Create a repository** named exactly `ArifAli8866`
-3. **Create README.md** file
-4. **Paste this code** and commit
-5. **Wait 2-3 minutes** for GitHub to update
-
-This will create a **stunning, professional, and fully functional** GitHub profile that will impress anyone who visits! 🎉
