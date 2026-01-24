@@ -120,419 +120,769 @@
         </div>
     </div>
     
-    <!-- Bio Section -->
+   <!-- Left Column - Bio & Focus Areas -->
+<div style="flex: 1; min-width: 300px;">
+    
+    <!-- Profile Header -->
     <div style="
-        background: rgba(255, 255, 255, 0.05);
-        padding: 25px;
+        background: linear-gradient(90deg, 
+            rgba(127, 63, 191, 0.2),
+            rgba(255, 107, 107, 0.2));
+        padding: 20px;
         border-radius: 15px;
         margin-bottom: 25px;
-        border: 1px solid rgba(255, 255, 255, 0.1);">
+        border-left: 5px solid #7F3FBF;">
+        <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 10px;">
+            <div style="
+                width: 60px;
+                height: 60px;
+                background: linear-gradient(45deg, #7F3FBF, #FF6B6B);
+                border-radius: 50%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-size: 1.8em;">
+                👨‍💻
+            </div>
+            <div>
+                <h2 style="
+                    margin: 0;
+                    color: #fff;
+                    font-size: 1.8em;
+                    background: linear-gradient(45deg, #fff, #FFD700);
+                    -webkit-background-clip: text;
+                    -webkit-text-fill-color: transparent;
+                    background-clip: text;">
+                    Arif Ali
+                </h2>
+                <p style="margin: 5px 0 0 0; color: #FFD700; font-size: 1.1em;">
+                    🚀 Computer Science Student | Full-Stack Developer
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Bio Section -->
+    <div style="
+        background: linear-gradient(145deg, rgba(26, 26, 46, 0.9) 0%, rgba(30, 30, 60, 0.9) 100%);
+        padding: 30px;
+        border-radius: 20px;
+        margin-bottom: 30px;
+        border: 1px solid rgba(127, 63, 191, 0.3);
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        backdrop-filter: blur(10px);">
         <h3 style="
             color: #00FF88;
-            margin: 0 0 15px 0;
-            font-size: 1.4em;
+            margin: 0 0 20px 0;
+            font-size: 1.5em;
             display: flex;
             align-items: center;
-            gap: 10px;">
+            gap: 12px;
+            font-weight: 600;
+            letter-spacing: 0.5px;">
             <span style="
-                background: #00FF88;
-                width: 8px;
-                height: 8px;
+                background: linear-gradient(135deg, #00FF88, #00CC66);
+                width: 10px;
+                height: 10px;
                 border-radius: 50%;
-                display: inline-block;"></span>
-            About Me
+                display: inline-block;
+                box-shadow: 0 0 10px #00FF88;"></span>
+            👨‍💻 About Me
         </h3>
-        <p style="
-            color: #e0e0e0;
-            line-height: 1.7;
-            margin: 0;
-            font-size: 1.1em;">
-            Passionate Computer Science student at <span style="color: #FFD700; font-weight: bold;">FAST National University</span> 
-            with expertise in C++ development, full-stack web technologies, and cloud computing. 
-            Currently building scalable applications and exploring distributed systems. 
-            Always eager to tackle challenging problems and contribute to impactful projects.
-        </p>
+        <div style="
+            background: rgba(255, 255, 255, 0.05);
+            padding: 20px;
+            border-radius: 15px;
+            border-left: 4px solid #7F3FBF;">
+            <p style="
+                color: #E0E0FF;
+                line-height: 1.8;
+                margin: 0;
+                font-size: 1.15em;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+                Passionate <span style="color: #FFD700; font-weight: 600;">Computer Science student</span> at 
+                <span style="color: #00FF88; font-weight: 600;">FAST National University</span> 
+                with expertise in <span style="color: #7F3FBF;">C++ development</span>, 
+                <span style="color: #61DAFB;">full-stack web technologies</span>, and 
+                <span style="color: #FF9900;">cloud computing</span>. 
+                Currently building <span style="color: #FF6B6B; font-weight: 600;">scalable applications</span> 
+                and exploring distributed systems. Always eager to tackle challenging problems 
+                and contribute to <span style="color: #00FF88; font-weight: 600;">impactful projects</span>.
+            </p>
+        </div>
     </div>
     
     <!-- Focus Areas -->
     <div style="
-        background: rgba(255, 255, 255, 0.05);
-        padding: 25px;
-        border-radius: 15px;
-        border: 1px solid rgba(255, 255, 255, 0.1);">
-        <h3 style="
-            color: #FF6B6B;
-            margin: 0 0 20px 0;
-            font-size: 1.4em;
-            display: flex;
-            align-items: center;
-            gap: 10px;">
+        background: linear-gradient(145deg, rgba(26, 26, 46, 0.9) 0%, rgba(30, 30, 60, 0.9) 100%);
+        padding: 30px;
+        border-radius: 20px;
+        margin-bottom: 30px;
+        border: 1px solid rgba(255, 107, 107, 0.3);
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        backdrop-filter: blur(10px);">
+        <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 25px;">
+            <h3 style="
+                color: #FF6B6B;
+                margin: 0;
+                font-size: 1.5em;
+                display: flex;
+                align-items: center;
+                gap: 12px;
+                font-weight: 600;
+                letter-spacing: 0.5px;">
+                <span style="
+                    background: linear-gradient(135deg, #FF6B6B, #FF4757);
+                    width: 10px;
+                    height: 10px;
+                    border-radius: 50%;
+                    display: inline-block;
+                    animation: pulse 2s infinite;
+                    box-shadow: 0 0 10px #FF6B6B;"></span>
+                🔥 Current Focus
+            </h3>
             <span style="
-                background: #FF6B6B;
-                width: 8px;
-                height: 8px;
-                border-radius: 50%;
-                display: inline-block;
-                animation: pulse 2s infinite;"></span>
-            🔥 Current Focus
-        </h3>
+                background: rgba(255, 107, 107, 0.2);
+                color: #FFD700;
+                padding: 6px 15px;
+                border-radius: 20px;
+                font-size: 0.9em;
+                font-weight: 500;
+                border: 1px solid rgba(255, 107, 107, 0.3);">
+                4 Active Areas
+            </span>
+        </div>
         
-        <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px;">
-            <!-- Card 1 -->
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
+            <!-- Card 1 - C++ -->
             <div style="
-                background: linear-gradient(135deg,
-                    rgba(0, 89, 156, 0.15),
-                    rgba(0, 89, 156, 0.25));
-                padding: 18px;
-                border-radius: 12px;
+                background: linear-gradient(145deg, 
+                    rgba(0, 89, 156, 0.15) 0%, 
+                    rgba(127, 63, 191, 0.15) 100%);
+                padding: 25px;
+                border-radius: 15px;
                 border: 1px solid rgba(0, 89, 156, 0.3);
-                transition: all 0.3s ease;
-                cursor: pointer;"
-                onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(0, 89, 156, 0.3)'"
-                onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-                <div style="display: flex; align-items: center; gap: 12px;">
+                transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+                cursor: pointer;
+                position: relative;
+                overflow: hidden;"
+                onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 15px 30px rgba(0, 89, 156, 0.4)'; this.style.borderColor='rgba(0, 89, 156, 0.6)'"
+                onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'; this.style.borderColor='rgba(0, 89, 156, 0.3)'">
+                <div style="position: absolute; top: -20px; right: -20px; width: 60px; height: 60px; 
+                    background: rgba(0, 89, 156, 0.1); border-radius: 50%;"></div>
+                <div style="display: flex; align-items: center; gap: 15px;">
                     <div style="
-                        background: rgba(0, 89, 156, 0.3);
-                        width: 45px;
-                        height: 45px;
-                        border-radius: 10px;
+                        background: linear-gradient(135deg, #00599C, #7F3FBF);
+                        width: 55px;
+                        height: 55px;
+                        border-radius: 12px;
                         display: flex;
                         align-items: center;
                         justify-content: center;
-                        font-size: 1.5em;">
+                        font-size: 1.8em;
+                        box-shadow: 0 5px 15px rgba(0, 89, 156, 0.4);">
                         ⚡
                     </div>
-                    <div>
-                        <h4 style="margin: 0; color: #fff; font-size: 1.1em;">C++ Development</h4>
-                        <p style="margin: 5px 0 0 0; color: #FFD700; font-size: 0.9em;">Systems Programming</p>
+                    <div style="flex: 1;">
+                        <h4 style="margin: 0; color: #fff; font-size: 1.2em; font-weight: 600; margin-bottom: 5px;">
+                            C++ Development
+                        </h4>
+                        <p style="margin: 0; color: #FFD700; font-size: 0.95em; font-weight: 500;">
+                            Systems Programming & Optimization
+                        </p>
+                        <div style="margin-top: 15px; display: flex; align-items: center; gap: 10px;">
+                            <span style="
+                                background: rgba(0, 89, 156, 0.3);
+                                color: #00FF88;
+                                padding: 4px 10px;
+                                border-radius: 12px;
+                                font-size: 0.8em;
+                                border: 1px solid rgba(0, 89, 156, 0.5);">
+                                STL
+                            </span>
+                            <span style="
+                                background: rgba(127, 63, 191, 0.3);
+                                color: #FFD700;
+                                padding: 4px 10px;
+                                border-radius: 12px;
+                                font-size: 0.8em;
+                                border: 1px solid rgba(127, 63, 191, 0.5);">
+                                OOP
+                            </span>
+                        </div>
                     </div>
                 </div>
             </div>
             
-            <!-- Card 2 -->
+            <!-- Card 2 - MERN -->
             <div style="
-                background: linear-gradient(135deg,
-                    rgba(0, 200, 81, 0.15),
-                    rgba(0, 200, 81, 0.25));
-                padding: 18px;
-                border-radius: 12px;
+                background: linear-gradient(145deg, 
+                    rgba(0, 200, 81, 0.15) 0%, 
+                    rgba(52, 168, 83, 0.15) 100%);
+                padding: 25px;
+                border-radius: 15px;
                 border: 1px solid rgba(0, 200, 81, 0.3);
-                transition: all 0.3s ease;
-                cursor: pointer;"
-                onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(0, 200, 81, 0.3)'"
-                onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-                <div style="display: flex; align-items: center; gap: 12px;">
+                transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+                cursor: pointer;
+                position: relative;
+                overflow: hidden;"
+                onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 15px 30px rgba(0, 200, 81, 0.4)'; this.style.borderColor='rgba(0, 200, 81, 0.6)'"
+                onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'; this.style.borderColor='rgba(0, 200, 81, 0.3)'">
+                <div style="position: absolute; top: -20px; right: -20px; width: 60px; height: 60px; 
+                    background: rgba(0, 200, 81, 0.1); border-radius: 50%;"></div>
+                <div style="display: flex; align-items: center; gap: 15px;">
                     <div style="
-                        background: rgba(0, 200, 81, 0.3);
-                        width: 45px;
-                        height: 45px;
-                        border-radius: 10px;
+                        background: linear-gradient(135deg, #00C851, #34A853);
+                        width: 55px;
+                        height: 55px;
+                        border-radius: 12px;
                         display: flex;
                         align-items: center;
                         justify-content: center;
-                        font-size: 1.5em;">
+                        font-size: 1.8em;
+                        box-shadow: 0 5px 15px rgba(0, 200, 81, 0.4);">
                         🌐
                     </div>
-                    <div>
-                        <h4 style="margin: 0; color: #fff; font-size: 1.1em;">MERN Stack</h4>
-                        <p style="margin: 5px 0 0 0; color: #FFD700; font-size: 0.9em;">Full-Stack Apps</p>
+                    <div style="flex: 1;">
+                        <h4 style="margin: 0; color: #fff; font-size: 1.2em; font-weight: 600; margin-bottom: 5px;">
+                            MERN Stack
+                        </h4>
+                        <p style="margin: 0; color: #FFD700; font-size: 0.95em; font-weight: 500;">
+                            Full-Stack Web Applications
+                        </p>
+                        <div style="margin-top: 15px; display: flex; align-items: center; gap: 10px;">
+                            <span style="
+                                background: rgba(97, 218, 251, 0.3);
+                                color: #61DAFB;
+                                padding: 4px 10px;
+                                border-radius: 12px;
+                                font-size: 0.8em;
+                                border: 1px solid rgba(97, 218, 251, 0.5);">
+                                React
+                            </span>
+                            <span style="
+                                background: rgba(51, 153, 51, 0.3);
+                                color: #339933;
+                                padding: 4px 10px;
+                                border-radius: 12px;
+                                font-size: 0.8em;
+                                border: 1px solid rgba(51, 153, 51, 0.5);">
+                                Node.js
+                            </span>
+                        </div>
                     </div>
                 </div>
             </div>
             
-            <!-- Card 3 -->
+            <!-- Card 3 - Cloud & DevOps -->
             <div style="
-                background: linear-gradient(135deg,
-                    rgba(66, 133, 244, 0.15),
-                    rgba(66, 133, 244, 0.25));
-                padding: 18px;
-                border-radius: 12px;
+                background: linear-gradient(145deg, 
+                    rgba(66, 133, 244, 0.15) 0%, 
+                    rgba(52, 168, 83, 0.15) 100%);
+                padding: 25px;
+                border-radius: 15px;
                 border: 1px solid rgba(66, 133, 244, 0.3);
-                transition: all 0.3s ease;
-                cursor: pointer;"
-                onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(66, 133, 244, 0.3)'"
-                onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-                <div style="display: flex; align-items: center; gap: 12px;">
+                transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+                cursor: pointer;
+                position: relative;
+                overflow: hidden;"
+                onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 15px 30px rgba(66, 133, 244, 0.4)'; this.style.borderColor='rgba(66, 133, 244, 0.6)'"
+                onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'; this.style.borderColor='rgba(66, 133, 244, 0.3)'">
+                <div style="position: absolute; top: -20px; right: -20px; width: 60px; height: 60px; 
+                    background: rgba(66, 133, 244, 0.1); border-radius: 50%;"></div>
+                <div style="display: flex; align-items: center; gap: 15px;">
                     <div style="
-                        background: rgba(66, 133, 244, 0.3);
-                        width: 45px;
-                        height: 45px;
-                        border-radius: 10px;
+                        background: linear-gradient(135deg, #4285F4, #34A853);
+                        width: 55px;
+                        height: 55px;
+                        border-radius: 12px;
                         display: flex;
                         align-items: center;
                         justify-content: center;
-                        font-size: 1.5em;">
+                        font-size: 1.8em;
+                        box-shadow: 0 5px 15px rgba(66, 133, 244, 0.4);">
                         ☁️
                     </div>
-                    <div>
-                        <h4 style="margin: 0; color: #fff; font-size: 1.1em;">Cloud & DevOps</h4>
-                        <p style="margin: 5px 0 0 0; color: #FFD700; font-size: 0.9em;">AWS, Docker, K8s</p>
+                    <div style="flex: 1;">
+                        <h4 style="margin: 0; color: #fff; font-size: 1.2em; font-weight: 600; margin-bottom: 5px;">
+                            Cloud & DevOps
+                        </h4>
+                        <p style="margin: 0; color: #FFD700; font-size: 0.95em; font-weight: 500;">
+                            AWS, Docker, Kubernetes
+                        </p>
+                        <div style="margin-top: 15px; display: flex; align-items: center; gap: 10px;">
+                            <span style="
+                                background: rgba(255, 153, 0, 0.3);
+                                color: #FF9900;
+                                padding: 4px 10px;
+                                border-radius: 12px;
+                                font-size: 0.8em;
+                                border: 1px solid rgba(255, 153, 0, 0.5);">
+                                AWS
+                            </span>
+                            <span style="
+                                background: rgba(36, 150, 237, 0.3);
+                                color: #2496ED;
+                                padding: 4px 10px;
+                                border-radius: 12px;
+                                font-size: 0.8em;
+                                border: 1px solid rgba(36, 150, 237, 0.5);">
+                                Docker
+                            </span>
+                        </div>
                     </div>
                 </div>
             </div>
             
-            <!-- Card 4 -->
+            <!-- Card 4 - Competitive Coding -->
             <div style="
-                background: linear-gradient(135deg,
-                    rgba(255, 107, 107, 0.15),
-                    rgba(255, 107, 107, 0.25));
-                padding: 18px;
-                border-radius: 12px;
+                background: linear-gradient(145deg, 
+                    rgba(255, 107, 107, 0.15) 0%, 
+                    rgba(156, 77, 255, 0.15) 100%);
+                padding: 25px;
+                border-radius: 15px;
                 border: 1px solid rgba(255, 107, 107, 0.3);
-                transition: all 0.3s ease;
-                cursor: pointer;"
-                onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(255, 107, 107, 0.3)'"
-                onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-                <div style="display: flex; align-items: center; gap: 12px;">
+                transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+                cursor: pointer;
+                position: relative;
+                overflow: hidden;"
+                onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 15px 30px rgba(255, 107, 107, 0.4)'; this.style.borderColor='rgba(255, 107, 107, 0.6)'"
+                onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'; this.style.borderColor='rgba(255, 107, 107, 0.3)'">
+                <div style="position: absolute; top: -20px; right: -20px; width: 60px; height: 60px; 
+                    background: rgba(255, 107, 107, 0.1); border-radius: 50%;"></div>
+                <div style="display: flex; align-items: center; gap: 15px;">
                     <div style="
-                        background: rgba(255, 107, 107, 0.3);
-                        width: 45px;
-                        height: 45px;
-                        border-radius: 10px;
+                        background: linear-gradient(135deg, #FF6B6B, #9C4DFF);
+                        width: 55px;
+                        height: 55px;
+                        border-radius: 12px;
                         display: flex;
                         align-items: center;
                         justify-content: center;
-                        font-size: 1.5em;">
+                        font-size: 1.8em;
+                        box-shadow: 0 5px 15px rgba(255, 107, 107, 0.4);">
                         🎯
                     </div>
-                    <div>
-                        <h4 style="margin: 0; color: #fff; font-size: 1.1em;">Competitive Coding</h4>
-                        <p style="margin: 5px 0 0 0; color: #FFD700; font-size: 0.9em;">LeetCode & Codeforces</p>
+                    <div style="flex: 1;">
+                        <h4 style="margin: 0; color: #fff; font-size: 1.2em; font-weight: 600; margin-bottom: 5px;">
+                            Competitive Coding
+                        </h4>
+                        <p style="margin: 0; color: #FFD700; font-size: 0.95em; font-weight: 500;">
+                            LeetCode & Codeforces
+                        </p>
+                        <div style="margin-top: 15px; display: flex; align-items: center; gap: 10px;">
+                            <span style="
+                                background: rgba(255, 161, 22, 0.3);
+                                color: #FFA116;
+                                padding: 4px 10px;
+                                border-radius: 12px;
+                                font-size: 0.8em;
+                                border: 1px solid rgba(255, 161, 22, 0.5);">
+                                LeetCode
+                            </span>
+                            <span style="
+                                background: rgba(66, 133, 244, 0.3);
+                                color: #4285F4;
+                                padding: 4px 10px;
+                                border-radius: 12px;
+                                font-size: 0.8em;
+                                border: 1px solid rgba(66, 133, 244, 0.5);">
+                                Codeforces
+                            </span>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
+<!-- End of Left Column -->
 
 <!-- Right Column - Stats & Trophies -->
 <div style="flex: 1; min-width: 300px;">
     
     <!-- GitHub Stats Card -->
     <div style="
-        background: rgba(255, 255, 255, 0.05);
-        padding: 25px;
-        border-radius: 15px;
-        margin-bottom: 25px;
-        border: 1px solid rgba(255, 255, 255, 0.1);">
-        <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
+        background: linear-gradient(145deg, rgba(26, 26, 46, 0.9) 0%, rgba(30, 30, 60, 0.9) 100%);
+        padding: 30px;
+        border-radius: 20px;
+        margin-bottom: 30px;
+        border: 1px solid rgba(255, 215, 0, 0.3);
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        backdrop-filter: blur(10px);">
+        <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 25px;">
             <h3 style="
                 margin: 0;
                 color: #FFD700;
-                font-size: 1.4em;
+                font-size: 1.5em;
                 display: flex;
                 align-items: center;
-                gap: 10px;">
+                gap: 12px;
+                font-weight: 600;
+                letter-spacing: 0.5px;">
                 <span style="
-                    background: #FFD700;
-                    width: 8px;
-                    height: 8px;
+                    background: linear-gradient(135deg, #FFD700, #FFA500);
+                    width: 10px;
+                    height: 10px;
                     border-radius: 50%;
-                    display: inline-block;"></span>
+                    display: inline-block;
+                    box-shadow: 0 0 10px #FFD700;"></span>
                 📊 GitHub Stats
             </h3>
             <div style="
                 background: rgba(255, 215, 0, 0.2);
-                padding: 5px 15px;
+                padding: 8px 18px;
                 border-radius: 20px;
                 font-size: 0.9em;
-                color: #FFD700;">
-                LIVE
+                font-weight: 600;
+                color: #FFD700;
+                border: 1px solid rgba(255, 215, 0, 0.3);
+                box-shadow: 0 4px 10px rgba(255, 215, 0, 0.2);">
+                🔴 LIVE
             </div>
         </div>
         
         <!-- Stats Grid -->
-        <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-bottom: 25px;">
+        <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-bottom: 30px;">
             <div style="
-                background: rgba(127, 63, 191, 0.1);
-                padding: 15px;
-                border-radius: 10px;
-                text-align: center;">
+                background: linear-gradient(145deg, rgba(127, 63, 191, 0.2) 0%, rgba(65, 41, 145, 0.2) 100%);
+                padding: 20px;
+                border-radius: 15px;
+                border: 1px solid rgba(127, 63, 191, 0.3);
+                text-align: center;
+                transition: all 0.3s ease;"
+                onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 10px 20px rgba(127, 63, 191, 0.4)'"
+                onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
                 <div style="
-                    font-size: 2em;
+                    font-size: 2.2em;
                     color: #FFD700;
                     font-weight: bold;
-                    margin-bottom: 5px;">
+                    margin-bottom: 8px;
+                    text-shadow: 0 2px 5px rgba(0,0,0,0.3);">
                     60+
                 </div>
-                <div style="color: #fff; font-size: 0.9em;">Repositories</div>
+                <div style="color: #fff; font-size: 1em; font-weight: 500; letter-spacing: 0.5px;">
+                    Repositories
+                </div>
             </div>
             
             <div style="
-                background: rgba(0, 200, 81, 0.1);
-                padding: 15px;
-                border-radius: 10px;
-                text-align: center;">
+                background: linear-gradient(145deg, rgba(0, 200, 81, 0.2) 0%, rgba(0, 255, 136, 0.2) 100%);
+                padding: 20px;
+                border-radius: 15px;
+                border: 1px solid rgba(0, 200, 81, 0.3);
+                text-align: center;
+                transition: all 0.3s ease;"
+                onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 10px 20px rgba(0, 200, 81, 0.4)'"
+                onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
                 <div style="
-                    font-size: 2em;
+                    font-size: 2.2em;
                     color: #00FF88;
                     font-weight: bold;
-                    margin-bottom: 5px;">
+                    margin-bottom: 8px;
+                    text-shadow: 0 2px 5px rgba(0,0,0,0.3);">
                     25+
                 </div>
-                <div style="color: #fff; font-size: 0.9em;">Projects</div>
+                <div style="color: #fff; font-size: 1em; font-weight: 500; letter-spacing: 0.5px;">
+                    Projects
+                </div>
             </div>
             
             <div style="
-                background: rgba(66, 133, 244, 0.1);
-                padding: 15px;
-                border-radius: 10px;
-                text-align: center;">
+                background: linear-gradient(145deg, rgba(66, 133, 244, 0.2) 0%, rgba(52, 168, 83, 0.2) 100%);
+                padding: 20px;
+                border-radius: 15px;
+                border: 1px solid rgba(66, 133, 244, 0.3);
+                text-align: center;
+                transition: all 0.3s ease;"
+                onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 10px 20px rgba(66, 133, 244, 0.4)'"
+                onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
                 <div style="
-                    font-size: 2em;
+                    font-size: 2.2em;
                     color: #4285F4;
                     font-weight: bold;
-                    margin-bottom: 5px;">
+                    margin-bottom: 8px;
+                    text-shadow: 0 2px 5px rgba(0,0,0,0.3);">
                     250+
                 </div>
-                <div style="color: #fff; font-size: 0.9em;">Commits</div>
+                <div style="color: #fff; font-size: 1em; font-weight: 500; letter-spacing: 0.5px;">
+                    Commits
+                </div>
             </div>
             
             <div style="
-                background: rgba(255, 107, 107, 0.1);
-                padding: 15px;
-                border-radius: 10px;
-                text-align: center;">
+                background: linear-gradient(145deg, rgba(255, 107, 107, 0.2) 0%, rgba(255, 142, 83, 0.2) 100%);
+                padding: 20px;
+                border-radius: 15px;
+                border: 1px solid rgba(255, 107, 107, 0.3);
+                text-align: center;
+                transition: all 0.3s ease;"
+                onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 10px 20px rgba(255, 107, 107, 0.4)'"
+                onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
                 <div style="
-                    font-size: 2em;
+                    font-size: 2.2em;
                     color: #FF6B6B;
                     font-weight: bold;
-                    margin-bottom: 5px;">
+                    margin-bottom: 8px;
+                    text-shadow: 0 2px 5px rgba(0,0,0,0.3);">
                     50+
                 </div>
-                <div style="color: #fff; font-size: 0.9em;">Contributions</div>
+                <div style="color: #fff; font-size: 1em; font-weight: 500; letter-spacing: 0.5px;">
+                    Contributions
+                </div>
             </div>
         </div>
         
         <!-- Trophies -->
-        <div style="text-align: center;">
+        <div style="text-align: center; background: rgba(0, 0, 0, 0.2); padding: 15px; border-radius: 15px;">
+            <h4 style="color: #FFD700; margin: 0 0 15px 0; font-size: 1.2em;">🏆 GitHub Trophies</h4>
             <img src="https://github-profile-trophy.vercel.app/?username=ArifAli8866&theme=onedark&no-frame=true&row=2&column=3&margin-w=5&margin-h=5" 
                  alt="GitHub Trophies"
-                 style="width: 100%; border-radius: 10px;" />
+                 style="width: 100%; border-radius: 10px; border: 1px solid rgba(255, 255, 255, 0.1);" />
         </div>
     </div>
     
     <!-- Activity Tracker -->
     <div style="
-        background: rgba(255, 255, 255, 0.05);
-        padding: 25px;
-        border-radius: 15px;
-        border: 1px solid rgba(255, 255, 255, 0.1);">
+        background: linear-gradient(145deg, rgba(26, 26, 46, 0.9) 0%, rgba(30, 30, 60, 0.9) 100%);
+        padding: 30px;
+        border-radius: 20px;
+        margin-bottom: 30px;
+        border: 1px solid rgba(0, 255, 136, 0.3);
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        backdrop-filter: blur(10px);">
         <h3 style="
             color: #00FF88;
-            margin: 0 0 20px 0;
-            font-size: 1.4em;
+            margin: 0 0 25px 0;
+            font-size: 1.5em;
             display: flex;
             align-items: center;
-            gap: 10px;">
+            gap: 12px;
+            font-weight: 600;
+            letter-spacing: 0.5px;">
             <span style="
-                background: #00FF88;
-                width: 8px;
-                height: 8px;
+                background: linear-gradient(135deg, #00FF88, #00CC66);
+                width: 10px;
+                height: 10px;
                 border-radius: 50%;
-                display: inline-block;"></span>
+                display: inline-block;
+                box-shadow: 0 0 10px #00FF88;"></span>
             ⏰ Weekly Activity
         </h3>
         
         <!-- Activity Bars -->
-        <div style="margin-bottom: 20px;">
-            <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
-                <span style="color: #fff; font-size: 0.9em;">Coding Hours</span>
-                <span style="color: #FFD700; font-weight: bold;">25+ hrs</span>
+        <div style="margin-bottom: 25px;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+                <span style="color: #E0E0FF; font-size: 1em; font-weight: 500;">Coding Hours</span>
+                <span style="color: #FFD700; font-weight: bold; font-size: 1.1em;">25+ hrs</span>
             </div>
             <div style="
-                height: 10px;
+                height: 12px;
                 background: rgba(255, 255, 255, 0.1);
-                border-radius: 5px;
-                overflow: hidden;">
+                border-radius: 6px;
+                overflow: hidden;
+                box-shadow: inset 0 2px 5px rgba(0,0,0,0.2);">
                 <div style="
                     height: 100%;
                     width: 90%;
                     background: linear-gradient(90deg, #00C851, #00FF88);
-                    border-radius: 5px;"></div>
+                    border-radius: 6px;
+                    position: relative;">
+                    <div style="position: absolute; right: 0; top: 0; bottom: 0; width: 4px; background: white; border-radius: 2px;"></div>
+                </div>
             </div>
         </div>
         
-        <div style="margin-bottom: 20px;">
-            <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
-                <span style="color: #fff; font-size: 0.9em;">Problem Solving</span>
-                <span style="color: #FFD700; font-weight: bold;">20+ problems</span>
+        <div style="margin-bottom: 25px;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+                <span style="color: #E0E0FF; font-size: 1em; font-weight: 500;">Problem Solving</span>
+                <span style="color: #FFD700; font-weight: bold; font-size: 1.1em;">20+ problems</span>
             </div>
             <div style="
-                height: 10px;
+                height: 12px;
                 background: rgba(255, 255, 255, 0.1);
-                border-radius: 5px;
-                overflow: hidden;">
+                border-radius: 6px;
+                overflow: hidden;
+                box-shadow: inset 0 2px 5px rgba(0,0,0,0.2);">
                 <div style="
                     height: 100%;
                     width: 80%;
                     background: linear-gradient(90deg, #7F3FBF, #412991);
-                    border-radius: 5px;"></div>
+                    border-radius: 6px;
+                    position: relative;">
+                    <div style="position: absolute; right: 0; top: 0; bottom: 0; width: 4px; background: white; border-radius: 2px;"></div>
+                </div>
             </div>
         </div>
         
-        <div style="margin-bottom: 20px;">
-            <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
-                <span style="color: #fff; font-size: 0.9em;">Open Source</span>
-                <span style="color: #FFD700; font-weight: bold;">Active Contributor</span>
+        <div style="margin-bottom: 15px;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+                <span style="color: #E0E0FF; font-size: 1em; font-weight: 500;">Open Source</span>
+                <span style="color: #FFD700; font-weight: bold; font-size: 1.1em;">Active Contributor</span>
             </div>
             <div style="
-                height: 10px;
+                height: 12px;
                 background: rgba(255, 255, 255, 0.1);
-                border-radius: 5px;
-                overflow: hidden;">
+                border-radius: 6px;
+                overflow: hidden;
+                box-shadow: inset 0 2px 5px rgba(0,0,0,0.2);">
                 <div style="
                     height: 100%;
                     width: 70%;
                     background: linear-gradient(90deg, #4285F4, #34A853);
-                    border-radius: 5px;"></div>
+                    border-radius: 6px;
+                    position: relative;">
+                    <div style="position: absolute; right: 0; top: 0; bottom: 0; width: 4px; background: white; border-radius: 2px;"></div>
+                </div>
             </div>
+        </div>
+        
+        <div style="margin-top: 25px; padding: 15px; background: rgba(0, 255, 136, 0.1); border-radius: 12px; border: 1px solid rgba(0, 255, 136, 0.2);">
+            <p style="color: #00FF88; margin: 0; text-align: center; font-size: 0.95em; font-weight: 500;">
+                📈 <strong>Consistent Growth:</strong> 30+ hours/week dedicated to skill development
+            </p>
         </div>
     </div>
     
     <!-- Quick Facts -->
     <div style="
-        background: linear-gradient(135deg,
-            rgba(127, 63, 191, 0.15),
-            rgba(255, 107, 107, 0.15));
-        padding: 25px;
-        border-radius: 15px;
-        border: 1px solid rgba(127, 63, 191, 0.3);">
+        background: linear-gradient(145deg, 
+            rgba(127, 63, 191, 0.2) 0%, 
+            rgba(255, 107, 107, 0.2) 100%);
+        padding: 30px;
+        border-radius: 20px;
+        border: 1px solid rgba(127, 63, 191, 0.3);
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        backdrop-filter: blur(10px);">
         <h3 style="
             color: #FFD700;
-            margin: 0 0 15px 0;
-            font-size: 1.4em;
+            margin: 0 0 20px 0;
+            font-size: 1.5em;
             display: flex;
             align-items: center;
-            gap: 10px;">
+            gap: 12px;
+            font-weight: 600;
+            letter-spacing: 0.5px;">
             <span style="
-                background: #FFD700;
-                width: 8px;
-                height: 8px;
+                background: linear-gradient(135deg, #FFD700, #FFA500);
+                width: 10px;
+                height: 10px;
                 border-radius: 50%;
-                display: inline-block;"></span>
+                display: inline-block;
+                box-shadow: 0 0 10px #FFD700;"></span>
             ⚡ Quick Facts
         </h3>
         
-        <ul style="margin: 0; padding-left: 20px; color: #e0e0e0;">
-            <li style="margin-bottom: 10px; line-height: 1.5;">
-                <span style="color: #00FF88;">✓</span> 
-                <strong>3 successful internships</strong> in 2025
-            </li>
-            <li style="margin-bottom: 10px; line-height: 1.5;">
-                <span style="color: #00FF88;">✓</span> 
-                <strong>12+ technical certifications</strong> completed
-            </li>
-            <li style="margin-bottom: 10px; line-height: 1.5;">
-                <span style="color: #00FF88;">✓</span> 
-                <strong>60+ WPM</strong> typing speed (Programmer Dvorak)
-            </li>
-            <li style="line-height: 1.5;">
-                <span style="color: #00FF88;">✓</span> 
-                <strong>Active in 5+ tech communities</strong>
-            </li>
-        </ul>
+        <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 15px;">
+            <ul style="margin: 0; padding-left: 0; list-style: none; color: #E0E0FF;">
+                <li style="margin-bottom: 18px; line-height: 1.6; display: flex; align-items: flex-start; gap: 12px;">
+                    <div style="
+                        background: linear-gradient(135deg, #00FF88, #00CC66);
+                        width: 22px;
+                        height: 22px;
+                        border-radius: 50%;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        font-size: 0.8em;
+                        font-weight: bold;
+                        color: #000;
+                        flex-shrink: 0;">
+                        ✓
+                    </div>
+                    <div>
+                        <span style="color: #FFD700; font-weight: 600;">3 successful internships</span> 
+                        <span style="color: #00FF88;">in 2025</span>
+                    </div>
+                </li>
+                <li style="margin-bottom: 18px; line-height: 1.6; display: flex; align-items: flex-start; gap: 12px;">
+                    <div style="
+                        background: linear-gradient(135deg, #00FF88, #00CC66);
+                        width: 22px;
+                        height: 22px;
+                        border-radius: 50%;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        font-size: 0.8em;
+                        font-weight: bold;
+                        color: #000;
+                        flex-shrink: 0;">
+                        ✓
+                    </div>
+                    <div>
+                        <span style="color: #FFD700; font-weight: 600;">12+ technical certifications</span> 
+                        <span style="color: #00FF88;">completed</span>
+                    </div>
+                </li>
+                <li style="margin-bottom: 18px; line-height: 1.6; display: flex; align-items: flex-start; gap: 12px;">
+                    <div style="
+                        background: linear-gradient(135deg, #00FF88, #00CC66);
+                        width: 22px;
+                        height: 22px;
+                        border-radius: 50%;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        font-size: 0.8em;
+                        font-weight: bold;
+                        color: #000;
+                        flex-shrink: 0;">
+                        ✓
+                    </div>
+                    <div>
+                        <span style="color: #FFD700; font-weight: 600;">60+ WPM</span> 
+                        <span style="color: #00FF88;">typing speed (Programmer Dvorak)</span>
+                    </div>
+                </li>
+                <li style="line-height: 1.6; display: flex; align-items: flex-start; gap: 12px;">
+                    <div style="
+                        background: linear-gradient(135deg, #00FF88, #00CC66);
+                        width: 22px;
+                        height: 22px;
+                        border-radius: 50%;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        font-size: 0.8em;
+                        font-weight: bold;
+                        color: #000;
+                        flex-shrink: 0;">
+                        ✓
+                    </div>
+                    <div>
+                        <span style="color: #FFD700; font-weight: 600;">Active in 5+ tech communities</span> 
+                        <span style="color: #00FF88;">as contributor</span>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        
+        <div style="margin-top: 20px; padding: 15px; background: rgba(127, 63, 191, 0.15); border-radius: 12px; text-align: center;">
+            <p style="color: #FFD700; margin: 0; font-size: 0.95em; font-weight: 500;">
+                🚀 <strong>Always Learning:</strong> Consistently expanding technical skills
+            </p>
+        </div>
     </div>
+</div>
+<!-- End of Right Column -->
+
+<style>
+    @keyframes pulse {
+        0% { 
+            transform: scale(1);
+            opacity: 1;
+        }
+        50% { 
+            transform: scale(1.1);
+            opacity: 0.8;
+        }
+        100% { 
+            transform: scale(1);
+            opacity: 1;
+        }
+    }
+</style>
 </div>
 
 </div>
