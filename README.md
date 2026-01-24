@@ -42,6 +42,491 @@
 </div>
 
 
+---
+
+## 👨‍💻 **About Me**
+
+<div align="center" style="
+    background: linear-gradient(135deg, #1a1a2e, #16213e);
+    padding: 40px;
+    border-radius: 25px;
+    margin: 30px 0;
+    border: 3px solid rgba(127, 63, 191, 0.5);
+    position: relative;
+    overflow: hidden;">
+
+<!-- Background Pattern -->
+<div style="
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: 
+        radial-gradient(circle at 25% 25%, rgba(127, 63, 191, 0.1) 2px, transparent 2px),
+        radial-gradient(circle at 75% 75%, rgba(255, 107, 107, 0.1) 2px, transparent 2px);
+    background-size: 50px 50px;
+    z-index: 1;"></div>
+
+<div style="position: relative; z-index: 2;">
+
+<!-- Visual Identity Card -->
+<div style="
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-bottom: 40px;
+    flex-wrap: wrap;">
+    
+    <!-- Profile Visual -->
+    <div style="
+        position: relative;
+        width: 180px;
+        height: 180px;
+        background: linear-gradient(135deg, #7F3FBF, #FF6B6B);
+        border-radius: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 
+            0 20px 40px rgba(127, 63, 191, 0.4),
+            inset 0 -5px 10px rgba(0,0,0,0.2);
+        animation: glow 3s ease-in-out infinite alternate;">
+        <div style="
+            width: 140px;
+            height: 140px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 4em;
+            color: white;
+            text-shadow: 0 5px 15px rgba(0,0,0,0.3);">
+            A
+        </div>
+        <!-- Rings -->
+        <div style="
+            position: absolute;
+            width: 200px;
+            height: 200px;
+            border: 2px solid rgba(255, 215, 0, 0.3);
+            border-radius: 50%;
+            animation: spin 20s linear infinite;"></div>
+        <div style="
+            position: absolute;
+            width: 220px;
+            height: 220px;
+            border: 2px solid rgba(0, 200, 81, 0.3);
+            border-radius: 50%;
+            animation: spin 15s linear infinite reverse;"></div>
+    </div>
+    
+    <!-- Role Badges -->
+    <div style="
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        justify-content: center;">
+        
+        <div style="
+            background: linear-gradient(135deg, rgba(127, 63, 191, 0.2), rgba(127, 63, 191, 0.4));
+            padding: 15px 25px;
+            border-radius: 50px;
+            border: 2px solid #7F3FBF;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            min-width: 250px;
+            box-shadow: 0 10px 20px rgba(127, 63, 191, 0.3);">
+            <div style="
+                background: #7F3FBF;
+                width: 40px;
+                height: 40px;
+                border-radius: 50%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-size: 1.5em;">
+                👨‍💻
+            </div>
+            <div>
+                <div style="color: #fff; font-weight: bold; font-size: 1.2em;">C++ Developer</div>
+                <div style="color: #FFD700; font-size: 0.9em;">Advanced Level</div>
+            </div>
+        </div>
+        
+        <div style="
+            background: linear-gradient(135deg, rgba(255, 107, 107, 0.2), rgba(255, 107, 107, 0.4));
+            padding: 15px 25px;
+            border-radius: 50px;
+            border: 2px solid #FF6B6B;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            min-width: 250px;
+            box-shadow: 0 10px 20px rgba(255, 107, 107, 0.3);">
+            <div style="
+                background: #FF6B6B;
+                width: 40px;
+                height: 40px;
+                border-radius: 50%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-size: 1.5em;">
+                🌐
+            </div>
+            <div>
+                <div style="color: #fff; font-weight: bold; font-size: 1.2em;">Web Developer</div>
+                <div style="color: #FFD700; font-size: 0.9em;">React & Node.js</div>
+            </div>
+        </div>
+        
+        <div style="
+            background: linear-gradient(135deg, rgba(0, 200, 81, 0.2), rgba(0, 200, 81, 0.4));
+            padding: 15px 25px;
+            border-radius: 50px;
+            border: 2px solid #00C851;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            min-width: 250px;
+            box-shadow: 0 10px 20px rgba(0, 200, 81, 0.3);">
+            <div style="
+                background: #00C851;
+                width: 40px;
+                height: 40px;
+                border-radius: 50%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-size: 1.5em;">
+                🚀
+            </div>
+            <div>
+                <div style="color: #fff; font-weight: bold; font-size: 1.2em;">Apache Contributor</div>
+                <div style="color: #FFD700; font-size: 0.9em;">Open Source</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Visual Progress Grid -->
+<div style="
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    margin-bottom: 40px;">
+    
+  <div style="
+        background: rgba(255,255,255,0.05);
+        padding: 25px;
+        border-radius: 15px;
+        border: 2px solid rgba(127, 63, 191, 0.3);
+        text-align: center;
+        position: relative;
+        overflow: hidden;">
+        <div style="
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 5px;
+            background: linear-gradient(90deg, #7F3FBF, #412991);">
+        </div>
+        <div style="font-size: 3em; margin-bottom: 15px;">⚡</div>
+        <div style="
+            width: 100px;
+            height: 100px;
+            margin: 0 auto 15px;
+            position: relative;">
+            <svg width="100" height="100" viewBox="0 0 100 100">
+                <circle cx="50" cy="50" r="45" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="8"/>
+                <circle cx="50" cy="50" r="45" fill="none" stroke="#7F3FBF" stroke-width="8" 
+                        stroke-linecap="round" stroke-dasharray="283" stroke-dashoffset="70"
+                        transform="rotate(-90 50 50)"/>
+            </svg>
+            <div style="
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                color: #FFD700;
+                font-size: 1.5em;
+                font-weight: bold;">
+                85%
+            </div>
+        </div>
+        <div style="color: #fff; font-weight: bold; font-size: 1.1em;">C++ Mastery</div>
+    </div>
+    
+    <!-- Problem Solving -->
+  <div style="
+        background: rgba(255,255,255,0.05);
+        padding: 25px;
+        border-radius: 15px;
+        border: 2px solid rgba(255, 107, 107, 0.3);
+        text-align: center;
+        position: relative;
+        overflow: hidden;">
+        <div style="
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 5px;
+            background: linear-gradient(90deg, #FF6B6B, #FF8E53);">
+        </div>
+        <div style="font-size: 3em; margin-bottom: 15px;">🎯</div>
+        <div style="
+            width: 100px;
+            height: 100px;
+            margin: 0 auto 15px;
+            position: relative;">
+            <svg width="100" height="100" viewBox="0 0 100 100">
+                <circle cx="50" cy="50" r="45" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="8"/>
+                <circle cx="50" cy="50" r="45" fill="none" stroke="#FF6B6B" stroke-width="8" 
+                        stroke-linecap="round" stroke-dasharray="283" stroke-dashoffset="85"
+                        transform="rotate(-90 50 50)"/>
+            </svg>
+            <div style="
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                color: #FFD700;
+                font-size: 1.5em;
+                font-weight: bold;">
+                70%
+            </div>
+        </div>
+        <div style="color: #fff; font-weight: bold; font-size: 1.1em;">DSA Skills</div>
+    </div>
+    
+    <!-- Web Dev -->
+  <div style="
+        background: rgba(255,255,255,0.05);
+        padding: 25px;
+        border-radius: 15px;
+        border: 2px solid rgba(0, 200, 81, 0.3);
+        text-align: center;
+        position: relative;
+        overflow: hidden;">
+        <div style="
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 5px;
+            background: linear-gradient(90deg, #00C851, #00FF88);">
+        </div>
+        <div style="font-size: 3em; margin-bottom: 15px;">🌐</div>
+        <div style="
+            width: 100px;
+            height: 100px;
+            margin: 0 auto 15px;
+            position: relative;">
+            <svg width="100" height="100" viewBox="0 0 100 100">
+                <circle cx="50" cy="50" r="45" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="8"/>
+                <circle cx="50" cy="50" r="45" fill="none" stroke="#00C851" stroke-width="8" 
+                        stroke-linecap="round" stroke-dasharray="283" stroke-dashoffset="113"
+                        transform="rotate(-90 50 50)"/>
+            </svg>
+            <div style="
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                color: #FFD700;
+                font-size: 1.5em;
+                font-weight: bold;">
+                60%
+            </div>
+        </div>
+        <div style="color: #fff; font-weight: bold; font-size: 1.1em;">Web Stack</div>
+    </div>
+    
+    <!-- Cloud -->
+  <div style="
+        background: rgba(255,255,255,0.05);
+        padding: 25px;
+        border-radius: 15px;
+        border: 2px solid rgba(66, 133, 244, 0.3);
+        text-align: center;
+        position: relative;
+        overflow: hidden;">
+        <div style="
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 5px;
+            background: linear-gradient(90deg, #4285F4, #34A853);">
+        </div>
+        <div style="font-size: 3em; margin-bottom: 15px;">☁️</div>
+        <div style="
+            width: 100px;
+            height: 100px;
+            margin: 0 auto 15px;
+            position: relative;">
+            <svg width="100" height="100" viewBox="0 0 100 100">
+                <circle cx="50" cy="50" r="45" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="8"/>
+                <circle cx="50" cy="50" r="45" fill="none" stroke="#4285F4" stroke-width="8" 
+                        stroke-linecap="round" stroke-dasharray="283" stroke-dashoffset="170"
+                        transform="rotate(-90 50 50)"/>
+            </svg>
+            <div style="
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                color: #FFD700;
+                font-size: 1.5em;
+                font-weight: bold;">
+                40%
+            </div>
+        </div>
+        <div style="color: #fff; font-weight: bold; font-size: 1.1em;">Cloud & AWS</div>
+    </div>
+</div>
+
+<!-- Visual Achievement Blocks -->
+<div style="
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;">
+    
+  <div style="
+        background: linear-gradient(135deg, rgba(127, 63, 191, 0.2), rgba(65, 41, 145, 0.3));
+        padding: 20px;
+        border-radius: 15px;
+        border: 2px solid rgba(127, 63, 191, 0.4);
+        text-align: center;
+        transition: transform 0.3s;
+        cursor: pointer;"
+        onmouseover="this.style.transform='translateY(-10px)'"
+        onmouseout="this.style.transform='translateY(0)'">
+        <div style="font-size: 2.5em; margin-bottom: 10px;">🏆</div>
+        <div style="
+            font-size: 2em;
+            color: #FFD700;
+            font-weight: bold;
+            margin-bottom: 5px;">
+            3
+        </div>
+        <div style="color: #fff; font-weight: bold;">Internships</div>
+        <div style="
+            width: 30px;
+            height: 4px;
+            background: #7F3FBF;
+            margin: 10px auto 0;
+            border-radius: 2px;"></div>
+    </div>
+    
+  <div style="
+        background: linear-gradient(135deg, rgba(255, 107, 107, 0.2), rgba(255, 142, 83, 0.3));
+        padding: 20px;
+        border-radius: 15px;
+        border: 2px solid rgba(255, 107, 107, 0.4);
+        text-align: center;
+        transition: transform 0.3s;
+        cursor: pointer;"
+        onmouseover="this.style.transform='translateY(-10px)'"
+        onmouseout="this.style.transform='translateY(0)'">
+        <div style="font-size: 2.5em; margin-bottom: 10px;">📜</div>
+        <div style="
+            font-size: 2em;
+            color: #FFD700;
+            font-weight: bold;
+            margin-bottom: 5px;">
+            10+
+        </div>
+        <div style="color: #fff; font-weight: bold;">Certifications</div>
+        <div style="
+            width: 30px;
+            height: 4px;
+            background: #FF6B6B;
+            margin: 10px auto 0;
+            border-radius: 2px;"></div>
+    </div>
+    
+  <div style="
+        background: linear-gradient(135deg, rgba(0, 200, 81, 0.2), rgba(0, 255, 136, 0.3));
+        padding: 20px;
+        border-radius: 15px;
+        border: 2px solid rgba(0, 200, 81, 0.4);
+        text-align: center;
+        transition: transform 0.3s;
+        cursor: pointer;"
+        onmouseover="this.style.transform='translateY(-10px)'"
+        onmouseout="this.style.transform='translateY(0)'">
+        <div style="font-size: 2.5em; margin-bottom: 10px;">💻</div>
+        <div style="
+            font-size: 2em;
+            color: #FFD700;
+            font-weight: bold;
+            margin-bottom: 5px;">
+            15+
+        </div>
+        <div style="color: #fff; font-weight: bold;">Projects</div>
+        <div style="
+            width: 30px;
+            height: 4px;
+            background: #00C851;
+            margin: 10px auto 0;
+            border-radius: 2px;"></div>
+    </div>
+    
+  <div style="
+        background: linear-gradient(135deg, rgba(66, 133, 244, 0.2), rgba(52, 168, 83, 0.3));
+        padding: 20px;
+        border-radius: 15px;
+        border: 2px solid rgba(66, 133, 244, 0.4);
+        text-align: center;
+        transition: transform 0.3s;
+        cursor: pointer;"
+        onmouseover="this.style.transform='translateY(-10px)'"
+        onmouseout="this.style.transform='translateY(0)'">
+        <div style="font-size: 2.5em; margin-bottom: 10px;">⚡</div>
+        <div style="
+            font-size: 2em;
+            color: #FFD700;
+            font-weight: bold;
+            margin-bottom: 5px;">
+            50+
+        </div>
+        <div style="color: #fff; font-weight: bold;">WPM Speed</div>
+        <div style="
+            width: 30px;
+            height: 4px;
+            background: #4285F4;
+            margin: 10px auto 0;
+            border-radius: 2px;"></div>
+    </div>
+</div>
+
+</div> <!-- End of z-index container -->
+
+</div>
+
+<!-- Animations -->
+<style>
+    @keyframes glow {
+        0% { box-shadow: 0 20px 40px rgba(127, 63, 191, 0.4); }
+        100% { box-shadow: 0 20px 60px rgba(127, 63, 191, 0.6); }
+    }
+    
+    @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+    }
+</style>
+
+---
+
+
+
 
 ## 🛠️ **Tech Stack**
 
