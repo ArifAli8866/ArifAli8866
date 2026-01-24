@@ -353,7 +353,7 @@
 
 <table style="width: 100%; border-collapse: separate; border-spacing: 0 15px;">
   <!-- C++ -->
-  <tr style="background: linear-gradient(90deg, rgba(0, 89, 156, 0.2) 0%, rgba(127, 63, 191, 0.2) 100%); border-radius: 10px;">
+  <tr style="background: linear-gradient(90deg, rgba(0, 89, 156, 0.2) 0%, rgba(127, 63, 191, 0.2) 100%);">
     <td style="padding: 15px; color: #00FF88; font-weight: bold; width: 25%;">C++ Programming</td>
     <td style="padding: 15px; color: #FFD700; width: 15%;">Expert</td>
     <td style="padding: 15px; width: 60%;">
@@ -366,7 +366,7 @@
   </tr>
   
   <!-- Data Structures -->
-  <tr style="background: linear-gradient(90deg, rgba(0, 200, 81, 0.2) 0%, rgba(0, 255, 136, 0.2) 100%); border-radius: 10px;">
+  <tr style="background: linear-gradient(90deg, rgba(0, 200, 81, 0.2) 0%, rgba(0, 255, 136, 0.2) 100%);">
     <td style="padding: 15px; color: #00FF88; font-weight: bold;">Data Structures</td>
     <td style="padding: 15px; color: #FFD700;">Advanced</td>
     <td style="padding: 15px;">
@@ -379,7 +379,7 @@
   </tr>
   
   <!-- Web Development -->
-  <tr style="background: linear-gradient(90deg, rgba(255, 107, 107, 0.2) 0%, rgba(255, 142, 83, 0.2) 100%); border-radius: 10px;">
+  <tr style="background: linear-gradient(90deg, rgba(255, 107, 107, 0.2) 0%, rgba(255, 142, 83, 0.2) 100%);">
     <td style="padding: 15px; color: #00FF88; font-weight: bold;">Web Development</td>
     <td style="padding: 15px; color: #FFD700;">Advanced</td>
     <td style="padding: 15px;">
@@ -392,7 +392,7 @@
   </tr>
   
   <!-- Problem Solving -->
-  <tr style="background: linear-gradient(90deg, rgba(127, 63, 191, 0.2) 0%, rgba(65, 41, 145, 0.2) 100%); border-radius: 10px;">
+  <tr style="background: linear-gradient(90deg, rgba(127, 63, 191, 0.2) 0%, rgba(65, 41, 145, 0.2) 100%);">
     <td style="padding: 15px; color: #00FF88; font-weight: bold;">Problem Solving</td>
     <td style="padding: 15px; color: #FFD700;">Expert</td>
     <td style="padding: 15px;">
@@ -405,7 +405,7 @@
   </tr>
   
   <!-- Git & GitHub -->
-  <tr style="background: linear-gradient(90deg, rgba(240, 80, 50, 0.2) 0%, rgba(255, 107, 107, 0.2) 100%); border-radius: 10px;">
+  <tr style="background: linear-gradient(90deg, rgba(240, 80, 50, 0.2) 0%, rgba(255, 107, 107, 0.2) 100%);">
     <td style="padding: 15px; color: #00FF88; font-weight: bold;">Git & GitHub</td>
     <td style="padding: 15px; color: #FFD700;">Advanced</td>
     <td style="padding: 15px;">
@@ -418,7 +418,7 @@
   </tr>
   
   <!-- Linux/Unix -->
-  <tr style="background: linear-gradient(90deg, rgba(252, 198, 36, 0.2) 0%, rgba(255, 215, 0, 0.2) 100%); border-radius: 10px;">
+  <tr style="background: linear-gradient(90deg, rgba(252, 198, 36, 0.2) 0%, rgba(255, 215, 0, 0.2) 100%);">
     <td style="padding: 15px; color: #00FF88; font-weight: bold;">Linux/Unix</td>
     <td style="padding: 15px; color: #FFD700;">Intermediate</td>
     <td style="padding: 15px;">
@@ -431,7 +431,7 @@
   </tr>
   
   <!-- Cloud Computing -->
-  <tr style="background: linear-gradient(90deg, rgba(66, 133, 244, 0.2) 0%, rgba(52, 168, 83, 0.2) 100%); border-radius: 10px;">
+  <tr style="background: linear-gradient(90deg, rgba(66, 133, 244, 0.2) 0%, rgba(52, 168, 83, 0.2) 100%);">
     <td style="padding: 15px; color: #00FF88; font-weight: bold;">Cloud Computing</td>
     <td style="padding: 15px; color: #FFD700;">Intermediate</td>
     <td style="padding: 15px;">
@@ -444,7 +444,7 @@
   </tr>
   
   <!-- Team Collaboration -->
-  <tr style="background: linear-gradient(90deg, rgba(108, 99, 255, 0.2) 0%, rgba(156, 77, 255, 0.2) 100%); border-radius: 10px;">
+  <tr style="background: linear-gradient(90deg, rgba(108, 99, 255, 0.2) 0%, rgba(156, 77, 255, 0.2) 100%);">
     <td style="padding: 15px; color: #00FF88; font-weight: bold;">Team Collaboration</td>
     <td style="padding: 15px; color: #FFD700;">Advanced</td>
     <td style="padding: 15px;">
@@ -461,12 +461,6 @@
 
 ---
 
-<!-- Rest of the sections continue with same colorful styling -->
-<!-- [Education, Languages & Stats, Let's Connect sections would follow with similar colorful styling] -->
-
-
----
-
 ## 📚 **Education**
 
 <div align="center" style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%); padding: 30px; border-radius: 20px; margin: 20px 0; border: 2px solid #00FF88; box-shadow: 0 10px 30px rgba(0, 255, 136, 0.2);">
@@ -475,7 +469,7 @@
 
 <table style="width: 100%; border-collapse: separate; border-spacing: 0 15px;">
   <!-- FAST NUCEIS -->
-  <tr style="background: linear-gradient(90deg, rgba(66, 133, 244, 0.2) 0%, rgba(127, 63, 191, 0.2) 100%); border-radius: 10px;">
+  <tr style="background: linear-gradient(90deg, rgba(66, 133, 244, 0.2) 0%, rgba(127, 63, 191, 0.2) 100%);">
     <td style="padding: 20px; width: 25%;">
       <div style="background: #4285F4; color: white; padding: 10px; border-radius: 10px; text-align: center; font-weight: bold;">
         🏛️ FAST NUCEIS
@@ -495,7 +489,7 @@
   </tr>
   
   <!-- Pre-Engineering -->
-  <tr style="background: linear-gradient(90deg, rgba(0, 200, 81, 0.2) 0%, rgba(0, 255, 136, 0.2) 100%); border-radius: 10px;">
+  <tr style="background: linear-gradient(90deg, rgba(0, 200, 81, 0.2) 0%, rgba(0, 255, 136, 0.2) 100%);">
     <td style="padding: 20px;">
       <div style="background: #00C851; color: white; padding: 10px; border-radius: 10px; text-align: center; font-weight: bold;">
         🏫 GBHSS, Sarhad
@@ -515,7 +509,7 @@
   </tr>
   
   <!-- Matriculation -->
-  <tr style="background: linear-gradient(90deg, rgba(255, 107, 107, 0.2) 0%, rgba(255, 142, 83, 0.2) 100%); border-radius: 10px;">
+  <tr style="background: linear-gradient(90deg, rgba(255, 107, 107, 0.2) 0%, rgba(255, 142, 83, 0.2) 100%);">
     <td style="padding: 20px;">
       <div style="background: #FF6B6B; color: white; padding: 10px; border-radius: 10px; text-align: center; font-weight: bold;">
         🏫 GBHSS, Sarhad
@@ -603,55 +597,49 @@
 
 ---
 
-## ✨ **GitHub Contributions Calendar**
+## 🎯 **Goals for 2025**
 
-<div align="center" style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%); padding: 30px; border-radius: 20px; margin: 20px 0; border: 2px solid #FFD700;">
+<div align="center" style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%); padding: 30px; border-radius: 20px; margin: 20px 0; border: 2px solid #FFD700; box-shadow: 0 10px 30px rgba(255, 215, 0, 0.2);">
 
-<h2 style="color: #FFD700; margin-bottom: 20px; text-shadow: 0 2px 4px rgba(0,0,0,0.5);">📅 Coding Activity</h2>
+<h2 style="color: #FFD700; margin-bottom: 25px; text-shadow: 0 2px 4px rgba(0,0,0,0.5);">🎯 My Goals for 2025</h2>
 
-<div style="background: rgba(255, 215, 0, 0.1); padding: 20px; border-radius: 15px; border: 1px solid #FFD700;">
-  <p style="color: #f0f0f0; text-align: center; margin-bottom: 15px;">
-    <strong style="color: #00FF88;">Recent Contribution Pattern</strong>
-  </p>
-  
-  <!-- Weekly Activity Bars -->
-  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <div style="width: 30px; height: 100px; background: linear-gradient(to top, #00C851 25%, transparent 25%); border-radius: 5px; border: 1px solid #00C851;"></div>
-      <span style="color: #FFD700; margin-top: 5px;">Mon</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <div style="width: 30px; height: 100px; background: linear-gradient(to top, #4285F4 50%, transparent 50%); border-radius: 5px; border: 1px solid #4285F4;"></div>
-      <span style="color: #FFD700; margin-top: 5px;">Tue</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <div style="width: 30px; height: 100px; background: linear-gradient(to top, #7F3FBF 75%, transparent 75%); border-radius: 5px; border: 1px solid #7F3FBF;"></div>
-      <span style="color: #FFD700; margin-top: 5px;">Wed</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <div style="width: 30px; height: 100px; background: linear-gradient(to top, #00FF88 85%, transparent 85%); border-radius: 5px; border: 1px solid #00FF88;"></div>
-      <span style="color: #FFD700; margin-top: 5px;">Thu</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <div style="width: 30px; height: 100px; background: linear-gradient(to top, #FF6B6B 70%, transparent 70%); border-radius: 5px; border: 1px solid #FF6B6B;"></div>
-      <span style="color: #FFD700; margin-top: 5px;">Fri</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <div style="width: 30px; height: 100px; background: linear-gradient(to top, #FFD700 40%, transparent 40%); border-radius: 5px; border: 1px solid #FFD700;"></div>
-      <span style="color: #FFD700; margin-top: 5px;">Sat</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <div style="width: 30px; height: 100px; background: linear-gradient(to top, #6C63FF 20%, transparent 20%); border-radius: 5px; border: 1px solid #6C63FF;"></div>
-      <span style="color: #FFD700; margin-top: 5px;">Sun</span>
-    </div>
-  </div>
-  
-  <p style="color: #f0f0f0; text-align: center; font-size: 0.9em;">
-    <span style="color: #00FF88;">High Activity:</span> 
-    <span style="color: #FF6B6B;">Medium Activity:</span> 
-    <span style="color: #FFD700;">Low Activity:</span>
-  </p>
-</div>
+<table style="width: 100%;">
+  <tr>
+    <td width="33%" align="center">
+      <div style="background: rgba(127, 63, 191, 0.2); padding: 20px; border-radius: 15px; border: 2px solid #7F3FBF;">
+        <h3 style="color: #7F3FBF;">🚀 Technical Goals</h3>
+        <ul style="color: #f0f0f0; text-align: left;">
+          <li><span style="color: #00FF88;">✓</span> Master Advanced C++</li>
+          <li><span style="color: #00FF88;">✓</span> Learn React Native</li>
+          <li><span style="color: #00FF88;">✓</span> AWS Certification</li>
+          <li><span style="color: #00FF88;">✓</span> Build 10+ Projects</li>
+        </ul>
+      </div>
+    </td>
+    <td width="33%" align="center">
+      <div style="background: rgba(0, 200, 81, 0.2); padding: 20px; border-radius: 15px; border: 2px solid #00C851;">
+        <h3 style="color: #00C851;">💼 Career Goals</h3>
+        <ul style="color: #f0f0f0; text-align: left;">
+          <li><span style="color: #00FF88;">✓</span> Get Tech Internship</li>
+          <li><span style="color: #00FF88;">✓</span> Contribute to Open Source</li>
+          <li><span style="color: #00FF88;">✓</span> Attend Tech Conferences</li>
+          <li><span style="color: #00FF88;">✓</span> Network with Professionals</li>
+        </ul>
+      </div>
+    </td>
+    <td width="33%" align="center">
+      <div style="background: rgba(66, 133, 244, 0.2); padding: 20px; border-radius: 15px; border: 2px solid #4285F4;">
+        <h3 style="color: #4285F4;">📚 Learning Goals</h3>
+        <ul style="color: #f0f0f0; text-align: left;">
+          <li><span style="color: #00FF88;">✓</span> Solve 300+ DSA Problems</li>
+          <li><span style="color: #00FF88;">✓</span> Learn System Design</li>
+          <li><span style="color: #00FF88;">✓</span> Study Design Patterns</li>
+          <li><span style="color: #00FF88;">✓</span> Improve Problem Solving</li>
+        </ul>
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
