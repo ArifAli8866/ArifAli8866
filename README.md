@@ -42,295 +42,145 @@
 </div>
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Profile Visual</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Segoe UI', system-ui, sans-serif;
-        }
-        
-  body {
-            background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
-            color: #fff;
-            min-height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            padding: 20px;
-        }
-        
-  .profile-container {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 20px;
-            max-width: 900px;
-            width: 100%;
-            justify-content: center;
-        }
-        
-  /* Main Profile Box */
-        .profile-box {
-            position: relative;
-            width: 280px;
-            height: 280px;
-            background: linear-gradient(135deg, #7F3FBF, #FF6B6B);
-            border-radius: 25px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.4);
-            overflow: hidden;
-            z-index: 1;
-        }
-        
-  .profile-box::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: linear-gradient(135deg, transparent, rgba(255, 255, 255, 0.1), transparent);
-            transform: translateX(-100%);
-            transition: transform 0.6s;
-        }
-        
-  .profile-box:hover::before {
-            transform: translateX(100%);
-        }
-        
-  .profile-icon {
-            font-size: 70px;
-            margin-bottom: 15px;
-            text-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-        }
-        
-        .profile-title {
-            font-size: 24px;
-            font-weight: 700;
-            letter-spacing: 1px;
-        }
-        
-  /* Additional Boxes */
-        .side-box {
-            width: 180px;
-            height: 180px;
-            background: rgba(255, 255, 255, 0.1);
-            backdrop-filter: blur(10px);
-            border-radius: 20px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            padding: 15px;
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
-            border: 1px solid rgba(255, 255, 255, 0.15);
-            transition: all 0.3s ease;
-        }
-        
-  .side-box:hover {
-            transform: translateY(-10px);
-            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
-            background: rgba(255, 255, 255, 0.15);
-        }
-        
-.box-icon {
-            font-size: 40px;
-            margin-bottom: 12px;
-            color: #FF6B6B;
-        }
-        
-  .box-title {
-            font-size: 16px;
-            font-weight: 600;
-            text-align: center;
-            margin-bottom: 8px;
-        }
-        
-  .box-content {
-            font-size: 12px;
-            text-align: center;
-            opacity: 0.9;
-            line-height: 1.4;
-        }
-        
-  /* Layout for additional boxes */
-        .boxes-grid {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            gap: 20px;
-            width: 400px;
-        }
-        
-  /* Skill bar boxes */
-        .skill-box {
-            grid-column: span 2;
-            width: 100%;
-            height: 80px;
-            background: rgba(255, 255, 255, 0.1);
-            backdrop-filter: blur(10px);
-            border-radius: 15px;
-            padding: 15px;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-        }
-        
-  .skill-title {
-            display: flex;
-            justify-content: space-between;
-            margin-bottom: 8px;
-            font-size: 14px;
-        }
-        
-  .skill-bar {
-            height: 8px;
-            background: rgba(255, 255, 255, 0.1);
-            border-radius: 4px;
-            overflow: hidden;
-        }
-        
-  .skill-progress {
-            height: 100%;
-            background: linear-gradient(90deg, #7F3FBF, #FF6B6B);
-            border-radius: 4px;
-        }
-        
-  /* Responsive adjustments */
-        @media (max-width: 768px) {
-            .profile-container {
-                flex-direction: column;
-                align-items: center;
-            }
-            
-  .boxes-grid {
-                width: 280px;
-                grid-template-columns: 1fr;
-            }
-            
-  .skill-box {
-                grid-column: span 1;
-            }
-        }
-        
-  /* Animation */
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(20px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-        
- .profile-box, .side-box, .skill-box {
-            animation: fadeIn 0.8s ease forwards;
-        }
-        
-  .side-box:nth-child(2) { animation-delay: 0.2s; }
-        .side-box:nth-child(3) { animation-delay: 0.4s; }
-        .side-box:nth-child(4) { animation-delay: 0.6s; }
-        .skill-box { animation-delay: 0.8s; }
-    </style>
-</head>
-<body>
-    <div class="profile-container">
-        <!-- Main Profile Box -->
-        <div class="profile-box">
-            <div class="profile-icon">
-                <i class="fas fa-user-circle"></i>
-            </div>
-            <div class="profile-title">About Me</div>
-        </div>
-        
-<!-- Additional Boxes -->
-<div class="boxes-grid">
-            <!-- Box 1 -->
-            <div class="side-box">
-                <div class="box-icon">
-                    <i class="fas fa-code"></i>
-                </div>
-                <div class="box-title">Developer</div>
-                <div class="box-content">Frontend & Backend</div>
-            </div>
-            
-    <!-- Box 2 -->
-  <div class="side-box">
-                <div class="box-icon">
-                    <i class="fas fa-palette"></i>
-                </div>
-                <div class="box-title">Designer</div>
-                <div class="box-content">UI/UX & Visual</div>
-            </div>
-            
-            <!-- Box 3 -->
-  <div class="side-box">
-                <div class="box-icon">
-                    <i class="fas fa-rocket"></i>
-                </div>
-                <div class="box-title">Projects</div>
-                <div class="box-content">25+ Completed</div>
-            </div>
-            
-            <!-- Box 4 -->
-  <div class="side-box">
-                <div class="box-icon">
-                    <i class="fas fa-medal"></i>
-                </div>
-                <div class="box-title">Experience</div>
-                <div class="box-content">5+ Years</div>
-            </div>
-            
-       <!-- Skill Bar Box -->
-  <div class="skill-box">
-                <div class="skill-title">
-                    <span>Creative Coding</span>
-                    <span>92%</span>
-                </div>
-                <div class="skill-bar">
-                    <div class="skill-progress" style="width: 92%"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-    
-  <script>
-        // Add interactive hover effects
-        document.querySelectorAll('.side-box').forEach(box => {
-            box.addEventListener('mouseenter', function() {
-                const icon = this.querySelector('.box-icon');
-                icon.style.transform = 'scale(1.2)';
-                icon.style.transition = 'transform 0.3s ease';
-            });
-            
-            box.addEventListener('mouseleave', function() {
-                const icon = this.querySelector('.box-icon');
-                icon.style.transform = 'scale(1)';
-            });
-        });
-        
-  // Animate skill bars on load
-        document.addEventListener('DOMContentLoaded', function() {
-            const skillBars = document.querySelectorAll('.skill-progress');
-            skillBars.forEach(bar => {
-                const width = bar.style.width;
-                bar.style.width = '0%';
-                setTimeout(() => {
-                    bar.style.transition = 'width 1.5s ease-in-out';
-                    bar.style.width = width;
-                }, 800);
-            });
-        });
-    </script>
-</body>
-</html>
+<!-- Profile Header -->
+<div align="center">
+
+<!-- Main Profile Visual -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&height=70&lines=Hello+👋;I'm+A+Developer;Welcome+To+My+Profile!" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<!-- Stats Boxes -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=7F3FBF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B"/>
+</div>
+
+<br/>
+
+<!-- Skill Boxes -->
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+<!-- Row 1 -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<br/>
+
+<!-- Row 2 -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<br/>
+
+<!-- Row 3 -->
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+</div>
+
+<br/>
+
+<!-- Visual Activity Graph -->
+## 📈 Activity
+
+<div align="center">
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=radical&bg_color=0d1117&color=FF6B6B&line=7F3FBF&point=FFFFFF&area=true&hide_border=true)
+
+</div>
+
+<br/>
+
+<!-- Visual Contribution Grid -->
+## 🌟 Contributions
+
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
+
+</div>
+
+<br/>
+
+<!-- Visual Trophy Case -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&bg_color=0D1117&title_color=FF6B6B)
+
+</div>
+
+<br/>
+
+<!-- Visual Boxes Section -->
+## 📊 Profile Metrics
+
+<div align="center">
+  
+| | |
+|:---:|:---:|
+| **📂 Repositories** | **⭐ Stars** |
+| ![Repos](https://img.shields.io/badge/dynamic/json?color=7F3FBF&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYOUR_USERNAME&style=for-the-badge) | ![Stars](https://img.shields.io/badge/dynamic/json?color=FF6B6B&label=Total%20Stars&query=&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYOUR_USERNAME%2Frepos&style=for-the-badge&query=$..stargazers_count) |
+| **📝 Commits** | **📦 Contributions** |
+| ![Commits](https://img.shields.io/badge/dynamic/json?color=7F3FBF&label=Total%20Commits&query=total&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYOUR_USERNAME%2Fevents%2Fpublic&style=for-the-badge) | ![Contributions](https://img.shields.io/badge/dynamic/json?color=FF6B6B&label=This%20Year&query=total&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYOUR_USERNAME%2Fevents%2Fpublic&style=for-the-badge) |
+
+</div>
+
+<br/>
+
+<!-- Visual Contact Boxes -->
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://YOUR_WEBSITE" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- Visual Footer -->
+<div align="center">
+  
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=FF6B6B&style=flat-square" alt="Profile Views" />
+  
+![Snake Animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 🛠️ **Tech Stack**
 
