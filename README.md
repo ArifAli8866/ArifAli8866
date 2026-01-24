@@ -89,7 +89,7 @@
         🚀 Aspiring Software Engineer
         <span style="position: absolute; bottom: -3px; left: 0; width: 100px; height: 3px; background: linear-gradient(90deg, #FF6B6B, #FFD700);"></span>
       </h2>
-      
+      ---
       <!-- Bio with Animated Highlight -->
       <div style="
         background: rgba(0,0,0,0.3); 
@@ -132,7 +132,7 @@
           I'm constantly learning and building projects to enhance my skills.
         </p>
       </div>
-      
+      ---
       <!-- Current Focus with Icon Cards -->
       <div style="
         background: linear-gradient(135deg, rgba(26, 26, 46, 0.8), rgba(22, 33, 62, 0.9)); 
@@ -157,7 +157,7 @@
             animation: blink 1.5s infinite;"></span>
           🔥 Currently focused on:
         </h3>
-        
+        ---
         <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px;">
           <div style="
             background: linear-gradient(135deg, rgba(0, 89, 156, 0.3), rgba(127, 63, 191, 0.3));
@@ -174,7 +174,7 @@
               <small style="color: #FFD700;">Advanced Level</small>
             </div>
           </div>
-          
+          ---
           <div style="
             background: linear-gradient(135deg, rgba(0, 200, 81, 0.3), rgba(0, 255, 136, 0.3));
             padding: 15px;
@@ -190,7 +190,7 @@
               <small style="color: #FFD700;">React & Node.js</small>
             </div>
           </div>
-          
+         --- 
           <div style="
             background: linear-gradient(135deg, rgba(66, 133, 244, 0.3), rgba(52, 168, 83, 0.3));
             padding: 15px;
@@ -206,7 +206,7 @@
               <small style="color: #FFD700;">Learning & Building</small>
             </div>
           </div>
-          
+          ---
           <div style="
             background: linear-gradient(135deg, rgba(255, 107, 107, 0.3), rgba(255, 142, 83, 0.3));
             padding: 15px;
@@ -225,7 +225,7 @@
         </div>
       </div>
     </td>
-    
+    ---
     <!-- GitHub Trophies with Enhanced Design -->
     <td width="40%" align="center" style="vertical-align: top; padding-left: 30px;">
       <div style="
@@ -237,7 +237,7 @@
                     inset 0 0 30px rgba(255,215,0,0.1);
         backdrop-filter: blur(5px);
         position: relative;">
-        
+        ---
         <!-- Trophy Icon -->
         <div style="
           position: absolute;
@@ -254,7 +254,7 @@
           box-shadow: 0 5px 15px rgba(255, 215, 0, 0.5);">
           <span style="font-size: 1.5em;">🏆</span>
         </div>
-        
+        ---
         <h3 style="
           color: #FFD700; 
           margin-bottom: 20px; 
@@ -266,7 +266,7 @@
           background-clip: text;">
           GitHub Achievements
         </h3>
-        
+        ---
         <!-- Trophies with Glow Effect -->
         <div style="
           background: rgba(30, 30, 46, 0.7);
@@ -281,7 +281,7 @@
                  filter: drop-shadow(0 5px 10px rgba(0,255,136,0.3))
                         drop-shadow(0 0 20px rgba(127,63,191,0.2));" />
         </div>
-        
+        ---
         <!-- Stats Below Trophies -->
         <div style="
           display: flex;
@@ -289,7 +289,7 @@
           margin-top: 20px;
           padding-top: 15px;
           border-top: 2px dashed rgba(255,255,255,0.2);">
-          
+          ---
           <div style="text-align: center;">
             <div style="
               background: linear-gradient(45deg, #00C851, #00FF88);
@@ -305,7 +305,7 @@
             </div>
             <strong style="color: #FFD700;">Stars</strong>
           </div>
-          
+          ---
           <div style="text-align: center;">
             <div style="
               background: linear-gradient(45deg, #4285F4, #34A853);
