@@ -670,44 +670,57 @@
       </a>
     </td>
     
-    <!-- LinkedIn -->
-    <td width="25%" align="center">
-      <a href="https://linkedin.com/in/arif-ali-23a38032a" style="text-decoration: none;">
-        <div style="background: linear-gradient(135deg, #0077B5 0%, #00A0DC 100%); padding: 25px; border-radius: 15px; transition: transform 0.3s, box-shadow 0.3s; box-shadow: 0 8px 20px rgba(0, 119, 181, 0.4);"
-             onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 15px 30px rgba(0, 119, 181, 0.6)'"
-             onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 20px rgba(0, 119, 181, 0.4)'">
-          <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="64" height="64" alt="LinkedIn" />
-          <br>
-          <strong style="color: white; font-size: 1.2em;">LinkedIn</strong>
-        </div>
-      </a>
-    </td>
-    
-    <!-- GitHub -->
-    <td width="25%" align="center">
-      <a href="https://github.com/ArifAli8866" style="text-decoration: none;">
-        <div style="background: linear-gradient(135deg, #181717 0%, #333333 100%); padding: 25px; border-radius: 15px; transition: transform 0.3s, box-shadow 0.3s; box-shadow: 0 8px 20px rgba(24, 23, 23, 0.4);"
-             onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 15px 30px rgba(24, 23, 23, 0.6)'"
-             onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 20px rgba(24, 23, 23, 0.4)'">
-          <img src="https://img.icons8.com/color/96/000000/github.png" width="64" height="64" alt="GitHub" />
-          <br>
-          <strong style="color: white; font-size: 1.2em;">GitHub</strong>
-        </div>
-      </a>
-    </td>
-    
-    <!-- Portfolio -->
-    <td width="25%" align="center">
-      <a href="https://portfolio-lovat-five-67.vercel.app" style="text-decoration: none;">
-        <div style="background: linear-gradient(135deg, #000000 0%, #333333 100%); padding: 25px; border-radius: 15px; transition: transform 0.3s, box-shadow 0.3s; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);"
-             onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 15px 30px rgba(0, 0, 0, 0.6)'"
-             onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 20px rgba(0, 0, 0, 0.4)'">
-          <img src="https://img.icons8.com/color/96/000000/portfolio.png" width="64" height="64" alt="Portfolio" />
-          <br>
-          <strong style="color: white; font-size: 1.2em;">Portfolio</strong>
-        </div>
-      </a>
-    </td>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  
+  <!-- Email Card -->
+  <a href="mailto:2arif2143055@gmail.com" style="text-decoration: none; width: 22%; min-width: 150px;">
+    <div style="background: linear-gradient(135deg, #D14836 0%, #EA4335 100%); padding: 30px 20px; border-radius: 15px; transition: all 0.3s ease; box-shadow: 0 8px 20px rgba(209, 72, 54, 0.4); text-align: center;"
+         onmouseover="this.style.transform='translateY(-10px) scale(1.05)'; this.style.boxShadow='0 15px 30px rgba(209, 72, 54, 0.6)'"
+         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 20px rgba(209, 72, 54, 0.4)'">
+      <img src="https://img.icons8.com/color/96/000000/gmail.png" width="70" height="70" alt="Email" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));" />
+      <br><br>
+      <strong style="color: white; font-size: 1.2em; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">Email</strong>
+      <p style="color: rgba(255,255,255,0.9); font-size: 0.9em; margin-top: 5px;">Click to email me</p>
+    </div>
+  </a>
+  
+  <!-- LinkedIn Card -->
+  <a href="https://linkedin.com/in/arif-ali-23a38032a" style="text-decoration: none; width: 22%; min-width: 150px;">
+    <div style="background: linear-gradient(135deg, #0077B5 0%, #00A0DC 100%); padding: 30px 20px; border-radius: 15px; transition: all 0.3s ease; box-shadow: 0 8px 20px rgba(0, 119, 181, 0.4); text-align: center;"
+         onmouseover="this.style.transform='translateY(-10px) scale(1.05)'; this.style.boxShadow='0 15px 30px rgba(0, 119, 181, 0.6)'"
+         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 20px rgba(0, 119, 181, 0.4)'">
+      <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="70" height="70" alt="LinkedIn" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));" />
+      <br><br>
+      <strong style="color: white; font-size: 1.2em; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">LinkedIn</strong>
+      <p style="color: rgba(255,255,255,0.9); font-size: 0.9em; margin-top: 5px;">Connect professionally</p>
+    </div>
+  </a>
+  
+  <!-- GitHub Card -->
+  <a href="https://github.com/ArifAli8866" style="text-decoration: none; width: 22%; min-width: 150px;">
+    <div style="background: linear-gradient(135deg, #181717 0%, #333333 100%); padding: 30px 20px; border-radius: 15px; transition: all 0.3s ease; box-shadow: 0 8px 20px rgba(24, 23, 23, 0.4); text-align: center;"
+         onmouseover="this.style.transform='translateY(-10px) scale(1.05)'; this.style.boxShadow='0 15px 30px rgba(24, 23, 23, 0.6)'"
+         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 20px rgba(24, 23, 23, 0.4)'">
+      <img src="https://img.icons8.com/color/96/000000/github.png" width="70" height="70" alt="GitHub" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));" />
+      <br><br>
+      <strong style="color: white; font-size: 1.2em; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">GitHub</strong>
+      <p style="color: rgba(255,255,255,0.9); font-size: 0.9em; margin-top: 5px;">View my projects</p>
+    </div>
+  </a>
+  
+  <!-- Portfolio Card -->
+  <a href="https://portfolio-lovat-five-67.vercel.app" style="text-decoration: none; width: 22%; min-width: 150px;">
+    <div style="background: linear-gradient(135deg, #000000 0%, #333333 100%); padding: 30px 20px; border-radius: 15px; transition: all 0.3s ease; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4); text-align: center;"
+         onmouseover="this.style.transform='translateY(-10px) scale(1.05)'; this.style.boxShadow='0 15px 30px rgba(0, 0, 0, 0.6)'"
+         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 20px rgba(0, 0, 0, 0.4)'">
+      <img src="https://img.icons8.com/color/96/000000/portfolio.png" width="70" height="70" alt="Portfolio" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));" />
+      <br><br>
+      <strong style="color: white; font-size: 1.2em; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">Portfolio</strong>
+      <p style="color: rgba(255,255,255,0.9); font-size: 0.9em; margin-top: 5px;">See my work</p>
+    </div>
+  </a>
+  
+</div>
   </tr>
 </table>
 
