@@ -57,7 +57,7 @@
             font-family: 'Segoe UI', system-ui, sans-serif;
         }
         
-        body {
+  body {
             background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
             color: #fff;
             min-height: 100vh;
@@ -67,7 +67,7 @@
             padding: 20px;
         }
         
-        .profile-container {
+  .profile-container {
             display: flex;
             flex-wrap: wrap;
             gap: 20px;
@@ -76,7 +76,7 @@
             justify-content: center;
         }
         
-        /* Main Profile Box */
+  /* Main Profile Box */
         .profile-box {
             position: relative;
             width: 280px;
@@ -92,7 +92,7 @@
             z-index: 1;
         }
         
-        .profile-box::before {
+  .profile-box::before {
             content: '';
             position: absolute;
             top: 0;
@@ -104,11 +104,11 @@
             transition: transform 0.6s;
         }
         
-        .profile-box:hover::before {
+  .profile-box:hover::before {
             transform: translateX(100%);
         }
         
-        .profile-icon {
+  .profile-icon {
             font-size: 70px;
             margin-bottom: 15px;
             text-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
@@ -120,7 +120,7 @@
             letter-spacing: 1px;
         }
         
-        /* Additional Boxes */
+  /* Additional Boxes */
         .side-box {
             width: 180px;
             height: 180px;
@@ -137,33 +137,33 @@
             transition: all 0.3s ease;
         }
         
-        .side-box:hover {
+  .side-box:hover {
             transform: translateY(-10px);
             box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
             background: rgba(255, 255, 255, 0.15);
         }
         
-        .box-icon {
+.box-icon {
             font-size: 40px;
             margin-bottom: 12px;
             color: #FF6B6B;
         }
         
-        .box-title {
+  .box-title {
             font-size: 16px;
             font-weight: 600;
             text-align: center;
             margin-bottom: 8px;
         }
         
-        .box-content {
+  .box-content {
             font-size: 12px;
             text-align: center;
             opacity: 0.9;
             line-height: 1.4;
         }
         
-        /* Layout for additional boxes */
+  /* Layout for additional boxes */
         .boxes-grid {
             display: grid;
             grid-template-columns: repeat(2, 1fr);
@@ -171,7 +171,7 @@
             width: 400px;
         }
         
-        /* Skill bar boxes */
+  /* Skill bar boxes */
         .skill-box {
             grid-column: span 2;
             width: 100%;
@@ -187,54 +187,54 @@
             border: 1px solid rgba(255, 255, 255, 0.1);
         }
         
-        .skill-title {
+  .skill-title {
             display: flex;
             justify-content: space-between;
             margin-bottom: 8px;
             font-size: 14px;
         }
         
-        .skill-bar {
+  .skill-bar {
             height: 8px;
             background: rgba(255, 255, 255, 0.1);
             border-radius: 4px;
             overflow: hidden;
         }
         
-        .skill-progress {
+  .skill-progress {
             height: 100%;
             background: linear-gradient(90deg, #7F3FBF, #FF6B6B);
             border-radius: 4px;
         }
         
-        /* Responsive adjustments */
+  /* Responsive adjustments */
         @media (max-width: 768px) {
             .profile-container {
                 flex-direction: column;
                 align-items: center;
             }
             
-            .boxes-grid {
+  .boxes-grid {
                 width: 280px;
                 grid-template-columns: 1fr;
             }
             
-            .skill-box {
+  .skill-box {
                 grid-column: span 1;
             }
         }
         
-        /* Animation */
+  /* Animation */
         @keyframes fadeIn {
             from { opacity: 0; transform: translateY(20px); }
             to { opacity: 1; transform: translateY(0); }
         }
         
-        .profile-box, .side-box, .skill-box {
+ .profile-box, .side-box, .skill-box {
             animation: fadeIn 0.8s ease forwards;
         }
         
-        .side-box:nth-child(2) { animation-delay: 0.2s; }
+  .side-box:nth-child(2) { animation-delay: 0.2s; }
         .side-box:nth-child(3) { animation-delay: 0.4s; }
         .side-box:nth-child(4) { animation-delay: 0.6s; }
         .skill-box { animation-delay: 0.8s; }
@@ -250,8 +250,8 @@
             <div class="profile-title">About Me</div>
         </div>
         
-        <!-- Additional Boxes -->
-        <div class="boxes-grid">
+<!-- Additional Boxes -->
+<div class="boxes-grid">
             <!-- Box 1 -->
             <div class="side-box">
                 <div class="box-icon">
@@ -261,8 +261,8 @@
                 <div class="box-content">Frontend & Backend</div>
             </div>
             
-            <!-- Box 2 -->
-            <div class="side-box">
+    <!-- Box 2 -->
+  <div class="side-box">
                 <div class="box-icon">
                     <i class="fas fa-palette"></i>
                 </div>
@@ -271,7 +271,7 @@
             </div>
             
             <!-- Box 3 -->
-            <div class="side-box">
+  <div class="side-box">
                 <div class="box-icon">
                     <i class="fas fa-rocket"></i>
                 </div>
@@ -280,7 +280,7 @@
             </div>
             
             <!-- Box 4 -->
-            <div class="side-box">
+  <div class="side-box">
                 <div class="box-icon">
                     <i class="fas fa-medal"></i>
                 </div>
@@ -288,8 +288,8 @@
                 <div class="box-content">5+ Years</div>
             </div>
             
-            <!-- Skill Bar Box -->
-            <div class="skill-box">
+       <!-- Skill Bar Box -->
+  <div class="skill-box">
                 <div class="skill-title">
                     <span>Creative Coding</span>
                     <span>92%</span>
@@ -301,7 +301,7 @@
         </div>
     </div>
     
-    <script>
+  <script>
         // Add interactive hover effects
         document.querySelectorAll('.side-box').forEach(box => {
             box.addEventListener('mouseenter', function() {
@@ -316,7 +316,7 @@
             });
         });
         
-        // Animate skill bars on load
+  // Animate skill bars on load
         document.addEventListener('DOMContentLoaded', function() {
             const skillBars = document.querySelectorAll('.skill-progress');
             skillBars.forEach(bar => {
