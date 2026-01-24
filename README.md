@@ -1,4 +1,3 @@
-I see the issue! The code block is showing as raw text instead of being rendered properly. This happens because GitHub doesn't support all features. Let me fix this with a completely working, attractive design:
 
 ```markdown
 <div align="center">
