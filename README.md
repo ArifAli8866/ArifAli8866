@@ -563,33 +563,33 @@
     </td>
     
     <!-- Quick Stats -->
-    <td width="50%">
-      <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 25px; border-radius: 15px; margin: 10px; border: 2px solid #FF6B6B; box-shadow: 0 8px 25px rgba(255, 107, 107, 0.3);">
-        <h3 style="color: #FF6B6B; margin-bottom: 15px;">📊 Quick Stats</h3>
-        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px;">
-          <div style="background: rgba(66, 133, 244, 0.2); padding: 15px; border-radius: 10px; border: 1px solid #4285F4;">
-            <p style="color: #4285F4; font-weight: bold; margin: 0;">🏢 Internships</p>
-            <p style="color: #FFD700; font-size: 1.5em; margin: 5px 0;">3</p>
-            <p style="color: #f0f0f0; font-size: 0.9em; margin: 0;">Completed</p>
-          </div>
-          <div style="background: rgba(0, 200, 81, 0.2); padding: 15px; border-radius: 10px; border: 1px solid #00C851;">
-            <p style="color: #00C851; font-weight: bold; margin: 0;">📜 Certifications</p>
-            <p style="color: #FFD700; font-size: 1.5em; margin: 5px 0;">10+</p>
-            <p style="color: #f0f0f0; font-size: 0.9em; margin: 0;">Earned</p>
-          </div>
-          <div style="background: rgba(255, 107, 107, 0.2); padding: 15px; border-radius: 10px; border: 1px solid #FF6B6B;">
-            <p style="color: #FF6B6B; font-weight: bold; margin: 0;">💻 Projects</p>
-            <p style="color: #FFD700; font-size: 1.5em; margin: 5px 0;">15+</p>
-            <p style="color: #f0f0f0; font-size: 0.9em; margin: 0;">Built</p>
-          </div>
-          <div style="background: rgba(127, 63, 191, 0.2); padding: 15px; border-radius: 10px; border: 1px solid #7F3FBF;">
-            <p style="color: #7F3FBF; font-weight: bold; margin: 0;">⌨️ Typing Speed</p>
-            <p style="color: #FFD700; font-size: 1.5em; margin: 5px 0;">50+</p>
-            <p style="color: #f0f0f0; font-size: 0.9em; margin: 0;">WPM</p>
-          </div>
-        </div>
+<td width="50%">
+  <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 25px; border-radius: 15px; margin: 10px; border: 2px solid #FF6B6B; box-shadow: 0 8px 25px rgba(255, 107, 107, 0.3);">
+    <h3 style="color: #FF6B6B; margin-bottom: 15px;">📊 Quick Stats</h3>
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(2, 1fr); gap: 15px; height: 200px;">
+      <div style="background: rgba(66, 133, 244, 0.2); padding: 15px; border-radius: 10px; border: 1px solid #4285F4; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+        <p style="color: #4285F4; font-weight: bold; margin: 0; text-align: center;">🏢 Internships</p>
+        <p style="color: #FFD700; font-size: 1.8em; margin: 5px 0; font-weight: bold;">3</p>
+        <p style="color: #f0f0f0; font-size: 0.8em; margin: 0;">Completed</p>
       </div>
-    </td>
+      <div style="background: rgba(0, 200, 81, 0.2); padding: 15px; border-radius: 10px; border: 1px solid #00C851; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+        <p style="color: #00C851; font-weight: bold; margin: 0; text-align: center;">📜 Certifications</p>
+        <p style="color: #FFD700; font-size: 1.8em; margin: 5px 0; font-weight: bold;">10+</p>
+        <p style="color: #f0f0f0; font-size: 0.8em; margin: 0;">Earned</p>
+      </div>
+      <div style="background: rgba(255, 107, 107, 0.2); padding: 15px; border-radius: 10px; border: 1px solid #FF6B6B; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+        <p style="color: #FF6B6B; font-weight: bold; margin: 0; text-align: center;">💻 Projects</p>
+        <p style="color: #FFD700; font-size: 1.8em; margin: 5px 0; font-weight: bold;">15+</p>
+        <p style="color: #f0f0f0; font-size: 0.8em; margin: 0;">Built</p>
+      </div>
+      <div style="background: rgba(127, 63, 191, 0.2); padding: 15px; border-radius: 10px; border: 1px solid #7F3FBF; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+        <p style="color: #7F3FBF; font-weight: bold; margin: 0; text-align: center;">⌨️ Typing Speed</p>
+        <p style="color: #FFD700; font-size: 1.8em; margin: 5px 0; font-weight: bold;">50+</p>
+        <p style="color: #f0f0f0; font-size: 0.8em; margin: 0;">WPM</p>
+      </div>
+    </div>
+  </div>
+</td>
   </tr>
 </table>
 
