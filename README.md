@@ -1,12 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner with Gradient -->
-<img src="https://capsule-render.vercel.app/api?
-  
-  
-  
-  type=waving&color=0:7F3FBF,50:412991,100:FF6B6B&height=200&section=header&text=Arif%20Ali&fontSize=70&fontColor=fff&animation=twinkling&stroke=000&strokeWidth=2" alt="Header" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F3FBF,50:412991,100:FF6B6B&height=200&section=header&text=Arif%20Ali&fontSize=70&fontColor=fff&animation=twinkling&stroke=000&strokeWidth=2" alt="Header" />
 <!-- Rainbow Typing Animation -->
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=900&lines=🌈+Hey+there!+I'm+Arif+Ali;💜+Passionate+C+++Developer;🚀+Aspiring+Software+Engineer;🔥+Always+Learning+and+Building" alt="Typing SVG" />
