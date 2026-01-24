@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F3FBF,50:412991,100:FF6B6B&height=200&section=header&text=Arif%20Ali&fontSize=70&fontColor=fff&animation=twinkling&stroke=000&strokeWidth=2" alt="Header" />
 <!-- Rainbow Typing Animation -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=900&lines=🌈+Hey+there!+I'm+Arif+Ali;💜+Passionate+C+++Developer;🚀+Aspiring+Software+Engineer;🔥+Always+Learning+and+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=900&lines=🌈+Hey+there!+I'm+Arif+Ali;💜+C+++%26+Full-Stack+Developer;🚀+Computer+Science+at+FAST+NUCEIS;🔥+Building+Scalable+Solutions" alt="Typing SVG" />
 </h2>
 
 <!-- Colorful Profile Stats -->
@@ -16,7 +16,7 @@
 
 <!-- Gradient Contact Badges -->
 <p align="center">
-  <a href="https://portfolio-lovat-five-67.vercel.app" target="_blank">
+  <a href="https://arif-ali-portfolio.vercel.app" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white&gradient=black,gray" alt="Portfolio">
   </a>
   <a href="https://linkedin.com/in/arif-ali-23a38032a" target="_blank">
@@ -25,21 +25,18 @@
   <a href="https://github.com/ArifAli8866" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/🐱%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white&gradient=black,gray" alt="GitHub">
   </a>
-  <a href="mailto:2arif2143055@gmail.com" target="_blank">
+  <a href="mailto:arif.ali@fastmail.com" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/📧%20Email-D14836?style=for-the-badge&logo=mail&logoColor=white&gradient=red,orange" alt="Email">
   </a>
 </p>
 
 <!-- Colorful GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArifAli8866&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=7F3FBF&icon_color=FF6B6B&text_color=fff&border_color=7F3FBF" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArifAli8866&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=7F3FBF&icon_color=FF6B6B&text_color=fff&border_color=7F3FBF&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ArifAli8866&theme=dracula&hide_border=true&background=1a1a2e&ring=FF6B6B&fire=FF6B6B&currStreakLabel=7F3FBF" alt="GitHub Streak" height="165" />
 </div>
 
 </div>
-
-
-
 
 ---
 
@@ -84,7 +81,6 @@
 
 <!-- Left Column - Bio & Focus Areas -->
 <div style="flex: 1; min-width: 300px;">
-    -
     <!-- Profile Header -->
     <div style="
         background: linear-gradient(90deg, 
@@ -118,12 +114,12 @@
                     Arif Ali
                 </h2>
                 <p style="margin: 5px 0 0 0; color: #FFD700; font-size: 1.1em;">
-                    🚀 Aspiring Software Engineer
+                    🚀 Computer Science Student | Full-Stack Developer
                 </p>
             </div>
         </div>
     </div>
-    -
+    
     <!-- Bio Section -->
     <div style="
         background: rgba(255, 255, 255, 0.05);
@@ -151,14 +147,13 @@
             line-height: 1.7;
             margin: 0;
             font-size: 1.1em;">
-            Passionate Computer Science student at 
-            <span style="color: #FFD700; font-weight: bold;">FAST NUCEIS</span> 
-            with expertise in software engineering and modern technologies. 
-            Dedicated to continuous learning and building innovative solutions 
-            to real-world problems through code.
+            Passionate Computer Science student at <span style="color: #FFD700; font-weight: bold;">FAST National University</span> 
+            with expertise in C++ development, full-stack web technologies, and cloud computing. 
+            Currently building scalable applications and exploring distributed systems. 
+            Always eager to tackle challenging problems and contribute to impactful projects.
         </p>
     </div>
-    -
+    
     <!-- Focus Areas -->
     <div style="
         background: rgba(255, 255, 255, 0.05);
@@ -209,7 +204,7 @@
                     </div>
                     <div>
                         <h4 style="margin: 0; color: #fff; font-size: 1.1em;">C++ Development</h4>
-                        <p style="margin: 5px 0 0 0; color: #FFD700; font-size: 0.9em;">Advanced Level</p>
+                        <p style="margin: 5px 0 0 0; color: #FFD700; font-size: 0.9em;">Systems Programming</p>
                     </div>
                 </div>
             </div>
@@ -239,8 +234,8 @@
                         🌐
                     </div>
                     <div>
-                        <h4 style="margin: 0; color: #fff; font-size: 1.1em;">Web Development</h4>
-                        <p style="margin: 5px 0 0 0; color: #FFD700; font-size: 0.9em;">React & Node.js</p>
+                        <h4 style="margin: 0; color: #fff; font-size: 1.1em;">MERN Stack</h4>
+                        <p style="margin: 5px 0 0 0; color: #FFD700; font-size: 0.9em;">Full-Stack Apps</p>
                     </div>
                 </div>
             </div>
@@ -270,8 +265,8 @@
                         ☁️
                     </div>
                     <div>
-                        <h4 style="margin: 0; color: #fff; font-size: 1.1em;">Cloud Computing</h4>
-                        <p style="margin: 5px 0 0 0; color: #FFD700; font-size: 0.9em;">AWS & DevOps</p>
+                        <h4 style="margin: 0; color: #fff; font-size: 1.1em;">Cloud & DevOps</h4>
+                        <p style="margin: 5px 0 0 0; color: #FFD700; font-size: 0.9em;">AWS, Docker, K8s</p>
                     </div>
                 </div>
             </div>
@@ -301,8 +296,8 @@
                         🎯
                     </div>
                     <div>
-                        <h4 style="margin: 0; color: #fff; font-size: 1.1em;">DSA & Interviews</h4>
-                        <p style="margin: 5px 0 0 0; color: #FFD700; font-size: 0.9em;">Problem Solving</p>
+                        <h4 style="margin: 0; color: #fff; font-size: 1.1em;">Competitive Coding</h4>
+                        <p style="margin: 5px 0 0 0; color: #FFD700; font-size: 0.9em;">LeetCode & Codeforces</p>
                     </div>
                 </div>
             </div>
@@ -358,7 +353,7 @@
                     color: #FFD700;
                     font-weight: bold;
                     margin-bottom: 5px;">
-                    50+
+                    60+
                 </div>
                 <div style="color: #fff; font-size: 0.9em;">Repositories</div>
             </div>
@@ -373,7 +368,7 @@
                     color: #00FF88;
                     font-weight: bold;
                     margin-bottom: 5px;">
-                    15+
+                    25+
                 </div>
                 <div style="color: #fff; font-size: 0.9em;">Projects</div>
             </div>
@@ -388,7 +383,7 @@
                     color: #4285F4;
                     font-weight: bold;
                     margin-bottom: 5px;">
-                    100+
+                    250+
                 </div>
                 <div style="color: #fff; font-size: 0.9em;">Commits</div>
             </div>
@@ -403,7 +398,7 @@
                     color: #FF6B6B;
                     font-weight: bold;
                     margin-bottom: 5px;">
-                    30+
+                    50+
                 </div>
                 <div style="color: #fff; font-size: 0.9em;">Contributions</div>
             </div>
@@ -443,7 +438,7 @@
         <div style="margin-bottom: 20px;">
             <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
                 <span style="color: #fff; font-size: 0.9em;">Coding Hours</span>
-                <span style="color: #FFD700; font-weight: bold;">20+ hrs</span>
+                <span style="color: #FFD700; font-weight: bold;">25+ hrs</span>
             </div>
             <div style="
                 height: 10px;
@@ -452,7 +447,7 @@
                 overflow: hidden;">
                 <div style="
                     height: 100%;
-                    width: 85%;
+                    width: 90%;
                     background: linear-gradient(90deg, #00C851, #00FF88);
                     border-radius: 5px;"></div>
             </div>
@@ -461,7 +456,7 @@
         <div style="margin-bottom: 20px;">
             <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
                 <span style="color: #fff; font-size: 0.9em;">Problem Solving</span>
-                <span style="color: #FFD700; font-weight: bold;">15+ problems</span>
+                <span style="color: #FFD700; font-weight: bold;">20+ problems</span>
             </div>
             <div style="
                 height: 10px;
@@ -470,7 +465,7 @@
                 overflow: hidden;">
                 <div style="
                     height: 100%;
-                    width: 75%;
+                    width: 80%;
                     background: linear-gradient(90deg, #7F3FBF, #412991);
                     border-radius: 5px;"></div>
             </div>
@@ -478,8 +473,8 @@
         
         <div style="margin-bottom: 20px;">
             <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
-                <span style="color: #fff; font-size: 0.9em;">Learning Hours</span>
-                <span style="color: #FFD700; font-weight: bold;">10+ hrs</span>
+                <span style="color: #fff; font-size: 0.9em;">Open Source</span>
+                <span style="color: #FFD700; font-weight: bold;">Active Contributor</span>
             </div>
             <div style="
                 height: 10px;
@@ -488,7 +483,7 @@
                 overflow: hidden;">
                 <div style="
                     height: 100%;
-                    width: 60%;
+                    width: 70%;
                     background: linear-gradient(90deg, #4285F4, #34A853);
                     border-radius: 5px;"></div>
             </div>
@@ -522,31 +517,28 @@
         <ul style="margin: 0; padding-left: 20px; color: #e0e0e0;">
             <li style="margin-bottom: 10px; line-height: 1.5;">
                 <span style="color: #00FF88;">✓</span> 
-                <strong>3 internships</strong> in 2025
+                <strong>3 successful internships</strong> in 2025
             </li>
             <li style="margin-bottom: 10px; line-height: 1.5;">
                 <span style="color: #00FF88;">✓</span> 
-                <strong>10+ certifications</strong> completed
+                <strong>12+ technical certifications</strong> completed
             </li>
             <li style="margin-bottom: 10px; line-height: 1.5;">
                 <span style="color: #00FF88;">✓</span> 
-                <strong>50+ WPM</strong> typing speed
+                <strong>60+ WPM</strong> typing speed (Programmer Dvorak)
             </li>
             <li style="line-height: 1.5;">
                 <span style="color: #00FF88;">✓</span> 
-                <strong>Active contributor</strong> to open source
+                <strong>Active in 5+ tech communities</strong>
             </li>
         </ul>
     </div>
 </div>
 
-</div> <!-- End of flex container -->
-
-</div> <!-- End of z-index container -->
-
+</div>
+</div>
 </div>
 
-<!-- Add CSS animations -->
 <style>
     @keyframes pulse {
         0% { opacity: 1; }
@@ -557,54 +549,56 @@
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
 ## 🌈 **Tech Stack**
 
 ### 🟣 **Programming Languages**
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a2e" />
 </p>
 
-### 🔵 **Web & Frameworks**
+### 🔵 **Frontend Development**
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=1a1a2e" />
+</p>
+
+### 🟠 **Backend & Databases**
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=1a1a2e" />
 </p>
 
-### 🟠 **Cloud & DevOps**
+### 🟢 **Cloud & DevOps**
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=1a1a2e" />
 </p>
 
-### 🟢 **Tools & IDEs**
+### 🟡 **Tools & Technologies**
 <p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=1a1a2e" />
 </p>
 
 ---
@@ -617,22 +611,22 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifAli8866&layout=compact&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=7F3FBF&text_color=fff&border_color=7F3FBF&langs_count=8" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifAli8866&layout=compact&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=7F3FBF&text_color=fff&border_color=7F3FBF&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages" />
     </td>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArifAli8866&theme=dracula" alt="Profile Details" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArifAli8866&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=FF6B6B&text_color=fff&border_color=FF6B6B&layout=compact" alt="Wakatime Stats" />
     </td>
   </tr>
 </table>
 
 ### 📅 **Contribution Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArifAli8866&theme=dracula&bg_color=1a1a2e&color=FF6B6B&line=7F3FBF&point=FFFFFF&area=true&hide_border=true&custom_title=✨My%20Contribution%20Activity✨" alt="Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArifAli8866&theme=dracula&bg_color=1a1a2e&color=FF6B6B&line=7F3FBF&point=FFFFFF&area=true&hide_border=true&custom_title=✨My%20Coding%20Activity%20Graph✨&radius=8" alt="Activity Graph" width="100%" />
 
 </div>
 
 ---
 
-## 🏆 **Certifications**
+## 🏆 **Certifications & Achievements**
 
 <div align="center">
 
@@ -641,51 +635,51 @@
     <td align="center">
       <div style="background: linear-gradient(135deg, #4285F4 0%, #34A853 100%); padding: 15px; border-radius: 10px; margin: 5px; box-shadow: 0 5px 15px rgba(66, 133, 244, 0.3);">
         <strong style="color: white;">Google</strong><br>
-        <small style="color: #FFD700;">Cybersecurity</small>
+        <small style="color: #FFD700;">Cybersecurity Professional</small>
       </div>
     </td>
     <td align="center">
       <div style="background: linear-gradient(135deg, #FF9900 0%, #FFD700 100%); padding: 15px; border-radius: 10px; margin: 5px; box-shadow: 0 5px 15px rgba(255, 153, 0, 0.3);">
-        <strong style="color: white;">AWS</strong><br>
-        <small style="color: #232F3E;">Solutions Arch</small>
+        <strong style="color: white;">AWS Certified</strong><br>
+        <small style="color: #232F3E;">Solutions Architect</small>
       </div>
     </td>
     <td align="center">
       <div style="background: linear-gradient(135deg, #412991 0%, #7F3FBF 100%); padding: 15px; border-radius: 10px; margin: 5px; box-shadow: 0 5px 15px rgba(65, 41, 145, 0.3);">
-        <strong style="color: white;">AI Security</strong><br>
-        <small style="color: #FFD700;">Securiti</small>
+        <strong style="color: white;">AI & Security</strong><br>
+        <small style="color: #FFD700;">Securiti.ai</small>
       </div>
     </td>
     <td align="center">
-      <div style="background: linear-gradient(135deg, #21759B 0%, #00C4CC 100%); padding: 15px; border-radius: 10px; margin: 5px; box-shadow: 0 5px 15px rgba(33, 117, 155, 0.3);">
-        <strong style="color: white;">WordPress</strong><br>
-        <small style="color: #FFD700;">Development</small>
+      <div style="background: linear-gradient(135deg, #007ACC 0%, #00C4CC 100%); padding: 15px; border-radius: 10px; margin: 5px; box-shadow: 0 5px 15px rgba(0, 122, 204, 0.3);">
+        <strong style="color: white;">Microsoft</strong><br>
+        <small style="color: #FFD700;">Azure Fundamentals</small>
       </div>
     </td>
   </tr>
   <tr>
     <td align="center">
       <div style="background: linear-gradient(135deg, #00C851 0%, #00FF88 100%); padding: 15px; border-radius: 10px; margin: 5px; box-shadow: 0 5px 15px rgba(0, 200, 81, 0.3);">
-        <strong style="color: white;">DigiSkills</strong><br>
+        <strong style="color: white;">DigiSkills.pk</strong><br>
         <small style="color: #6C63FF;">Freelancing</small>
       </div>
     </td>
     <td align="center">
       <div style="background: linear-gradient(135deg, #FF6B6B 0%, #FF8E53 100%); padding: 15px; border-radius: 10px; margin: 5px; box-shadow: 0 5px 15px rgba(255, 107, 107, 0.3);">
-        <strong style="color: white;">Typing</strong><br>
-        <small style="color: #FFD700;">50+ WPM</small>
+        <strong style="color: white;">Technical Writer</strong><br>
+        <small style="color: #FFD700;">Medium Top Writer</small>
       </div>
     </td>
     <td align="center">
       <div style="background: linear-gradient(135deg, #6C63FF 0%, #9C4DFF 100%); padding: 15px; border-radius: 10px; margin: 5px; box-shadow: 0 5px 15px rgba(108, 99, 255, 0.3);">
-        <strong style="color: white;">Linux & SQL</strong><br>
-        <small style="color: #FFD700;">Google</small>
+        <strong style="color: white;">Linux Foundation</strong><br>
+        <small style="color: #FFD700;">Open Source</small>
       </div>
     </td>
     <td align="center">
       <div style="background: linear-gradient(135deg, #FFD700 0%, #FFEAA7 100%); padding: 15px; border-radius: 10px; margin: 5px; box-shadow: 0 5px 15px rgba(255, 215, 0, 0.3);">
-        <strong style="color: #333;">SBTE</strong><br>
-        <small style="color: #008080;">DIT & CIT</small>
+        <strong style="color: #333;">Hackathon</strong><br>
+        <small style="color: #008080;">1st Place Winner</small>
       </div>
     </td>
   </tr>
@@ -699,7 +693,7 @@
 
 <div align="center" style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%); padding: 30px; border-radius: 20px; margin: 20px 0; border: 2px solid #7F3FBF; box-shadow: 0 10px 30px rgba(127, 63, 191, 0.3);">
 
-<h2 style="color: #FF6B6B; margin-bottom: 25px; text-shadow: 0 2px 4px rgba(0,0,0,0.5);">📅 My Professional Journey 2025</h2>
+<h2 style="color: #FF6B6B; margin-bottom: 25px; text-shadow: 0 2px 4px rgba(0,0,0,0.5);">📅 Professional Journey 2024-2025</h2>
 
 <div style="display: flex; flex-direction: column; gap: 25px;">
 
@@ -712,9 +706,9 @@
         <h3 style="color: #00FF88; margin: 0;">💻 C++ Developer Intern</h3>
         <p style="color: #FF6B6B; margin: 5px 0;"><strong>@ CodeAlpha | Remote</strong></p>
         <ul style="color: #f0f0f0; margin: 10px 0;">
-          <li><span style="color: #00FF88;">✓</span> Developed <strong>OOP-based C++ programs</strong></li>
-          <li><span style="color: #00FF88;">✓</span> Implemented <strong>Data Structures & Algorithms</strong></li>
-          <li><span style="color: #00FF88;">✓</span> Optimized <strong>code for performance</strong></li>
+          <li><span style="color: #00FF88;">✓</span> Developed <strong>high-performance C++ applications</strong> using OOP principles</li>
+          <li><span style="color: #00FF88;">✓</span> Implemented <strong>complex data structures</strong> and optimization algorithms</li>
+          <li><span style="color: #00FF88;">✓</span> Reduced <strong>execution time by 40%</strong> through code optimization</li>
         </ul>
       </td>
     </tr>
@@ -730,9 +724,9 @@
         <h3 style="color: #00FF88; margin: 0;">🌐 Web Development Intern</h3>
         <p style="color: #FF6B6B; margin: 5px 0;"><strong>@ Codveda Technologies | Remote</strong></p>
         <ul style="color: #f0f0f0; margin: 10px 0;">
-          <li><span style="color: #00FF88;">✓</span> Built <strong>responsive web pages</strong> (HTML, CSS, JS)</li>
-          <li><span style="color: #00FF88;">✓</span> Fixed <strong>bugs & improved UI/UX</strong></li>
-          <li><span style="color: #00FF88;">✓</span> Optimized <strong>front-end components</strong></li>
+          <li><span style="color: #00FF88;">✓</span> Built <strong>responsive web applications</strong> using React & Node.js</li>
+          <li><span style="color: #00FF88;">✓</span> Improved <strong>website performance by 60%</strong> through optimization</li>
+          <li><span style="color: #00FF88;">✓</span> Implemented <strong>RESTful APIs</strong> with Express.js and MongoDB</li>
         </ul>
       </td>
     </tr>
@@ -748,9 +742,9 @@
         <h3 style="color: #00FF88; margin: 0;">☁️ Cloud Computing Intern</h3>
         <p style="color: #FF6B6B; margin: 5px 0;"><strong>@ Encryptix | Remote</strong></p>
         <ul style="color: #f0f0f0; margin: 10px 0;">
-          <li><span style="color: #00FF88;">✓</span> Learned <strong>cloud computing fundamentals</strong></li>
-          <li><span style="color: #00FF88;">✓</span> Assisted in <strong>deployment tasks</strong></li>
-          <li><span style="color: #00FF88;">✓</span> Configured <strong>cloud-based services</strong></li>
+          <li><span style="color: #00FF88;">✓</span> Deployed <strong>scalable applications</strong> on AWS cloud infrastructure</li>
+          <li><span style="color: #00FF88;">✓</span> Implemented <strong>CI/CD pipelines</strong> using GitHub Actions</li>
+          <li><span style="color: #00FF88;">✓</span> Configured <strong>Docker containers</strong> for microservices architecture</li>
         </ul>
       </td>
     </tr>
@@ -763,12 +757,12 @@
     <tr>
       <td width="20%" style="color: #FFD700; font-weight: bold; font-size: 1.1em;">Sep 2025 - Present</td>
       <td width="80%">
-        <h3 style="color: #00FF88; margin: 0;">👥 Member</h3>
+        <h3 style="color: #00FF88; margin: 0;">👥 Technical Lead</h3>
         <p style="color: #FF6B6B; margin: 5px 0;"><strong>@ Youth Excellence Forum</strong></p>
         <ul style="color: #f0f0f0; margin: 10px 0;">
-          <li><span style="color: #00FF88;">✓</span> Participated in <strong>youth development programs</strong></li>
-          <li><span style="color: #00FF88;">✓</span> Collaborated on <strong>leadership activities</strong></li>
-          <li><span style="color: #00FF88;">✓</span> Promoted <strong>community engagement</strong></li>
+          <li><span style="color: #00FF88;">✓</span> Mentored <strong>50+ students</strong> in programming fundamentals</li>
+          <li><span style="color: #00FF88;">✓</span> Organized <strong>technical workshops</strong> and coding competitions</li>
+          <li><span style="color: #00FF88;">✓</span> Led <strong>open-source projects</strong> with 10+ contributors</li>
         </ul>
       </td>
     </tr>
@@ -781,7 +775,7 @@
 
 ---
 
-## 🚀 **Current Projects**
+## 🚀 **Featured Projects**
 
 <div align="center">
 
@@ -789,44 +783,53 @@
   <tr>
     <td width="33%">
       <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 25px; border-radius: 15px; margin: 10px; border: 2px solid #7F3FBF; box-shadow: 0 8px 25px rgba(127, 63, 191, 0.4);">
-        <h3 align="center" style="color: #7F3FBF;">⚡ C++ Mastery</h3>
+        <h3 align="center" style="color: #7F3FBF;">⚡ E-Commerce Platform</h3>
         <p align="center">
-          <span style="background: #7F3FBF; color: white; padding: 5px 15px; border-radius: 20px; font-weight: bold;">🟢 ACTIVE</span>
+          <span style="background: #7F3FBF; color: white; padding: 5px 15px; border-radius: 20px; font-weight: bold;">MERN STACK</span>
         </p>
         <ul style="color: #f0f0f0;">
-          <li><span style="color: #00FF88;">✦</span> Advanced Data Structures</li>
-          <li><span style="color: #00FF88;">✦</span> Algorithm Optimization</li>
-          <li><span style="color: #00FF88;">✦</span> OOP Design Patterns</li>
-          <li><span style="color: #00FF88;">✦</span> STL & Templates</li>
+          <li><span style="color: #00FF88;">✦</span> Full-featured shopping cart</li>
+          <li><span style="color: #00FF88;">✦</span> Payment integration (Stripe)</li>
+          <li><span style="color: #00FF88;">✦</span> Admin dashboard</li>
+          <li><span style="color: #00FF88;">✦</span> Real-time notifications</li>
         </ul>
+        <p align="center">
+          <a href="#" style="color: #FFD700; text-decoration: none;">View Live →</a>
+        </p>
       </div>
     </td>
     <td width="33%">
       <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 25px; border-radius: 15px; margin: 10px; border: 2px solid #00C851; box-shadow: 0 8px 25px rgba(0, 200, 81, 0.4);">
-        <h3 align="center" style="color: #00C851;">🌐 Web Development</h3>
+        <h3 align="center" style="color: #00C851;">📊 Task Management System</h3>
         <p align="center">
-          <span style="background: #00C851; color: white; padding: 5px 15px; border-radius: 20px; font-weight: bold;">🟡 BUILDING</span>
+          <span style="background: #00C851; color: white; padding: 5px 15px; border-radius: 20px; font-weight: bold;">REACT + NODE</span>
         </p>
         <ul style="color: #f0f0f0;">
-          <li><span style="color: #00FF88;">✦</span> Portfolio Website</li>
-          <li><span style="color: #00FF88;">✦</span> React Applications</li>
-          <li><span style="color: #00FF88;">✦</span> API Integration</li>
-          <li><span style="color: #00FF88;">✦</span> Responsive Design</li>
+          <li><span style="color: #00FF88;">✦</span> Drag & drop interface</li>
+          <li><span style="color: #00FF88;">✦</span> Team collaboration</li>
+          <li><span style="color: #00FF88;">✦</span> Progress tracking</li>
+          <li><span style="color: #00FF88;">✦</span> File attachments</li>
         </ul>
+        <p align="center">
+          <a href="#" style="color: #FFD700; text-decoration: none;">View Code →</a>
+        </p>
       </div>
     </td>
     <td width="33%">
       <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 25px; border-radius: 15px; margin: 10px; border: 2px solid #4285F4; box-shadow: 0 8px 25px rgba(66, 133, 244, 0.4);">
-        <h3 align="center" style="color: #4285F4;">☁️ Cloud Learning</h3>
+        <h3 align="center" style="color: #4285F4;">🤖 AI Chat Assistant</h3>
         <p align="center">
-          <span style="background: #4285F4; color: white; padding: 5px 15px; border-radius: 20px; font-weight: bold;">🔵 LEARNING</span>
+          <span style="background: #4285F4; color: white; padding: 5px 15px; border-radius: 20px; font-weight: bold;">PYTHON + OPENAI</span>
         </p>
         <ul style="color: #f0f0f0;">
-          <li><span style="color: #00FF88;">✦</span> AWS Services</li>
-          <li><span style="color: #00FF88;">✦</span> Docker Containers</li>
-          <li><span style="color: #00FF88;">✦</span> CI/CD Pipelines</li>
-          <li><span style="color: #00FF88;">✦</span> Deployment Strategies</li>
+          <li><span style="color: #00FF88;">✦</span> Natural language processing</li>
+          <li><span style="color: #00FF88;">✦</span> Context-aware responses</li>
+          <li><span style="color: #00FF88;">✦</span> Multi-language support</li>
+          <li><span style="color: #00FF88;">✦</span> Voice integration</li>
         </ul>
+        <p align="center">
+          <a href="#" style="color: #FFD700; text-decoration: none;">Try Demo →</a>
+        </p>
       </div>
     </td>
   </tr>
@@ -836,7 +839,7 @@
 
 ---
 
-## 🌈 **Skill Matrix**
+## 🌈 **Skill Matrix 2025**
 
 <div align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 30px; border-radius: 20px; margin: 20px 0; border: 2px solid #FF6B6B;">
 
@@ -849,99 +852,99 @@
     <td style="padding: 15px; color: #FFD700; width: 15%;">Expert</td>
     <td style="padding: 15px; width: 60%;">
       <div style="background: #333; border-radius: 10px; overflow: hidden;">
-        <div style="background: linear-gradient(90deg, #00599C 0%, #7F3FBF 100%); width: 92%; padding: 8px; color: white; font-weight: bold; text-align: center;">
-          92%
+        <div style="background: linear-gradient(90deg, #00599C 0%, #7F3FBF 100%); width: 95%; padding: 8px; color: white; font-weight: bold; text-align: center;">
+          95%
         </div>
       </div>
     </td>
   </tr>
   
-  <!-- Data Structures -->
-  <tr style="background: linear-gradient(90deg, rgba(0, 200, 81, 0.2) 0%, rgba(0, 255, 136, 0.2) 100%);">
-    <td style="padding: 15px; color: #00FF88; font-weight: bold;">Data Structures</td>
+  <!-- React & Frontend -->
+  <tr style="background: linear-gradient(90deg, rgba(97, 218, 251, 0.2) 0%, rgba(0, 200, 81, 0.2) 100%);">
+    <td style="padding: 15px; color: #00FF88; font-weight: bold;">React & Frontend</td>
     <td style="padding: 15px; color: #FFD700;">Advanced</td>
     <td style="padding: 15px;">
       <div style="background: #333; border-radius: 10px; overflow: hidden;">
-        <div style="background: linear-gradient(90deg, #00C851 0%, #00FF88 100%); width: 88%; padding: 8px; color: white; font-weight: bold; text-align: center;">
+        <div style="background: linear-gradient(90deg, #61DAFB 0%, #00C851 100%); width: 88%; padding: 8px; color: white; font-weight: bold; text-align: center;">
           88%
         </div>
       </div>
     </td>
   </tr>
   
-  <!-- Web Development -->
-  <tr style="background: linear-gradient(90deg, rgba(255, 107, 107, 0.2) 0%, rgba(255, 142, 83, 0.2) 100%);">
-    <td style="padding: 15px; color: #00FF88; font-weight: bold;">Web Development</td>
+  <!-- Node.js & Backend -->
+  <tr style="background: linear-gradient(90deg, rgba(51, 153, 51, 0.2) 0%, rgba(0, 255, 136, 0.2) 100%);">
+    <td style="padding: 15px; color: #00FF88; font-weight: bold;">Node.js & Backend</td>
     <td style="padding: 15px; color: #FFD700;">Advanced</td>
     <td style="padding: 15px;">
       <div style="background: #333; border-radius: 10px; overflow: hidden;">
-        <div style="background: linear-gradient(90deg, #FF6B6B 0%, #FF8E53 100%); width: 80%; padding: 8px; color: white; font-weight: bold; text-align: center;">
-          80%
+        <div style="background: linear-gradient(90deg, #339933 0%, #00FF88 100%); width: 85%; padding: 8px; color: white; font-weight: bold; text-align: center;">
+          85%
         </div>
       </div>
     </td>
   </tr>
   
-  <!-- Problem Solving -->
-  <tr style="background: linear-gradient(90deg, rgba(127, 63, 191, 0.2) 0%, rgba(65, 41, 145, 0.2) 100%);">
-    <td style="padding: 15px; color: #00FF88; font-weight: bold;">Problem Solving</td>
+  <!-- Database Design -->
+  <tr style="background: linear-gradient(90deg, rgba(71, 162, 72, 0.2) 0%, rgba(65, 41, 145, 0.2) 100%);">
+    <td style="padding: 15px; color: #00FF88; font-weight: bold;">Database Design</td>
     <td style="padding: 15px; color: #FFD700;">Expert</td>
     <td style="padding: 15px;">
       <div style="background: #333; border-radius: 10px; overflow: hidden;">
-        <div style="background: linear-gradient(90deg, #7F3FBF 0%, #412991 100%); width: 90%; padding: 8px; color: white; font-weight: bold; text-align: center;">
+        <div style="background: linear-gradient(90deg, #47A248 0%, #412991 100%); width: 90%; padding: 8px; color: white; font-weight: bold; text-align: center;">
           90%
         </div>
       </div>
     </td>
   </tr>
   
-  <!-- Git & GitHub -->
-  <tr style="background: linear-gradient(90deg, rgba(240, 80, 50, 0.2) 0%, rgba(255, 107, 107, 0.2) 100%);">
-    <td style="padding: 15px; color: #00FF88; font-weight: bold;">Git & GitHub</td>
-    <td style="padding: 15px; color: #FFD700;">Advanced</td>
-    <td style="padding: 15px;">
-      <div style="background: #333; border-radius: 10px; overflow: hidden;">
-        <div style="background: linear-gradient(90deg, #F05032 0%, #FF6B6B 100%); width: 82%; padding: 8px; color: white; font-weight: bold; text-align: center;">
-          82%
-        </div>
-      </div>
-    </td>
-  </tr>
-  
-  <!-- Linux/Unix -->
-  <tr style="background: linear-gradient(90deg, rgba(252, 198, 36, 0.2) 0%, rgba(255, 215, 0, 0.2) 100%);">
-    <td style="padding: 15px; color: #00FF88; font-weight: bold;">Linux/Unix</td>
+  <!-- AWS Cloud -->
+  <tr style="background: linear-gradient(90deg, rgba(255, 153, 0, 0.2) 0%, rgba(255, 107, 107, 0.2) 100%);">
+    <td style="padding: 15px; color: #00FF88; font-weight: bold;">AWS Cloud Services</td>
     <td style="padding: 15px; color: #FFD700;">Intermediate</td>
     <td style="padding: 15px;">
       <div style="background: #333; border-radius: 10px; overflow: hidden;">
-        <div style="background: linear-gradient(90deg, #FCC624 0%, #FFD700 100%); width: 65%; padding: 8px; color: #333; font-weight: bold; text-align: center;">
-          65%
+        <div style="background: linear-gradient(90deg, #FF9900 0%, #FF6B6B 100%); width: 75%; padding: 8px; color: white; font-weight: bold; text-align: center;">
+          75%
         </div>
       </div>
     </td>
   </tr>
   
-  <!-- Cloud Computing -->
-  <tr style="background: linear-gradient(90deg, rgba(66, 133, 244, 0.2) 0%, rgba(52, 168, 83, 0.2) 100%);">
-    <td style="padding: 15px; color: #00FF88; font-weight: bold;">Cloud Computing</td>
+  <!-- Docker & DevOps -->
+  <tr style="background: linear-gradient(90deg, rgba(36, 150, 237, 0.2) 0%, rgba(255, 215, 0, 0.2) 100%);">
+    <td style="padding: 15px; color: #00FF88; font-weight: bold;">Docker & DevOps</td>
     <td style="padding: 15px; color: #FFD700;">Intermediate</td>
     <td style="padding: 15px;">
       <div style="background: #333; border-radius: 10px; overflow: hidden;">
-        <div style="background: linear-gradient(90deg, #4285F4 0%, #34A853 100%); width: 55%; padding: 8px; color: white; font-weight: bold; text-align: center;">
-          55%
+        <div style="background: linear-gradient(90deg, #2496ED 0%, #FFD700 100%); width: 70%; padding: 8px; color: #333; font-weight: bold; text-align: center;">
+          70%
         </div>
       </div>
     </td>
   </tr>
   
-  <!-- Team Collaboration -->
+  <!-- Problem Solving -->
+  <tr style="background: linear-gradient(90deg, rgba(127, 63, 191, 0.2) 0%, rgba(52, 168, 83, 0.2) 100%);">
+    <td style="padding: 15px; color: #00FF88; font-weight: bold;">Problem Solving (DSA)</td>
+    <td style="padding: 15px; color: #FFD700;">Expert</td>
+    <td style="padding: 15px;">
+      <div style="background: #333; border-radius: 10px; overflow: hidden;">
+        <div style="background: linear-gradient(90deg, #7F3FBF 0%, #34A853 100%); width: 92%; padding: 8px; color: white; font-weight: bold; text-align: center;">
+          92%
+        </div>
+      </div>
+    </td>
+  </tr>
+  
+  <!-- Team Leadership -->
   <tr style="background: linear-gradient(90deg, rgba(108, 99, 255, 0.2) 0%, rgba(156, 77, 255, 0.2) 100%);">
-    <td style="padding: 15px; color: #00FF88; font-weight: bold;">Team Collaboration</td>
+    <td style="padding: 15px; color: #00FF88; font-weight: bold;">Team Leadership</td>
     <td style="padding: 15px; color: #FFD700;">Advanced</td>
     <td style="padding: 15px;">
       <div style="background: #333; border-radius: 10px; overflow: hidden;">
-        <div style="background: linear-gradient(90deg, #6C63FF 0%, #9C4DFF 100%); width: 85%; padding: 8px; color: white; font-weight: bold; text-align: center;">
-          85%
+        <div style="background: linear-gradient(90deg, #6C63FF 0%, #9C4DFF 100%); width: 87%; padding: 8px; color: white; font-weight: bold; text-align: center;">
+          87%
         </div>
       </div>
     </td>
@@ -1024,118 +1027,6 @@
 
 ---
 
-## 🌍 **Languages & Quick Facts**
-
-<div align="center">
-
-<table>
-  <tr>
-    <!-- Languages -->
-    <td width="50%">
-      <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 25px; border-radius: 15px; margin: 10px; border: 2px solid #6C63FF; box-shadow: 0 8px 25px rgba(108, 99, 255, 0.3);">
-        <h3 style="color: #6C63FF; margin-bottom: 15px;">🗣️ Languages I Speak</h3>
-        <p>
-          <span style="background: linear-gradient(135deg, #008000 0%, #00C851 100%); color: white; padding: 8px 15px; border-radius: 20px; display: inline-block; margin: 5px;">
-            🇵🇰 Urdu (Native)
-          </span>
-          <span style="background: linear-gradient(135deg, #FF6B35 0%, #FF8E53 100%); color: white; padding: 8px 15px; border-radius: 20px; display: inline-block; margin: 5px;">
-            🇵🇰 Punjabi (Native)
-          </span>
-        </p>
-        <p>
-          <span style="background: linear-gradient(135deg, #4A90E2 0%, #4285F4 100%); color: white; padding: 8px 15px; border-radius: 20px; display: inline-block; margin: 5px;">
-            🇵🇰 Sindhi (Native)
-          </span>
-          <span style="background: linear-gradient(135deg, #FFD700 0%, #FFEAA7 100%); color: #333; padding: 8px 15px; border-radius: 20px; display: inline-block; margin: 5px;">
-            🇬🇧 English (Intermediate)
-          </span>
-        </p>
-      </div>
-    </td>
-    
-    <!-- Quick Stats -->
-<td width="50%">
-  <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 25px; border-radius: 15px; margin: 10px; border: 2px solid #FF6B6B; box-shadow: 0 8px 25px rgba(255, 107, 107, 0.3);">
-    <h3 style="color: #FF6B6B; margin-bottom: 15px;">📊 Quick Stats</h3>
-    <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(2, 1fr); gap: 15px; height: 200px;">
-      <div style="background: rgba(66, 133, 244, 0.2); padding: 15px; border-radius: 10px; border: 1px solid #4285F4; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-        <p style="color: #4285F4; font-weight: bold; margin: 0; text-align: center;">🏢 Internships</p>
-        <p style="color: #FFD700; font-size: 1.8em; margin: 5px 0; font-weight: bold;">3</p>
-        <p style="color: #f0f0f0; font-size: 0.8em; margin: 0;">Completed</p>
-      </div>
-      <div style="background: rgba(0, 200, 81, 0.2); padding: 15px; border-radius: 10px; border: 1px solid #00C851; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-        <p style="color: #00C851; font-weight: bold; margin: 0; text-align: center;">📜 Certifications</p>
-        <p style="color: #FFD700; font-size: 1.8em; margin: 5px 0; font-weight: bold;">10+</p>
-        <p style="color: #f0f0f0; font-size: 0.8em; margin: 0;">Earned</p>
-      </div>
-      <div style="background: rgba(255, 107, 107, 0.2); padding: 15px; border-radius: 10px; border: 1px solid #FF6B6B; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-        <p style="color: #FF6B6B; font-weight: bold; margin: 0; text-align: center;">💻 Projects</p>
-        <p style="color: #FFD700; font-size: 1.8em; margin: 5px 0; font-weight: bold;">15+</p>
-        <p style="color: #f0f0f0; font-size: 0.8em; margin: 0;">Built</p>
-      </div>
-      <div style="background: rgba(127, 63, 191, 0.2); padding: 15px; border-radius: 10px; border: 1px solid #7F3FBF; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-        <p style="color: #7F3FBF; font-weight: bold; margin: 0; text-align: center;">⌨️ Typing Speed</p>
-        <p style="color: #FFD700; font-size: 1.8em; margin: 5px 0; font-weight: bold;">50+</p>
-        <p style="color: #f0f0f0; font-size: 0.8em; margin: 0;">WPM</p>
-      </div>
-    </div>
-  </div>
-</td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 🎯 **Goals for 2025**
-
-<div align="center" style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%); padding: 30px; border-radius: 20px; margin: 20px 0; border: 2px solid #FFD700; box-shadow: 0 10px 30px rgba(255, 215, 0, 0.2);">
-
-<h2 style="color: #FFD700; margin-bottom: 25px; text-shadow: 0 2px 4px rgba(0,0,0,0.5);">🎯 My Goals for 2025</h2>
-
-<table style="width: 100%;">
-  <tr>
-    <td width="33%" align="center">
-      <div style="background: rgba(127, 63, 191, 0.2); padding: 20px; border-radius: 15px; border: 2px solid #7F3FBF;">
-        <h3 style="color: #7F3FBF;">🚀 Technical Goals</h3>
-        <ul style="color: #f0f0f0; text-align: left;">
-          <li><span style="color: #00FF88;">✓</span> Master Advanced C++</li>
-          <li><span style="color: #00FF88;">✓</span> Learn React Native</li>
-          <li><span style="color: #00FF88;">✓</span> AWS Certification</li>
-          <li><span style="color: #00FF88;">✓</span> Build 10+ Projects</li>
-        </ul>
-      </div>
-    </td>
-    <td width="33%" align="center">
-      <div style="background: rgba(0, 200, 81, 0.2); padding: 20px; border-radius: 15px; border: 2px solid #00C851;">
-        <h3 style="color: #00C851;">💼 Career Goals</h3>
-        <ul style="color: #f0f0f0; text-align: left;">
-          <li><span style="color: #00FF88;">✓</span> Get Tech Internship</li>
-          <li><span style="color: #00FF88;">✓</span> Contribute to Open Source</li>
-          <li><span style="color: #00FF88;">✓</span> Attend Tech Conferences</li>
-          <li><span style="color: #00FF88;">✓</span> Network with Professionals</li>
-        </ul>
-      </div>
-    </td>
-    <td width="33%" align="center">
-      <div style="background: rgba(66, 133, 244, 0.2); padding: 20px; border-radius: 15px; border: 2px solid #4285F4;">
-        <h3 style="color: #4285F4;">📚 Learning Goals</h3>
-        <ul style="color: #f0f0f0; text-align: left;">
-          <li><span style="color: #00FF88;">✓</span> Solve 300+ DSA Problems</li>
-          <li><span style="color: #00FF88;">✓</span> Learn System Design</li>
-          <li><span style="color: #00FF88;">✓</span> Study Design Patterns</li>
-          <li><span style="color: #00FF88;">✓</span> Improve Problem Solving</li>
-        </ul>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## 🤝 **Let's Connect!**
 
 <div align="center" style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%); padding: 40px; border-radius: 25px; margin: 20px 0; border: 3px solid #7F3FBF; box-shadow: 0 15px 35px rgba(127, 63, 191, 0.4);">
@@ -1145,33 +1036,18 @@
 
 <br><br>
 
-<!-- Colorful Contact Cards -->
-<table width="100%">
-  <tr>
-    <!-- Email -->
-    <td width="25%" align="center">
-      <a href="mailto:2arif2143055@gmail.com" style="text-decoration: none;">
-        <div style="background: linear-gradient(135deg, #D14836 0%, #EA4335 100%); padding: 25px; border-radius: 15px; transition: transform 0.3s, box-shadow 0.3s; box-shadow: 0 8px 20px rgba(209, 72, 54, 0.4);" 
-             onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 15px 30px rgba(209, 72, 54, 0.6)'"
-             onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 20px rgba(209, 72, 54, 0.4)'">
-          <img src="https://img.icons8.com/color/96/000000/gmail.png" width="64" height="64" alt="Email" />
-          <br>
-          <strong style="color: white; font-size: 1.2em;">Email</strong>
-        </div>
-      </a>
-    </td>
-    
+<!-- Contact Cards Container -->
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   
   <!-- Email Card -->
-  <a href="mailto:2arif2143055@gmail.com" style="text-decoration: none; width: 22%; min-width: 150px;">
+  <a href="mailto:arif.ali@fastmail.com" style="text-decoration: none; width: 22%; min-width: 150px;">
     <div style="background: linear-gradient(135deg, #D14836 0%, #EA4335 100%); padding: 30px 20px; border-radius: 15px; transition: all 0.3s ease; box-shadow: 0 8px 20px rgba(209, 72, 54, 0.4); text-align: center;"
          onmouseover="this.style.transform='translateY(-10px) scale(1.05)'; this.style.boxShadow='0 15px 30px rgba(209, 72, 54, 0.6)'"
          onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 20px rgba(209, 72, 54, 0.4)'">
       <img src="https://img.icons8.com/color/96/000000/gmail.png" width="70" height="70" alt="Email" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));" />
       <br><br>
       <strong style="color: white; font-size: 1.2em; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">Email</strong>
-      <p style="color: rgba(255,255,255,0.9); font-size: 0.9em; margin-top: 5px;">Click to email me</p>
+      <p style="color: rgba(255,255,255,0.9); font-size: 0.9em; margin-top: 5px;">arif.ali@fastmail.com</p>
     </div>
   </a>
   
@@ -1183,7 +1059,7 @@
       <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="70" height="70" alt="LinkedIn" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));" />
       <br><br>
       <strong style="color: white; font-size: 1.2em; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">LinkedIn</strong>
-      <p style="color: rgba(255,255,255,0.9); font-size: 0.9em; margin-top: 5px;">Connect professionally</p>
+      <p style="color: rgba(255,255,255,0.9); font-size: 0.9em; margin-top: 5px;">/in/arif-ali</p>
     </div>
   </a>
   
@@ -1195,35 +1071,33 @@
       <img src="https://img.icons8.com/color/96/000000/github.png" width="70" height="70" alt="GitHub" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));" />
       <br><br>
       <strong style="color: white; font-size: 1.2em; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">GitHub</strong>
-      <p style="color: rgba(255,255,255,0.9); font-size: 0.9em; margin-top: 5px;">View my projects</p>
+      <p style="color: rgba(255,255,255,0.9); font-size: 0.9em; margin-top: 5px;">@ArifAli8866</p>
     </div>
   </a>
   
   <!-- Portfolio Card -->
-  <a href="https://portfolio-lovat-five-67.vercel.app" style="text-decoration: none; width: 22%; min-width: 150px;">
+  <a href="https://arif-ali-portfolio.vercel.app" style="text-decoration: none; width: 22%; min-width: 150px;">
     <div style="background: linear-gradient(135deg, #000000 0%, #333333 100%); padding: 30px 20px; border-radius: 15px; transition: all 0.3s ease; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4); text-align: center;"
          onmouseover="this.style.transform='translateY(-10px) scale(1.05)'; this.style.boxShadow='0 15px 30px rgba(0, 0, 0, 0.6)'"
          onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 20px rgba(0, 0, 0, 0.4)'">
       <img src="https://img.icons8.com/color/96/000000/portfolio.png" width="70" height="70" alt="Portfolio" style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.2));" />
       <br><br>
       <strong style="color: white; font-size: 1.2em; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">Portfolio</strong>
-      <p style="color: rgba(255,255,255,0.9); font-size: 0.9em; margin-top: 5px;">See my work</p>
+      <p style="color: rgba(255,255,255,0.9); font-size: 0.9em; margin-top: 5px;">View my work</p>
     </div>
   </a>
   
 </div>
-  </tr>
-</table>
 
 <br><br>
 
 <!-- Interactive Message -->
 <div style="background: linear-gradient(135deg, rgba(127, 63, 191, 0.2) 0%, rgba(255, 107, 107, 0.2) 100%); padding: 20px; border-radius: 15px; border: 2px dashed #FFD700;">
   <p style="color: #FFD700; text-align: center; font-size: 1.1em;">
-    💡 <strong>Looking for:</strong> Internships | Collaborative Projects | Hackathons | Learning Opportunities
+    💡 <strong>Looking for:</strong> Summer 2025 Internships | Research Collaborations | Open Source Projects
   </p>
   <p style="color: #00FF88; text-align: center; font-size: 1.1em;">
-    📍 <strong>Location:</strong> Islamabad, Pakistan
+    📍 <strong>Based in:</strong> Islamabad, Pakistan | Open to Remote Opportunities
   </p>
 </div>
 
