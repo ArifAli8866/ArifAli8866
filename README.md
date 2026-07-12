@@ -1,7 +1,5 @@
 </div>
 
----
-
 <!-- ══════════════════════════════════════════════════════════════════ -->
 <!--                    👨‍💻 ABOUT ME SECTION 👨‍💻                         -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
@@ -197,7 +195,7 @@ markdown
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
-```yaml
+`yaml
 👤  Name        : Arif Ali
 📍  Location    : Islamabad, Pakistan 🇵🇰
 🎓  Degree      : Software Engineering (In Progress)
