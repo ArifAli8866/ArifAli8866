@@ -27,7 +27,7 @@
 
 ## About
 
-```yaml
+``yaml
 name:        Arif Ali
 location:    Islamabad, Pakistan
 degree:      Software Engineering (in progress)
@@ -35,7 +35,6 @@ focus:       C++ · Rust · Systems Programming · Full-Stack Web
 contributor: Apache RocketMQ · RocketMQ-Rust · EventMesh
 currently:   Looking for SWE roles & open-source collaboration
 fun_fact:    Converts coffee into commits ☕→💻
-```
 
 <br/>
 
