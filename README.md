@@ -2,102 +2,27 @@
 
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=280&section=header&text=ARIF%20ALI&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20-%20Systems%20%26%20Full-Stack%20-%20Apache%20Contributor&descSize=18&descAlignY=58&descColor=E0D5FF" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=A78BFA&background=00000000&center=true&vCenter=true&width=800&height=50&lines=Building+systems+in+C%2B%2B+and+Rust;Contributing+to+Apache+RocketMQ+%26+EventMesh;Full-Stack+Developer+%7C+Cloud+%26+DevOps;Based+in+Islamabad%2C+Pakistan" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/-Portfolio-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white" alt="badge"/>
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="badge"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="badge"/>
-<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="badge"/>
-
-<sub>
-<a href="https://portfolio-lovat-five-67.vercel.app">portfolio</a> ·
-<a href="https://linkedin.com/in/arif-ali-23a38032a">linkedin</a> ·
-<a href="https://github.com/ArifAli8866">github</a> ·
-<a href="mailto:2arif2143055@gmail.com">email</a>
-</sub>
+<!-- 🎬 HERO — boy developer at workstation + animated name + cycling roles -->
+<img src="./hero.svg?v=1" alt="Hi, I'm Arif Ali — Systems & Full-Stack Software Engineer" width="100%"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ArifAli8866&color=8E2DE2&style=for-the-badge&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/ArifAli8866?color=4A00E0&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00C9FF?style=for-the-badge" />
+<!-- 💻 LEFT: systems & web   •   ⚡ RIGHT: life beyond code -->
+<img src="./about-life.svg?v=1" alt="What I build, systems architecture, and life beyond code" width="100%"/>
+
+<br/><br/>
+
+<!-- ⚛️ TECH ARSENAL & ORBIT -->
+<img src="./stack.svg?v=1" alt="Tech Arsenal & Orbiting Stack" width="100%"/>
+
+<br/><br/>
+
+<!-- 🪪 DEVELOPER ID + DASHBOARD -->
+<img src="./id-dashboard.svg?v=1" alt="Developer ID and Dashboard" width="100%"/>
+
+<br/><br/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header" width="100%"/>
-
-<br/>
-
-## ⟡ About
-
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-```yaml
-name:        Arif Ali
-location:    Islamabad, Pakistan
-degree:      Software Engineering (in progress)
-focus:       C++ · Rust · Systems Programming · Full-Stack Web
-contributor: Apache RocketMQ · RocketMQ-Rust · EventMesh
-currently:   Looking for SWE roles & open-source collaboration
-fun_fact:    Converts coffee into commits, one PR at a time
-```
-
-<br clear="right"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header" width="100%"/>
-
-## ⟡ Tech Arsenal
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=cpp,rust,java,js,ts,python,go&theme=dark" />
-
-<br/><br/>
-
-**Web & Frameworks**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,tailwind,html,css&theme=dark" />
-
-<br/><br/>
-
-**Cloud, DevOps & Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,linux,nginx,github,jenkins&theme=dark" />
-
-<br/><br/>
-
-**Data & Messaging**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,postgresql,kafka,firebase&theme=dark" />
-
-</div>
-
-<br/>
-
-<details>
-<summary><b>⟡ Full proficiency breakdown</b></summary>
-<br/>
-
-| Category | Stack |
-|---|---|
-| **Languages** | C++ `Expert` · Rust `Advanced` · Java `Advanced` · JS/TS `Expert` · Python `Intermediate` · Go `Learning` |
-| **Frontend** | React `Advanced` · Next.js `Intermediate` · Tailwind `Advanced` |
-| **Backend** | Node.js `Advanced` · Express `Advanced` · Spring `Intermediate` |
-| **Databases** | MySQL · MongoDB · PostgreSQL · Redis |
-| **DevOps / Cloud** | Docker · Kubernetes · AWS (EC2, S3, Lambda, RDS) · Linux |
-| **Messaging** | Apache Kafka · Apache RocketMQ |
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header" width="100%"/>
 
 ## ⟡ Apache Open Source
 
@@ -145,33 +70,7 @@ Event-driven application runtime for distributed microservices.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header" width="100%"/>
-
-## ⟡ GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ArifAli8866&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=00C9FF&text_color=c9d1d9&ring_color=8E2DE2&count_private=true&include_all_commits=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArifAli8866&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=00C9FF&currStreakLabel=A78BFA" height="165" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifAli8866&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" height="190" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArifAli8866&theme=radical&utcOffset=5" height="190" />
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArifAli8866&bg_color=0d1117&color=00C9FF&line=8E2DE2&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity&radius=6)
-
-</div>
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ArifAli8866&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8&no-bg=true)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header" width="100%"/>
+<br/>
 
 ## ⟡ Experience
 
@@ -202,9 +101,9 @@ Event-driven application runtime for distributed microservices.
 </td></tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header" width="100%"/>
+<br/>
 
-## ⟡ 2025 Roadmap
+## ⟡ 2025–2026 Roadmap
 
 | Goal | Progress | Target |
 |---|:---:|:---:|
@@ -215,11 +114,19 @@ Event-driven application runtime for distributed microservices.
 | Land a Software Engineering role | `Actively applying` | 2025 |
 | Launch a technical blog | `Planning` | Q2 2025 |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header" width="100%"/>
-
-## ⟡ Contribution Snake
+<br/>
 
 <div align="center">
+
+## 🌃 My Contribution City
+
+*Every commit builds another tower — rebuilt automatically every day.*
+
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
+
+<br/><br/>
+
+## 🐍 Contribution Grid Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArifAli8866/ArifAli8866/output/github-contribution-grid-snake-dark.svg" />
@@ -227,29 +134,24 @@ Event-driven application runtime for distributed microservices.
   <img alt="snake animation" src="https://raw.githubusercontent.com/ArifAli8866/ArifAli8866/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<br/>
-<sub>⚠️ Requires one-time setup — see <code>snake.yml</code> below</sub>
+<br/><br/>
 
-</div>
+<!-- 💌 LET'S CONNECT -->
+<img src="./connect.svg?v=1" alt="Let's connect" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header" width="100%"/>
+<a href="https://github.com/ArifAli8866"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/arif-ali-23a38032a"><img src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=0d0e16" alt="LinkedIn"/></a>
+<a href="https://portfolio-lovat-five-67.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:2arif2143055@gmail.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0d0e16" alt="Email"/></a>
 
-## ⟡ Let's Connect
+<br/><br/>
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ArifAli8866&color=8E2DE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/ArifAli8866?color=4A00E0&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00C9FF?style=for-the-badge" alt="Status"/>
 
-Open to **Software Engineering roles**, **open-source collaboration**, and **hackathons**.
+<br/><br/>
 
-<a href="mailto:2arif2143055@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/></a>
-<a href="https://linkedin.com/in/arif-ali-23a38032a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/></a>
-<a href="https://portfolio-lovat-five-67.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white" height="40"/></a>
+**Converts coffee into commits, one PR at a time.** ☕⚡
 
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=150&section=footer" width="100%"/>
-
-<div align="center">
-<sub>Islamabad, Pakistan · Open to remote work worldwide</sub>
 </div>
