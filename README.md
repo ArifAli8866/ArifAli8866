@@ -22,101 +22,24 @@
 
 <br/><br/>
 
-</div>
+<!-- ⟡ APACHE OPEN SOURCE -->
+<img src="./open-source.svg?v=1" alt="Apache Open Source Contributions" width="100%"/>
 
-## ⟡ Apache Open Source
+<a href="https://github.com/mxsm/rocketmq-rust"><img src="https://img.shields.io/badge/RocketMQ--Rust-Active%20Contributor-f74c00?style=for-the-badge&logo=rust&logoColor=white" alt="RocketMQ Rust"/></a>
+<a href="https://github.com/apache/rocketmq"><img src="https://img.shields.io/badge/Apache%20RocketMQ-Active%20Contributor-007396?style=for-the-badge&logo=apache&logoColor=white" alt="Apache RocketMQ"/></a>
+<a href="https://github.com/apache/eventmesh"><img src="https://img.shields.io/badge/Apache%20EventMesh-Active%20Contributor-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Apache EventMesh"/></a>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top" align="center">
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+<!-- ⟡ PROFESSIONAL EXPERIENCE -->
+<img src="./experience.svg?v=1" alt="Professional Experience & Internships" width="100%"/>
 
-**RocketMQ Rust**
+<br/><br/>
 
-Rust implementation of Apache RocketMQ — memory-safe, high-throughput messaging.
+<!-- ⟡ 2025–2026 ROADMAP -->
+<img src="./roadmap.svg?v=1" alt="2025–2026 Engineering Roadmap" width="100%"/>
 
-`Active Contributor`
-
-**[→ mxsm/rocketmq-rust](https://github.com/mxsm/rocketmq-rust)**
-
-</td>
-<td width="33%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=apache&logoColor=white"/>
-
-**Apache RocketMQ**
-
-Distributed messaging and streaming platform used at massive scale.
-
-`Active Contributor`
-
-**[→ apache/rocketmq](https://github.com/apache/rocketmq)**
-
-</td>
-<td width="33%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-
-**Apache EventMesh**
-
-Event-driven application runtime for distributed microservices.
-
-`Active Contributor`
-
-**[→ apache/eventmesh](https://github.com/apache/eventmesh)**
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## ⟡ Experience
-
-<table width="100%">
-<tr><td>
-
-**C++ Developer Intern** · CodeAlpha · Remote &nbsp; `Mar–Apr 2025`
-- Developed OOP-based C++ programs and advanced data structures
-- Implemented optimized algorithms for performance-critical systems
-- Deepened understanding of memory management and pointer semantics
-
-</td></tr>
-<tr><td>
-
-**Web Development Intern** · Codveda Technologies · Remote &nbsp; `Apr–May 2025`
-- Built responsive interfaces with HTML5, CSS3, and modern JavaScript
-- Improved front-end load times by ~40% through optimization
-- Integrated React components with REST APIs
-
-</td></tr>
-<tr><td>
-
-**Cloud Computing Intern** · Encryptix · Remote &nbsp; `May–Jun 2025`
-- Assisted with AWS deployments (EC2, S3, Lambda, RDS)
-- Configured monitoring and alerting with CloudWatch
-- Learned Docker containerization and basic Kubernetes orchestration
-
-</td></tr>
-</table>
-
-<br/>
-
-## ⟡ 2025–2026 Roadmap
-
-| Goal | Progress | Target |
-|---|:---:|:---:|
-| Master Rust for systems work | `In progress` | Q2 2025 |
-| AWS Solutions Architect certification | `In progress` | Q3 2025 |
-| Kubernetes CKA certification | `Starting` | Q3 2025 |
-| Apache Committer status | `In progress` | Q4 2025 |
-| Land a Software Engineering role | `Actively applying` | 2025 |
-| Launch a technical blog | `Planning` | Q2 2025 |
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 ## 🌃 My Contribution City
 
